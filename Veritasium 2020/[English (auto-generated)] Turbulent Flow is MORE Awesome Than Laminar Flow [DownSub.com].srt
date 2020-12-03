@@ -1,0 +1,1740 @@
+1
+00:00:00,000 --> 00:00:02,129
+a portion of this video was sponsored by
+
+2
+00:00:02,129 --> 00:00:05,700
+Cottonelle this is like a scientist trap
+
+3
+00:00:05,700 --> 00:00:08,940
+it certainly is case in point that Space
+
+4
+00:00:08,940 --> 00:00:17,190
+Station commander Chris Hatfield what
+
+5
+00:00:17,190 --> 00:00:20,070
+this isn't is turbulent nope
+
+6
+00:00:20,070 --> 00:00:23,039
+this is largely laminar flow did
+
+7
+00:00:23,039 --> 00:00:26,160
+somebody say laminar flow if you didn't
+
+8
+00:00:26,160 --> 00:00:28,680
+know Destin from smarter every day loves
+
+9
+00:00:28,680 --> 00:00:31,230
+laminar flow where all the particles of
+
+10
+00:00:31,230 --> 00:00:32,940
+the fluid moved parallel to each other
+
+11
+00:00:32,940 --> 00:00:36,149
+in organized layers or laminae look at a
+
+12
+00:00:36,149 --> 00:00:40,530
+bubble where I live people will roll
+
+13
+00:00:40,530 --> 00:00:42,300
+down the window in their car when they
+
+14
+00:00:42,300 --> 00:00:43,260
+see me in the street and they will
+
+15
+00:00:43,260 --> 00:00:45,120
+scream turbulent flow is better to me
+
+16
+00:00:45,120 --> 00:00:48,059
+that happens that happens in Huntsville
+
+17
+00:00:48,059 --> 00:00:50,190
+yeah here's my argument to you Destin
+
+18
+00:00:50,190 --> 00:00:54,930
+that laminar flow is easier to love okay
+
+19
+00:00:54,930 --> 00:00:56,879
+but turbulent flow if you make that
+
+20
+00:00:56,879 --> 00:01:02,600
+effort is actually more awesome um no
+
+21
+00:01:02,600 --> 00:01:04,470
+turbulent flow is not better than
+
+22
+00:01:04,470 --> 00:01:07,229
+laminar it is awesome but it is not
+
+23
+00:01:07,229 --> 00:01:09,960
+better than laminar flow can I just say
+
+24
+00:01:09,960 --> 00:01:11,970
+I get it I get where Destin is coming
+
+25
+00:01:11,970 --> 00:01:12,240
+from
+
+26
+00:01:12,240 --> 00:01:15,000
+I mean laminar flow is pretty and it's
+
+27
+00:01:15,000 --> 00:01:18,000
+well behaved meanwhile turbulent flow is
+
+28
+00:01:18,000 --> 00:01:21,090
+a mess in more ways than one I mean
+
+29
+00:01:21,090 --> 00:01:23,790
+there isn't even a universally
+
+30
+00:01:23,790 --> 00:01:26,009
+agreed-upon definition of turbulent flow
+
+31
+00:01:26,009 --> 00:01:31,829
+you know it when you see it yeah so
+
+32
+00:01:31,829 --> 00:01:34,409
+instead of a formal definition in this
+
+33
+00:01:34,409 --> 00:01:36,689
+video we are going to build a checklist
+
+34
+00:01:36,689 --> 00:01:39,689
+of characteristics of turbulent flow so
+
+35
+00:01:39,689 --> 00:01:41,790
+that you know it when you see it and the
+
+36
+00:01:41,790 --> 00:01:43,860
+first characteristic of turbulent flow
+
+37
+00:01:43,860 --> 00:01:47,070
+is that it is unpredictable that's right
+
+38
+00:01:47,070 --> 00:01:48,570
+turbulent flow is messy it's
+
+39
+00:01:48,570 --> 00:01:50,570
+unpredictable it is literally
+
+40
+00:01:50,570 --> 00:01:53,520
+definitionally chaotic meaning it is
+
+41
+00:01:53,520 --> 00:01:55,200
+sensitively dependent on initial
+
+42
+00:01:55,200 --> 00:01:57,060
+conditions so if you were to change
+
+43
+00:01:57,060 --> 00:01:59,670
+something somewhere in the fluid well it
+
+44
+00:01:59,670 --> 00:02:02,189
+would completely change the final state
+
+45
+00:02:02,189 --> 00:02:04,469
+and that means you can't make
+
+46
+00:02:04,469 --> 00:02:06,840
+predictions with turbulent flow all you
+
+47
+00:02:06,840 --> 00:02:09,179
+can do is speak about it statistically I
+
+48
+00:02:09,179 --> 00:02:11,220
+mean there are the navier-stokes
+
+49
+00:02:11,220 --> 00:02:12,989
+equations which are meant to govern all
+
+50
+00:02:12,989 --> 00:02:13,790
+fluid flow
+
+51
+00:02:13,790 --> 00:02:16,320
+including turbulence but they are
+
+52
+00:02:16,320 --> 00:02:19,200
+notoriously difficult to solve in fact
+
+53
+00:02:19,200 --> 00:02:21,630
+there is a million-dollar prize for
+
+54
+00:02:21,630 --> 00:02:23,340
+anyone who can even make progress
+
+55
+00:02:23,340 --> 00:02:25,470
+towards getting insight into these
+
+56
+00:02:25,470 --> 00:02:28,410
+equations that would explain turbulence
+
+57
+00:02:28,410 --> 00:02:31,260
+so yeah I get it turbulence is a mess
+
+58
+00:02:31,260 --> 00:02:33,810
+laminar flow is easy to love it's like
+
+59
+00:02:33,810 --> 00:02:34,680
+the belle of the ball
+
+60
+00:02:34,680 --> 00:02:37,200
+whereas turbulent flow is kind of an
+
+61
+00:02:37,200 --> 00:02:39,960
+ugly duckling but in this video I want
+
+62
+00:02:39,960 --> 00:02:42,090
+to transform that ugly duckling into a
+
+63
+00:02:42,090 --> 00:02:44,850
+beautiful swan I want you to see that if
+
+64
+00:02:44,850 --> 00:02:48,060
+you make the effort the love you can
+
+65
+00:02:48,060 --> 00:02:49,710
+have for turbulent flow is so much
+
+66
+00:02:49,710 --> 00:02:52,440
+deeper and richer than that superficial
+
+67
+00:02:52,440 --> 00:02:58,950
+fling you have with laminar flow you are
+
+68
+00:02:58,950 --> 00:03:00,810
+looking at the motion of air in a room
+
+69
+00:03:00,810 --> 00:03:04,590
+which is generally turbulent the physics
+
+70
+00:03:04,590 --> 00:03:06,690
+girl and friends imaged a cross-section
+
+71
+00:03:06,690 --> 00:03:09,000
+of air using a fog machine and a laser
+
+72
+00:03:09,000 --> 00:03:10,920
+sheet one of the defining
+
+73
+00:03:10,920 --> 00:03:12,750
+characteristics of turbulent flow is
+
+74
+00:03:12,750 --> 00:03:14,940
+that it consists of many interacting
+
+75
+00:03:14,940 --> 00:03:17,820
+swirls of fluid also called Eddie's or
+
+76
+00:03:17,820 --> 00:03:21,930
+vortices these Eddie's span a huge range
+
+77
+00:03:21,930 --> 00:03:24,420
+of sizes in the case of air in a room
+
+78
+00:03:24,420 --> 00:03:27,150
+from the micrometer scale all the way up
+
+79
+00:03:27,150 --> 00:03:30,210
+to meters in diameter can you think of
+
+80
+00:03:30,210 --> 00:03:31,680
+another physical phenomenon that
+
+81
+00:03:31,680 --> 00:03:34,320
+exhibits structures over such a range of
+
+82
+00:03:34,320 --> 00:03:37,860
+sizes but turbulence can be much larger
+
+83
+00:03:37,860 --> 00:03:40,650
+the surface of the Sun is turbulent as
+
+84
+00:03:40,650 --> 00:03:43,770
+hot plasma rises to the surface in huge
+
+85
+00:03:43,770 --> 00:03:46,200
+convection currents the cell like
+
+86
+00:03:46,200 --> 00:03:48,510
+structures here are roughly the size of
+
+87
+00:03:48,510 --> 00:03:51,570
+Texas larger still are the turbulent
+
+88
+00:03:51,570 --> 00:03:54,270
+swirls on Jupiter the Great Red Spot is
+
+89
+00:03:54,270 --> 00:03:57,330
+a vortex bigger than the earth the rest
+
+90
+00:03:57,330 --> 00:03:59,040
+of the planet is covered in Eddie's of
+
+91
+00:03:59,040 --> 00:04:01,500
+all sizes down to the limits of our
+
+92
+00:04:01,500 --> 00:04:03,300
+ability to measure them from orbiting
+
+93
+00:04:03,300 --> 00:04:07,110
+spacecraft even the dust between the
+
+94
+00:04:07,110 --> 00:04:11,130
+stars is in turbulent motion it makes
+
+95
+00:04:11,130 --> 00:04:13,440
+radio sources twinkle the same way the
+
+96
+00:04:13,440 --> 00:04:15,209
+turbulence in our atmosphere makes stars
+
+97
+00:04:15,209 --> 00:04:17,850
+twinkle a stunning example of this
+
+98
+00:04:17,850 --> 00:04:20,250
+turbulent dust is the Orion Nebula
+
+99
+00:04:20,250 --> 00:04:23,300
+twenty four light years across
+
+100
+00:04:23,300 --> 00:04:27,130
+turbulence is cosmic in contrast
+
+101
+00:04:27,130 --> 00:04:31,390
+laminar flow has to be small this was
+
+102
+00:04:31,390 --> 00:04:34,750
+shown experimentally in 1883 Osborne
+
+103
+00:04:34,750 --> 00:04:36,520
+Reynolds passed water through a glass
+
+104
+00:04:36,520 --> 00:04:38,950
+pipe at different flow rates and to
+
+105
+00:04:38,950 --> 00:04:40,660
+visualize the flow he introduced a
+
+106
+00:04:40,660 --> 00:04:42,490
+stream of dye in the middle of the pipe
+
+107
+00:04:42,490 --> 00:04:45,100
+he found at low flow rates the dye
+
+108
+00:04:45,100 --> 00:04:47,530
+remained in a steady stream laminar flow
+
+109
+00:04:47,530 --> 00:04:50,410
+but as the flow rate increased the dye
+
+110
+00:04:50,410 --> 00:04:52,480
+began to oscillate back and forth and
+
+111
+00:04:52,480 --> 00:04:55,030
+beyond a certain critical point the dye
+
+112
+00:04:55,030 --> 00:04:57,460
+became completely diffused throughout
+
+113
+00:04:57,460 --> 00:05:00,600
+the pipe this was turbulent flow
+
+114
+00:05:00,600 --> 00:05:02,920
+Reynolds had observed another essential
+
+115
+00:05:02,920 --> 00:05:05,170
+characteristic of turbulence it is
+
+116
+00:05:05,170 --> 00:05:07,720
+diffusive meaning it mixes things
+
+117
+00:05:07,720 --> 00:05:10,390
+together turbulent flows caused things
+
+118
+00:05:10,390 --> 00:05:13,540
+to spread out not only die but also heat
+
+119
+00:05:13,540 --> 00:05:16,510
+or momentum they all become distributed
+
+120
+00:05:16,510 --> 00:05:19,480
+throughout the fluid Reynolds found the
+
+121
+00:05:19,480 --> 00:05:21,160
+transition to turbulence was not only
+
+122
+00:05:21,160 --> 00:05:23,440
+dependent on the flow rate turbulence
+
+123
+00:05:23,440 --> 00:05:26,290
+occurred more readily in wider pipes but
+
+124
+00:05:26,290 --> 00:05:28,420
+less readily with more viscous fluids
+
+125
+00:05:28,420 --> 00:05:31,270
+things like honey he calculated a
+
+126
+00:05:31,270 --> 00:05:33,100
+dimensionless quantity now called the
+
+127
+00:05:33,100 --> 00:05:35,530
+Reynolds number equal to the velocity of
+
+128
+00:05:35,530 --> 00:05:37,300
+the fluid times the characteristic
+
+129
+00:05:37,300 --> 00:05:39,430
+length say the diameter of the pipe
+
+130
+00:05:39,430 --> 00:05:41,860
+divided by the kinematic viscosity of
+
+131
+00:05:41,860 --> 00:05:43,750
+the fluid which you can think of as a
+
+132
+00:05:43,750 --> 00:05:47,140
+measure of its internal friction high
+
+133
+00:05:47,140 --> 00:05:49,330
+Reynolds numbers result in turbulent
+
+134
+00:05:49,330 --> 00:05:53,470
+flow have a look at the smoke rising
+
+135
+00:05:53,470 --> 00:05:56,200
+from a candle flame at first its laminar
+
+136
+00:05:56,200 --> 00:05:58,660
+but the hot gases accelerate as they
+
+137
+00:05:58,660 --> 00:06:00,820
+rise and once the Reynolds number gets
+
+138
+00:06:00,820 --> 00:06:03,070
+too big the smoke transitions to
+
+139
+00:06:03,070 --> 00:06:07,120
+turbulence so laminar flow only occurs
+
+140
+00:06:07,120 --> 00:06:09,520
+at low Reynolds numbers which means it
+
+141
+00:06:09,520 --> 00:06:12,910
+is limited to low speeds small sizes or
+
+142
+00:06:12,910 --> 00:06:15,520
+viscous fluids this is why in our
+
+143
+00:06:15,520 --> 00:06:17,620
+everyday lives most fluid flow is
+
+144
+00:06:17,620 --> 00:06:20,010
+turbulent turbulent flow is the rule
+
+145
+00:06:20,010 --> 00:06:23,440
+laminar flow is the exception the air
+
+146
+00:06:23,440 --> 00:06:25,120
+flowing in and out of your lungs is
+
+147
+00:06:25,120 --> 00:06:26,890
+turbulent the blood pumping through your
+
+148
+00:06:26,890 --> 00:06:29,830
+aorta is turbulent the atmosphere near
+
+149
+00:06:29,830 --> 00:06:31,690
+the surface of the earth is turbulent as
+
+150
+00:06:31,690 --> 00:06:34,300
+is the air flow in and around cumulus
+
+151
+00:06:34,300 --> 00:06:37,060
+and cumulonimbus clouds in fact modeling
+
+152
+00:06:37,060 --> 00:06:39,010
+shows that turbulent flow plays an
+
+153
+00:06:39,010 --> 00:06:40,870
+essential role in the formation of
+
+154
+00:06:40,870 --> 00:06:44,050
+rain drops so turbulence literally makes
+
+155
+00:06:44,050 --> 00:06:50,740
+it rain I'm going to create turbulence
+
+156
+00:06:50,740 --> 00:06:54,850
+in this Rio scopic fluid Rio scopic just
+
+157
+00:06:54,850 --> 00:06:57,340
+means that it shows the currents and it
+
+158
+00:06:57,340 --> 00:06:59,170
+does that by having these tiny particles
+
+159
+00:06:59,170 --> 00:07:02,170
+suspended in the water but what you
+
+160
+00:07:02,170 --> 00:07:03,970
+notice if you look at this turbulent
+
+161
+00:07:03,970 --> 00:07:07,390
+flow is that it gradually dies away and
+
+162
+00:07:07,390 --> 00:07:09,220
+that's because another characteristic of
+
+163
+00:07:09,220 --> 00:07:11,680
+turbulence is that it's dissipative that
+
+164
+00:07:11,680 --> 00:07:13,810
+is it takes in energy at the largest
+
+165
+00:07:13,810 --> 00:07:16,030
+scales at these big Eddie's and then
+
+166
+00:07:16,030 --> 00:07:18,040
+that energy gets transferred down to
+
+167
+00:07:18,040 --> 00:07:20,740
+smaller and smaller Eddie's until on the
+
+168
+00:07:20,740 --> 00:07:22,870
+smallest scales that energy gets
+
+169
+00:07:22,870 --> 00:07:25,810
+dissipated to the fluid as heat and so
+
+170
+00:07:25,810 --> 00:07:28,150
+in order to maintain turbulence you need
+
+171
+00:07:28,150 --> 00:07:30,550
+a constant source of energy something to
+
+172
+00:07:30,550 --> 00:07:32,410
+keep generating those large Eddie's
+
+173
+00:07:32,410 --> 00:07:34,090
+which is why we often think about
+
+174
+00:07:34,090 --> 00:07:36,490
+turbulence around objects that move
+
+175
+00:07:36,490 --> 00:07:38,620
+through a fluid things like planes cars
+
+176
+00:07:38,620 --> 00:07:41,050
+or boats so I want to think about the
+
+177
+00:07:41,050 --> 00:07:43,870
+interface between an object and the
+
+178
+00:07:43,870 --> 00:07:46,600
+fluid so picture fluid flowing over a
+
+179
+00:07:46,600 --> 00:07:49,390
+flat surface far away from the surface
+
+180
+00:07:49,390 --> 00:07:51,820
+the fluid isn't affected it keeps moving
+
+181
+00:07:51,820 --> 00:07:53,530
+with what will call its free stream
+
+182
+00:07:53,530 --> 00:07:56,620
+velocity but right at the surface due to
+
+183
+00:07:56,620 --> 00:07:59,500
+friction and adhesion the molecules of
+
+184
+00:07:59,500 --> 00:08:01,270
+the fluid are effectively stuck to the
+
+185
+00:08:01,270 --> 00:08:05,020
+surface their velocity is zero the fluid
+
+186
+00:08:05,020 --> 00:08:07,240
+next to it can flow only slowly due to
+
+187
+00:08:07,240 --> 00:08:09,960
+friction with this stationary layer
+
+188
+00:08:09,960 --> 00:08:11,940
+with increasing distance from the
+
+189
+00:08:11,940 --> 00:08:13,860
+surface the fluids velocity increases
+
+190
+00:08:13,860 --> 00:08:16,380
+from zero until it reaches the free
+
+191
+00:08:16,380 --> 00:08:20,340
+stream velocity and this region of
+
+192
+00:08:20,340 --> 00:08:22,530
+velocity adjustment is known as a
+
+193
+00:08:22,530 --> 00:08:24,840
+boundary layer in this case it's a
+
+194
+00:08:24,840 --> 00:08:27,870
+laminar boundary layer to form this
+
+195
+00:08:27,870 --> 00:08:30,180
+boundary layer the surface is applying a
+
+196
+00:08:30,180 --> 00:08:33,179
+force to the fluid that means the fluid
+
+197
+00:08:33,179 --> 00:08:35,490
+is applying an equal and opposite force
+
+198
+00:08:35,490 --> 00:08:39,029
+on the surface and this is known as skin
+
+199
+00:08:39,029 --> 00:08:44,159
+friction now if the fluid velocity is
+
+200
+00:08:44,159 --> 00:08:46,170
+particularly fast or if the surface is
+
+201
+00:08:46,170 --> 00:08:48,360
+long the boundary layer will grow and
+
+202
+00:08:48,360 --> 00:08:51,660
+eventually transition to turbulence in a
+
+203
+00:08:51,660 --> 00:08:53,700
+turbulent boundary layer the fluid
+
+204
+00:08:53,700 --> 00:08:56,790
+swirls and mixes bringing faster flowing
+
+205
+00:08:56,790 --> 00:08:59,940
+fluid closer to the surface and this
+
+206
+00:08:59,940 --> 00:09:03,029
+increases the skin friction so turbulent
+
+207
+00:09:03,029 --> 00:09:05,130
+boundary layers result in significantly
+
+208
+00:09:05,130 --> 00:09:07,950
+more drag than laminar ones and the
+
+209
+00:09:07,950 --> 00:09:09,720
+boundary layers around planes and large
+
+210
+00:09:09,720 --> 00:09:12,690
+ships are mostly turbulent and skin
+
+211
+00:09:12,690 --> 00:09:14,070
+friction accounts for the majority of
+
+212
+00:09:14,070 --> 00:09:17,010
+the drag they experience to make matters
+
+213
+00:09:17,010 --> 00:09:18,959
+worse laminar boundary layers can be
+
+214
+00:09:18,959 --> 00:09:21,690
+tripped into becoming turbulent by small
+
+215
+00:09:21,690 --> 00:09:24,990
+obstacles or rough surfaces in practice
+
+216
+00:09:24,990 --> 00:09:27,209
+this means clean smooth surfaces can
+
+217
+00:09:27,209 --> 00:09:29,400
+significantly reduce drag saving on fuel
+
+218
+00:09:29,400 --> 00:09:32,310
+costs if your car is really dirty it
+
+219
+00:09:32,310 --> 00:09:34,800
+likely gets worse gas mileage than if it
+
+220
+00:09:34,800 --> 00:09:36,690
+were clean this is what the Mythbusters
+
+221
+00:09:36,690 --> 00:09:38,880
+found when they tested it it also
+
+222
+00:09:38,880 --> 00:09:40,890
+explains why planes are frequently
+
+223
+00:09:40,890 --> 00:09:44,850
+washed so when you think about airplanes
+
+224
+00:09:44,850 --> 00:09:47,190
+I imagine that they would be built as
+
+225
+00:09:47,190 --> 00:09:49,890
+smooth as possible I think of the scene
+
+226
+00:09:49,890 --> 00:09:52,320
+in The Aviator where Leo says he wants
+
+227
+00:09:52,320 --> 00:09:54,690
+all of the rivets shaved down flush and
+
+228
+00:09:54,690 --> 00:09:57,420
+you can see that with this plane all of
+
+229
+00:09:57,420 --> 00:10:00,600
+these screws are are set in to the wing
+
+230
+00:10:00,600 --> 00:10:02,850
+and really to make the smoothest service
+
+231
+00:10:02,850 --> 00:10:05,100
+possible but then you look over here and
+
+232
+00:10:05,100 --> 00:10:09,390
+there are these ridges that stick up out
+
+233
+00:10:09,390 --> 00:10:12,149
+of the plane which seem to make no sense
+
+234
+00:10:12,149 --> 00:10:14,910
+I mean why would you add roughness to
+
+235
+00:10:14,910 --> 00:10:17,850
+the surface of the wing the answer is
+
+236
+00:10:17,850 --> 00:10:20,850
+actually to induce turbulence in the
+
+237
+00:10:20,850 --> 00:10:23,760
+flow of air over the wing
+
+238
+00:10:23,760 --> 00:10:25,500
+when cruising in level flight air
+
+239
+00:10:25,500 --> 00:10:27,720
+smoothly follows the curve of the wing
+
+240
+00:10:27,720 --> 00:10:30,360
+but at low speeds or higher angles of
+
+241
+00:10:30,360 --> 00:10:32,940
+attack the airflow can separate you can
+
+242
+00:10:32,940 --> 00:10:34,830
+think of it as not having enough energy
+
+243
+00:10:34,830 --> 00:10:37,050
+to follow the curve of the wing this
+
+244
+00:10:37,050 --> 00:10:39,030
+leads to a condition known as stall
+
+245
+00:10:39,030 --> 00:10:42,480
+which dramatically decreases lift here
+
+246
+00:10:42,480 --> 00:10:44,580
+you can see the airflow of via strings
+
+247
+00:10:44,580 --> 00:10:46,830
+taped onto the wing and as the plane
+
+248
+00:10:46,830 --> 00:10:49,710
+slows the flow separates and the strings
+
+249
+00:10:49,710 --> 00:10:55,380
+go wild this plane has stalled the way
+
+250
+00:10:55,380 --> 00:10:57,930
+to delay flow separation and stall is by
+
+251
+00:10:57,930 --> 00:11:00,360
+adding small fins on the wing called
+
+252
+00:11:00,360 --> 00:11:03,120
+vortex generators what these vortex
+
+253
+00:11:03,120 --> 00:11:05,610
+generators do is they actually cause
+
+254
+00:11:05,610 --> 00:11:07,800
+turbulence which mixes the faster
+
+255
+00:11:07,800 --> 00:11:10,890
+flowing higher up air down closer to the
+
+256
+00:11:10,890 --> 00:11:13,710
+surface so your energizing that fluid
+
+257
+00:11:13,710 --> 00:11:15,540
+flow as it passes over the wing and
+
+258
+00:11:15,540 --> 00:11:18,870
+because that flow has greater energy it
+
+259
+00:11:18,870 --> 00:11:20,970
+is able to follow the surface of the
+
+260
+00:11:20,970 --> 00:11:23,400
+wing for longer that means the air flow
+
+261
+00:11:23,400 --> 00:11:25,650
+remains attached and if you have
+
+262
+00:11:25,650 --> 00:11:28,020
+attached airflow over the wing then you
+
+263
+00:11:28,020 --> 00:11:31,470
+can maintain lift so in the case of
+
+264
+00:11:31,470 --> 00:11:34,320
+airplanes you actually need turbulence
+
+265
+00:11:34,320 --> 00:11:36,600
+and you induce more turbulence on the
+
+266
+00:11:36,600 --> 00:11:39,660
+wing in order to fly efficiently and
+
+267
+00:11:39,660 --> 00:11:41,550
+effectively and be able to climb at
+
+268
+00:11:41,550 --> 00:11:44,910
+hires angles of attack a similar
+
+269
+00:11:44,910 --> 00:11:48,390
+principle is at work with golf balls the
+
+270
+00:11:48,390 --> 00:11:50,370
+skull found out about turbulence the
+
+271
+00:11:50,370 --> 00:11:52,620
+hard way because they started playing
+
+272
+00:11:52,620 --> 00:11:54,900
+with a very smooth gospel and it
+
+273
+00:11:54,900 --> 00:11:57,930
+wouldn't fly as far as it would once it
+
+274
+00:11:57,930 --> 00:12:00,540
+got sort of dingo nicked and dirty you
+
+275
+00:12:00,540 --> 00:12:02,910
+can see why by observing the airflow in
+
+276
+00:12:02,910 --> 00:12:05,340
+a wind tunnel with a smooth ball the air
+
+277
+00:12:05,340 --> 00:12:07,830
+forms a laminar boundary layer over its
+
+278
+00:12:07,830 --> 00:12:10,320
+surface this leads to low skin friction
+
+279
+00:12:10,320 --> 00:12:12,960
+which is a good thing but it also means
+
+280
+00:12:12,960 --> 00:12:15,720
+the air flow separates easily leaving a
+
+281
+00:12:15,720 --> 00:12:18,360
+large wake of low pressure turbulent air
+
+282
+00:12:18,360 --> 00:12:20,010
+behind the ball and that leads to a
+
+283
+00:12:20,010 --> 00:12:21,390
+different form of drag is that a
+
+284
+00:12:21,390 --> 00:12:22,980
+pressure difference drag that's right
+
+285
+00:12:22,980 --> 00:12:26,850
+that's a pressure drag so the boundary
+
+286
+00:12:26,850 --> 00:12:29,190
+layer itself has a skin friction drag
+
+287
+00:12:29,190 --> 00:12:30,900
+and then if it separates there's a
+
+288
+00:12:30,900 --> 00:12:32,350
+pressure drag
+
+289
+00:12:32,350 --> 00:12:34,840
+and if you force that boundary layer to
+
+290
+00:12:34,840 --> 00:12:37,690
+become turbulent so you have mud or
+
+291
+00:12:37,690 --> 00:12:40,810
+roughness or mix on the golf ball then a
+
+292
+00:12:40,810 --> 00:12:42,280
+turbulent boundary I can actually get
+
+293
+00:12:42,280 --> 00:12:44,680
+further around the golf ball before it
+
+294
+00:12:44,680 --> 00:12:47,170
+separates and so it reduces that wake
+
+295
+00:12:47,170 --> 00:12:49,270
+and reduces that pressure drag so by
+
+296
+00:12:49,270 --> 00:12:51,850
+reducing the pressure drag more than
+
+297
+00:12:51,850 --> 00:12:53,410
+your increase in this kind rag that's
+
+298
+00:12:53,410 --> 00:12:55,270
+right golf ball travels further yep
+
+299
+00:12:55,270 --> 00:12:57,700
+golfers started carving grooves into
+
+300
+00:12:57,700 --> 00:12:59,470
+their golf balls before the aerodynamics
+
+301
+00:12:59,470 --> 00:13:01,990
+of this was fully understood and since
+
+302
+00:13:01,990 --> 00:13:03,970
+then dimples have found to work the best
+
+303
+00:13:03,970 --> 00:13:06,330
+for creating a turbulent boundary layer
+
+304
+00:13:06,330 --> 00:13:09,370
+dimples are very shallow compared to the
+
+305
+00:13:09,370 --> 00:13:10,780
+diameter of the golf ball but they have
+
+306
+00:13:10,780 --> 00:13:13,000
+a pretty massive effect what sort of
+
+307
+00:13:13,000 --> 00:13:14,740
+effect are we talking looking at the
+
+308
+00:13:14,740 --> 00:13:16,480
+drag right what we call a drag
+
+309
+00:13:16,480 --> 00:13:19,150
+coefficient you see a really big drop
+
+310
+00:13:19,150 --> 00:13:22,090
+almost a factor of two when the boundary
+
+311
+00:13:22,090 --> 00:13:25,030
+layer becomes turbulent so having a
+
+312
+00:13:25,030 --> 00:13:27,190
+turbulent boundary layer reduces the
+
+313
+00:13:27,190 --> 00:13:29,800
+size of the turbulent wake but turbulent
+
+314
+00:13:29,800 --> 00:13:32,110
+wakes themselves are interesting and
+
+315
+00:13:32,110 --> 00:13:34,180
+scientists are looking for ways to
+
+316
+00:13:34,180 --> 00:13:37,540
+harness the energy they contain I came
+
+317
+00:13:37,540 --> 00:13:39,460
+to Caltech to see this experiment where
+
+318
+00:13:39,460 --> 00:13:41,080
+the water flows around a cylinder and
+
+319
+00:13:41,080 --> 00:13:43,150
+transitions to turbulence in its wake
+
+320
+00:13:43,150 --> 00:13:46,420
+the flow is visualized here using a
+
+321
+00:13:46,420 --> 00:13:49,150
+fluorescent dye you can see how under
+
+322
+00:13:49,150 --> 00:13:51,430
+the right conditions vortices are shed
+
+323
+00:13:51,430 --> 00:13:53,230
+by one side of the cylinder and then the
+
+324
+00:13:53,230 --> 00:13:56,080
+other alternating back and forth in a
+
+325
+00:13:56,080 --> 00:13:58,660
+regular pattern this is known as
+
+326
+00:13:58,660 --> 00:14:01,090
+periodic vortex shedding and the pattern
+
+327
+00:14:01,090 --> 00:14:03,580
+it creates downstream is called a von
+
+328
+00:14:03,580 --> 00:14:06,610
+Karman vortex street these patterns
+
+329
+00:14:06,610 --> 00:14:08,740
+appear all over the place most
+
+330
+00:14:08,740 --> 00:14:11,530
+spectacularly in images taken from space
+
+331
+00:14:11,530 --> 00:14:14,950
+at this scale an island acts as the
+
+332
+00:14:14,950 --> 00:14:16,780
+obstacle that creates the periodic
+
+333
+00:14:16,780 --> 00:14:19,270
+vortex shedding and the vortex street is
+
+334
+00:14:19,270 --> 00:14:21,150
+made visible by patterns in the clouds
+
+335
+00:14:21,150 --> 00:14:24,220
+these patterns can even be seen from
+
+336
+00:14:24,220 --> 00:14:27,280
+ground level obviously this phenomenon
+
+337
+00:14:27,280 --> 00:14:29,320
+is not strictly turbulent because it
+
+338
+00:14:29,320 --> 00:14:31,630
+follows a predictable pattern but it is
+
+339
+00:14:31,630 --> 00:14:34,170
+part of the transition to turbulence and
+
+340
+00:14:34,170 --> 00:14:36,610
+these scientists are looking for ways to
+
+341
+00:14:36,610 --> 00:14:38,440
+harness the energy in these vortex
+
+342
+00:14:38,440 --> 00:14:41,050
+structures one experiment showed that if
+
+343
+00:14:41,050 --> 00:14:43,390
+you put a dead fish in the wake of an
+
+344
+00:14:43,390 --> 00:14:45,529
+object it will actually
+
+345
+00:14:45,529 --> 00:14:49,819
+swim upstream this suggests fish can
+
+346
+00:14:49,819 --> 00:14:51,829
+take advantage of turbulent water to
+
+347
+00:14:51,829 --> 00:14:54,860
+swim more efficiently it's just one way
+
+348
+00:14:54,860 --> 00:14:57,079
+that animals have adapted to live in a
+
+349
+00:14:57,079 --> 00:15:00,319
+turbulent world so to sum up turbulence
+
+350
+00:15:00,319 --> 00:15:02,990
+is everywhere it's inside you around you
+
+351
+00:15:02,990 --> 00:15:04,999
+from the smallest scales up to the
+
+352
+00:15:04,999 --> 00:15:07,040
+largest structures in the universe and
+
+353
+00:15:07,040 --> 00:15:10,100
+it's useful for flying airplanes forming
+
+354
+00:15:10,100 --> 00:15:12,259
+raindrops making golf balls fly further
+
+355
+00:15:12,259 --> 00:15:14,809
+and helping fish dead or alive swim
+
+356
+00:15:14,809 --> 00:15:15,589
+upstream
+
+357
+00:15:15,589 --> 00:15:19,240
+in contrast laminar flow is small
+
+358
+00:15:19,240 --> 00:15:22,490
+superficial it's a toy that's why it's
+
+359
+00:15:22,490 --> 00:15:24,290
+most notable use is in decorative
+
+360
+00:15:24,290 --> 00:15:26,749
+fountains it appeals to your desire for
+
+361
+00:15:26,749 --> 00:15:30,410
+order but the world like turbulence is
+
+362
+00:15:30,410 --> 00:15:34,240
+messy that's why I personally prefer the
+
+363
+00:15:34,240 --> 00:15:37,009
+richness the unpredictability of
+
+364
+00:15:37,009 --> 00:15:40,399
+turbulent flow no but but turbulent flow
+
+365
+00:15:40,399 --> 00:15:42,230
+has its places too I'm actually like
+
+366
+00:15:42,230 --> 00:15:46,009
+studying turbulent flow for like my my
+
+367
+00:15:46,009 --> 00:15:47,959
+schooling like I'm studying turbulent
+
+368
+00:15:47,959 --> 00:15:50,689
+flow in rocket nozzles that's a thing so
+
+369
+00:15:50,689 --> 00:15:52,220
+cheating on laminar flows what are you
+
+370
+00:15:52,220 --> 00:15:57,529
+doing um no yes yes maybe I don't know
+
+371
+00:15:57,529 --> 00:16:00,139
+but I what you will not get me to say
+
+372
+00:16:00,139 --> 00:16:02,240
+turbulent flow is not awesome and not
+
+373
+00:16:02,240 --> 00:16:03,920
+beautiful you will not get me to say
+
+374
+00:16:03,920 --> 00:16:06,139
+that so I will concede and I agree with
+
+375
+00:16:06,139 --> 00:16:08,990
+you turbulent flow is awesome I will
+
+376
+00:16:08,990 --> 00:16:11,389
+agree all right all right well it's just
+
+377
+00:16:11,389 --> 00:16:13,339
+not as awesome as laminar flow let's be
+
+378
+00:16:13,339 --> 00:16:19,939
+honest hey I just wanted to let you know
+
+379
+00:16:19,939 --> 00:16:22,220
+that this video was filmed before the
+
+380
+00:16:22,220 --> 00:16:23,930
+kovat outbreak and before the
+
+381
+00:16:23,930 --> 00:16:25,579
+shelter-in-place guidance was put into
+
+382
+00:16:25,579 --> 00:16:27,800
+effect now this portion of the video was
+
+383
+00:16:27,800 --> 00:16:29,809
+sponsored by Cottonelle flushable wipes
+
+384
+00:16:29,809 --> 00:16:31,759
+and since the outbreak they have been
+
+385
+00:16:31,759 --> 00:16:33,050
+working around the clock to get their
+
+386
+00:16:33,050 --> 00:16:36,079
+products back on shelves and back when I
+
+387
+00:16:36,079 --> 00:16:37,250
+filmed this video I actually did a
+
+388
+00:16:37,250 --> 00:16:38,779
+little experiment with these wipes to
+
+389
+00:16:38,779 --> 00:16:40,670
+find out how flushable they really are
+
+390
+00:16:40,670 --> 00:16:44,240
+so let's check that out so here I have a
+
+391
+00:16:44,240 --> 00:16:47,120
+baby wipe a paper towel and a cotton L
+
+392
+00:16:47,120 --> 00:16:49,399
+flushable wipe and I'm gonna submerge
+
+393
+00:16:49,399 --> 00:16:52,129
+all three of these in the fish tank for
+
+394
+00:16:52,129 --> 00:16:55,009
+30 minutes and then test how strong they
+
+395
+00:16:55,009 --> 00:16:57,649
+are flushable wipes actually became
+
+396
+00:16:57,649 --> 00:16:58,860
+really important to me
+
+397
+00:16:58,860 --> 00:17:01,680
+a couple years ago when the main sewer
+
+398
+00:17:01,680 --> 00:17:04,290
+for my building backed up into my condo
+
+399
+00:17:04,290 --> 00:17:07,020
+and flooded the entire downstairs and
+
+400
+00:17:07,020 --> 00:17:09,960
+the reason was my neighbor was flushing
+
+401
+00:17:09,960 --> 00:17:12,119
+baby wipes down the toilet and that
+
+402
+00:17:12,119 --> 00:17:14,520
+blocked up the whole system so it was
+
+403
+00:17:14,520 --> 00:17:15,720
+pretty awful but in fact this is the
+
+404
+00:17:15,720 --> 00:17:18,450
+thing people do a lot there was this
+
+405
+00:17:18,450 --> 00:17:20,520
+study from 2016 that found in the u.s.
+
+406
+00:17:20,520 --> 00:17:23,069
+60 million baby wipes are purchased
+
+407
+00:17:23,069 --> 00:17:25,230
+every year and seven million of them end
+
+408
+00:17:25,230 --> 00:17:27,720
+up being flushed down the toilet in fact
+
+409
+00:17:27,720 --> 00:17:28,920
+when they looked in the New York City
+
+410
+00:17:28,920 --> 00:17:30,990
+sewer system they found that 38 percent
+
+411
+00:17:30,990 --> 00:17:33,840
+of the stuff you find in there is
+
+412
+00:17:33,840 --> 00:17:36,960
+actually these baby wipes meanwhile 14
+
+413
+00:17:36,960 --> 00:17:39,120
+million flushable wipes are purchased
+
+414
+00:17:39,120 --> 00:17:40,890
+every year and flushed down a toilet but
+
+415
+00:17:40,890 --> 00:17:43,260
+they make up only 2% of what you find in
+
+416
+00:17:43,260 --> 00:17:45,570
+the sewer system so I think it's so
+
+417
+00:17:45,570 --> 00:17:47,040
+important that whatever you throw in the
+
+418
+00:17:47,040 --> 00:17:49,500
+toilet has to be able to break apart so
+
+419
+00:17:49,500 --> 00:17:51,750
+it doesn't clog everything up okay 30
+
+420
+00:17:51,750 --> 00:17:54,150
+minutes have elapsed and it is time to
+
+421
+00:17:54,150 --> 00:17:56,250
+test the strength of these three wipes
+
+422
+00:17:56,250 --> 00:17:58,560
+so I'm gonna test their strength with a
+
+423
+00:17:58,560 --> 00:18:01,320
+roll of pennies here we go on the baby
+
+424
+00:18:01,320 --> 00:18:05,100
+wipe it can still support that wait what
+
+425
+00:18:05,100 --> 00:18:07,500
+about the paper towel can still support
+
+426
+00:18:07,500 --> 00:18:09,090
+that wait what about the cut now
+
+427
+00:18:09,090 --> 00:18:14,340
+flushable wipe ah it fell through so
+
+428
+00:18:14,340 --> 00:18:16,350
+this is what makes the Cottonelle
+
+429
+00:18:16,350 --> 00:18:18,960
+flushable wipe flushable it immediately
+
+430
+00:18:18,960 --> 00:18:21,870
+starts to break down after flushing so
+
+431
+00:18:21,870 --> 00:18:24,210
+you should purchase some cotton nail
+
+432
+00:18:24,210 --> 00:18:25,740
+flushable wipes and try them out for
+
+433
+00:18:25,740 --> 00:18:27,690
+yourself want to thank cotton al for
+
+434
+00:18:27,690 --> 00:18:29,460
+sponsoring this video and I want to
+
+435
+00:18:29,460 --> 00:18:32,690
+thank you for watching
+

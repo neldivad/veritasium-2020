@@ -1,0 +1,2392 @@
+1
+00:00:00,160 --> 00:00:02,080
+a portion of this video was sponsored by
+
+2
+00:00:02,080 --> 00:00:04,080
+lastpass
+
+3
+00:00:04,080 --> 00:00:06,399
+this video is about a pattern people
+
+4
+00:00:06,399 --> 00:00:07,919
+thought was impossible
+
+5
+00:00:07,919 --> 00:00:10,160
+and a material that wasn't supposed to
+
+6
+00:00:10,160 --> 00:00:11,440
+exist
+
+7
+00:00:11,440 --> 00:00:14,559
+the story begins over 400 years ago
+
+8
+00:00:14,559 --> 00:00:17,039
+in prague i'm now in prague and the
+
+9
+00:00:17,039 --> 00:00:18,800
+czech republic which is perhaps my
+
+10
+00:00:18,800 --> 00:00:20,480
+favorite european city that i've visited
+
+11
+00:00:20,480 --> 00:00:21,279
+so far
+
+12
+00:00:21,279 --> 00:00:22,960
+i'm going to visit the kepler museum
+
+13
+00:00:22,960 --> 00:00:24,400
+because he's one of the most famous
+
+14
+00:00:24,400 --> 00:00:26,320
+scientists who lived and worked around
+
+15
+00:00:26,320 --> 00:00:27,039
+prague
+
+16
+00:00:27,039 --> 00:00:28,960
+i want to tell you five things about
+
+17
+00:00:28,960 --> 00:00:30,240
+johannes kepler
+
+18
+00:00:30,240 --> 00:00:33,840
+that are essential to our story
+
+19
+00:00:33,840 --> 00:00:36,399
+number one kepler is most famous for
+
+20
+00:00:36,399 --> 00:00:37,600
+figuring out that the shapes of
+
+21
+00:00:37,600 --> 00:00:38,960
+planetary orbits are
+
+22
+00:00:38,960 --> 00:00:41,440
+ellipses but before he came to this
+
+23
+00:00:41,440 --> 00:00:42,320
+realization
+
+24
+00:00:42,320 --> 00:00:44,719
+he invented a model of the solar system
+
+25
+00:00:44,719 --> 00:00:46,800
+in which the planets were on nested
+
+26
+00:00:46,800 --> 00:00:47,760
+spheres
+
+27
+00:00:47,760 --> 00:00:51,920
+separated by the platonic solids
+
+28
+00:00:51,920 --> 00:00:54,239
+what are the platonic solids well they
+
+29
+00:00:54,239 --> 00:00:55,360
+are objects where
+
+30
+00:00:55,360 --> 00:00:58,000
+all of the faces are identical and all
+
+31
+00:00:58,000 --> 00:00:59,199
+of the vertices
+
+32
+00:00:59,199 --> 00:01:01,920
+are identical which means you can rotate
+
+33
+00:01:01,920 --> 00:01:02,800
+them through some
+
+34
+00:01:02,800 --> 00:01:05,119
+angle and they look the same as they did
+
+35
+00:01:05,119 --> 00:01:06,080
+before
+
+36
+00:01:06,080 --> 00:01:09,119
+so the cube is an obvious example then
+
+37
+00:01:09,119 --> 00:01:10,240
+you also have
+
+38
+00:01:10,240 --> 00:01:15,119
+the tetrahedron the octahedron
+
+39
+00:01:15,119 --> 00:01:18,400
+the dodecahedron which has 12 pentagonal
+
+40
+00:01:18,400 --> 00:01:19,200
+sides
+
+41
+00:01:19,200 --> 00:01:22,799
+and the icosahedron which has 20 sides
+
+42
+00:01:22,799 --> 00:01:25,119
+and that's it there are just five
+
+43
+00:01:25,119 --> 00:01:26,400
+platonic solids
+
+44
+00:01:26,400 --> 00:01:28,560
+which was convenient for kepler because
+
+45
+00:01:28,560 --> 00:01:30,000
+in his day they only knew
+
+46
+00:01:30,000 --> 00:01:32,560
+about six planets so this allowed him to
+
+47
+00:01:32,560 --> 00:01:34,799
+put a unique platonic solid between
+
+48
+00:01:34,799 --> 00:01:36,479
+each of the planetary spheres
+
+49
+00:01:36,479 --> 00:01:39,200
+essentially he used them as spacers
+
+50
+00:01:39,200 --> 00:01:41,280
+he carefully selected the order of the
+
+51
+00:01:41,280 --> 00:01:42,399
+platonic solids
+
+52
+00:01:42,399 --> 00:01:44,479
+so that the distances between planets
+
+53
+00:01:44,479 --> 00:01:46,799
+would match astronomical observations as
+
+54
+00:01:46,799 --> 00:01:48,560
+closely as possible
+
+55
+00:01:48,560 --> 00:01:50,960
+he had this deep abiding belief that
+
+56
+00:01:50,960 --> 00:01:52,960
+there was some geometric regularity in
+
+57
+00:01:52,960 --> 00:01:54,079
+the universe
+
+58
+00:01:54,079 --> 00:01:57,280
+and of course there is just not this
+
+59
+00:01:57,280 --> 00:01:59,840
+two kepler's attraction to geometry
+
+60
+00:01:59,840 --> 00:02:01,680
+extended to more practical questions
+
+61
+00:02:01,680 --> 00:02:02,320
+like
+
+62
+00:02:02,320 --> 00:02:04,000
+how do you stack cannonballs so they
+
+63
+00:02:04,000 --> 00:02:06,719
+take up the least space on a ship's deck
+
+64
+00:02:06,719 --> 00:02:10,080
+by 1611 kepler had an answer hexagonal
+
+65
+00:02:10,080 --> 00:02:11,120
+close packing
+
+66
+00:02:11,120 --> 00:02:13,599
+and the face centered cubic arrangement
+
+67
+00:02:13,599 --> 00:02:15,040
+are both equivalently
+
+68
+00:02:15,040 --> 00:02:17,440
+and optimally efficient with cannonballs
+
+69
+00:02:17,440 --> 00:02:20,000
+occupying about 74 percent of the volume
+
+70
+00:02:20,000 --> 00:02:21,040
+they take up
+
+71
+00:02:21,040 --> 00:02:22,879
+now this might seem like the obvious way
+
+72
+00:02:22,879 --> 00:02:24,800
+to stack spheres i mean it is the way
+
+73
+00:02:24,800 --> 00:02:25,760
+that oranges
+
+74
+00:02:25,760 --> 00:02:28,000
+are stacked in the supermarket but
+
+75
+00:02:28,000 --> 00:02:29,920
+kepler hadn't proved it he just
+
+76
+00:02:29,920 --> 00:02:32,319
+stated it as fact which is why this
+
+77
+00:02:32,319 --> 00:02:35,200
+became known as kepler's conjecture
+
+78
+00:02:35,200 --> 00:02:37,519
+now it turns out he was right but it
+
+79
+00:02:37,519 --> 00:02:38,400
+took around
+
+80
+00:02:38,400 --> 00:02:41,120
+400 years to prove it the formal proof
+
+81
+00:02:41,120 --> 00:02:42,640
+was only published in the journal form
+
+82
+00:02:42,640 --> 00:02:43,599
+of mathematics
+
+83
+00:02:43,599 --> 00:02:46,800
+in 2017. three
+
+84
+00:02:46,800 --> 00:02:48,879
+kepler published his conjecture in a
+
+85
+00:02:48,879 --> 00:02:51,519
+pamphlet called deniva sexangula
+
+86
+00:02:51,519 --> 00:02:54,160
+on the six cornered snowflake in which
+
+87
+00:02:54,160 --> 00:02:55,040
+he wondered
+
+88
+00:02:55,040 --> 00:02:56,959
+there must be a definite cause why
+
+89
+00:02:56,959 --> 00:02:58,959
+whenever snow begins to fall
+
+90
+00:02:58,959 --> 00:03:00,800
+its initial formations invariably
+
+91
+00:03:00,800 --> 00:03:02,720
+display the shape of a six cornered
+
+92
+00:03:02,720 --> 00:03:03,599
+starlet
+
+93
+00:03:03,599 --> 00:03:05,599
+for if it happens by chance why do they
+
+94
+00:03:05,599 --> 00:03:07,680
+not fall just as well with five corners
+
+95
+00:03:07,680 --> 00:03:08,959
+or with seven
+
+96
+00:03:08,959 --> 00:03:12,319
+why always with six in kepler's day
+
+97
+00:03:12,319 --> 00:03:14,560
+there was no real theory of atoms or
+
+98
+00:03:14,560 --> 00:03:16,879
+molecules or how they self-arrange into
+
+99
+00:03:16,879 --> 00:03:17,680
+crystals
+
+100
+00:03:17,680 --> 00:03:19,920
+but kepler seemed to be on the verge of
+
+101
+00:03:19,920 --> 00:03:21,120
+understanding this
+
+102
+00:03:21,120 --> 00:03:23,840
+i mean he speculates about the smallest
+
+103
+00:03:23,840 --> 00:03:26,159
+natural unit of a liquid like water
+
+104
+00:03:26,159 --> 00:03:28,640
+essentially a water molecule and how
+
+105
+00:03:28,640 --> 00:03:30,159
+these tiny units could
+
+106
+00:03:30,159 --> 00:03:32,400
+stack together mechanically to form the
+
+107
+00:03:32,400 --> 00:03:34,239
+hexagonal crystal
+
+108
+00:03:34,239 --> 00:03:36,879
+not unlike the hexagonal close-packed
+
+109
+00:03:36,879 --> 00:03:39,519
+cannonballs
+
+110
+00:03:39,680 --> 00:03:42,480
+four kepler knew that regular hexagons
+
+111
+00:03:42,480 --> 00:03:44,799
+can cover a flat surface perfectly with
+
+112
+00:03:44,799 --> 00:03:47,280
+no gaps in mathematical jargon we say
+
+113
+00:03:47,280 --> 00:03:49,200
+the hexagon tiles the plane
+
+114
+00:03:49,200 --> 00:03:51,840
+periodically you know that a tiling is
+
+115
+00:03:51,840 --> 00:03:52,560
+periodic
+
+116
+00:03:52,560 --> 00:03:54,799
+if you can duplicate a portion of it and
+
+117
+00:03:54,799 --> 00:03:56,560
+continue the pattern only through
+
+118
+00:03:56,560 --> 00:03:57,439
+translation
+
+119
+00:03:57,439 --> 00:04:00,319
+with no rotations or reflections
+
+120
+00:04:00,319 --> 00:04:02,080
+periodic tilings can also have
+
+121
+00:04:02,080 --> 00:04:03,519
+rotational symmetry
+
+122
+00:04:03,519 --> 00:04:05,680
+a rhombus pattern has twofold symmetry
+
+123
+00:04:05,680 --> 00:04:08,400
+because if you rotate it 180 degrees one
+
+124
+00:04:08,400 --> 00:04:09,280
+half turn
+
+125
+00:04:09,280 --> 00:04:11,040
+the pattern looks the same as it did
+
+126
+00:04:11,040 --> 00:04:13,840
+before equilateral triangles have
+
+127
+00:04:13,840 --> 00:04:15,760
+three-fold symmetry
+
+128
+00:04:15,760 --> 00:04:19,040
+squares have four-fold symmetry and
+
+129
+00:04:19,040 --> 00:04:22,240
+hexagons have six-fold symmetry but
+
+130
+00:04:22,240 --> 00:04:22,800
+those
+
+131
+00:04:22,800 --> 00:04:26,000
+are the only symmetries you can have two
+
+132
+00:04:26,000 --> 00:04:29,199
+three four and six there is
+
+133
+00:04:29,199 --> 00:04:32,800
+no fivefold symmetry regular pentagons
+
+134
+00:04:32,800 --> 00:04:35,120
+do not tile the plane but that didn't
+
+135
+00:04:35,120 --> 00:04:36,880
+stop kepler from trying
+
+136
+00:04:36,880 --> 00:04:39,840
+see this pattern right here he published
+
+137
+00:04:39,840 --> 00:04:42,080
+it in his book harmonics mundi or
+
+138
+00:04:42,080 --> 00:04:44,800
+harmony of the world it has a certain
+
+139
+00:04:44,800 --> 00:04:46,800
+five-fold symmetry
+
+140
+00:04:46,800 --> 00:04:50,400
+but not exactly and it's not entirely
+
+141
+00:04:50,400 --> 00:04:50,800
+clear
+
+142
+00:04:50,800 --> 00:04:53,040
+how you would continue this pattern to
+
+143
+00:04:53,040 --> 00:04:56,080
+tile the whole plane
+
+144
+00:04:56,080 --> 00:04:58,400
+there are an infinite number of shapes
+
+145
+00:04:58,400 --> 00:05:00,639
+that can tile the plane periodically
+
+146
+00:05:00,639 --> 00:05:03,039
+the regular hexagon can only tile the
+
+147
+00:05:03,039 --> 00:05:04,639
+plane periodically
+
+148
+00:05:04,639 --> 00:05:06,479
+there are also an infinite number of
+
+149
+00:05:06,479 --> 00:05:07,840
+shapes that can tile the plane
+
+150
+00:05:07,840 --> 00:05:08,800
+periodically
+
+151
+00:05:08,800 --> 00:05:11,360
+or non-periodically for example
+
+152
+00:05:11,360 --> 00:05:13,360
+isosceles triangles can tile the plane
+
+153
+00:05:13,360 --> 00:05:14,479
+periodically
+
+154
+00:05:14,479 --> 00:05:17,199
+but if you rotate a pair of triangles
+
+155
+00:05:17,199 --> 00:05:18,800
+well then the pattern is no longer
+
+156
+00:05:18,800 --> 00:05:20,560
+perfectly periodic
+
+157
+00:05:20,560 --> 00:05:23,039
+a sphinx tile can join with another
+
+158
+00:05:23,039 --> 00:05:25,199
+rotate it at 180 degrees
+
+159
+00:05:25,199 --> 00:05:27,840
+and tile the plane periodically but a
+
+160
+00:05:27,840 --> 00:05:29,520
+different arrangement of these
+
+161
+00:05:29,520 --> 00:05:32,720
+same tiles is non-periodic
+
+162
+00:05:32,720 --> 00:05:34,800
+this raises the question are there some
+
+163
+00:05:34,800 --> 00:05:35,759
+tiles that can
+
+164
+00:05:35,759 --> 00:05:38,960
+only tile the plane non-periodically
+
+165
+00:05:38,960 --> 00:05:42,000
+well in 1961 how wang was studying
+
+166
+00:05:42,000 --> 00:05:45,039
+multi-colored square tiles the rules
+
+167
+00:05:45,039 --> 00:05:45,520
+were
+
+168
+00:05:45,520 --> 00:05:47,440
+touching edges must be the same color
+
+169
+00:05:47,440 --> 00:05:50,000
+and you can't rotate or reflect tiles
+
+170
+00:05:50,000 --> 00:05:52,639
+only slide them around now the question
+
+171
+00:05:52,639 --> 00:05:53,199
+was
+
+172
+00:05:53,199 --> 00:05:55,360
+if you're given a set of these tiles can
+
+173
+00:05:55,360 --> 00:05:56,240
+you tell
+
+174
+00:05:56,240 --> 00:05:58,960
+if they will tile the plane wang's
+
+175
+00:05:58,960 --> 00:05:59,680
+conjecture
+
+176
+00:05:59,680 --> 00:06:01,919
+was that if they can tile the plane well
+
+177
+00:06:01,919 --> 00:06:04,240
+they can do so periodically
+
+178
+00:06:04,240 --> 00:06:07,039
+but it turned out wang's conjecture was
+
+179
+00:06:07,039 --> 00:06:07,919
+false
+
+180
+00:06:07,919 --> 00:06:10,880
+his student robert berger found a set of
+
+181
+00:06:10,880 --> 00:06:11,960
+20
+
+182
+00:06:11,960 --> 00:06:15,199
+426 tiles that could tile the plane
+
+183
+00:06:15,199 --> 00:06:18,479
+but only non-periodically
+
+184
+00:06:18,479 --> 00:06:20,319
+think about that for a second here we
+
+185
+00:06:20,319 --> 00:06:22,880
+have a finite set of tiles okay it's a
+
+186
+00:06:22,880 --> 00:06:23,840
+large number
+
+187
+00:06:23,840 --> 00:06:26,479
+but it's finite and it can tile all the
+
+188
+00:06:26,479 --> 00:06:28,000
+way out to infinity
+
+189
+00:06:28,000 --> 00:06:31,120
+without ever repeating the same pattern
+
+190
+00:06:31,120 --> 00:06:33,199
+there's no way even to force them to
+
+191
+00:06:33,199 --> 00:06:35,440
+tile periodically
+
+192
+00:06:35,440 --> 00:06:37,759
+and a set of tiles like this that can
+
+193
+00:06:37,759 --> 00:06:39,160
+only tile the plane
+
+194
+00:06:39,160 --> 00:06:42,240
+non-periodically is called an aperiodic
+
+195
+00:06:42,240 --> 00:06:43,440
+tiling
+
+196
+00:06:43,440 --> 00:06:45,759
+and mathematicians wanted to know were
+
+197
+00:06:45,759 --> 00:06:48,240
+there aperiodic tilings that required
+
+198
+00:06:48,240 --> 00:06:51,759
+fewer tiles well robert berger himself
+
+199
+00:06:51,759 --> 00:06:54,880
+found a set with only 104 donald knuth
+
+200
+00:06:54,880 --> 00:06:56,639
+got the number down to 92
+
+201
+00:06:56,639 --> 00:06:59,120
+and then in 1969 you had raphael
+
+202
+00:06:59,120 --> 00:07:00,560
+robinson who came up with
+
+203
+00:07:00,560 --> 00:07:04,160
+six tiles just six that could tile the
+
+204
+00:07:04,160 --> 00:07:07,199
+entire plane without ever repeating
+
+205
+00:07:07,199 --> 00:07:09,840
+then along came roger penrose who would
+
+206
+00:07:09,840 --> 00:07:13,919
+ultimately get the number down to two
+
+207
+00:07:14,240 --> 00:07:17,120
+penrose started with a pentagon he added
+
+208
+00:07:17,120 --> 00:07:18,479
+other pentagons around it
+
+209
+00:07:18,479 --> 00:07:21,039
+and of course noticed the gaps but this
+
+210
+00:07:21,039 --> 00:07:21,840
+new shape
+
+211
+00:07:21,840 --> 00:07:25,039
+could fit within a larger pentagon which
+
+212
+00:07:25,039 --> 00:07:27,919
+gave penrose an idea what if he took the
+
+213
+00:07:27,919 --> 00:07:29,199
+original pentagons
+
+214
+00:07:29,199 --> 00:07:32,560
+and broke them into smaller pentagons
+
+215
+00:07:32,560 --> 00:07:34,319
+well now some of the gaps start
+
+216
+00:07:34,319 --> 00:07:35,680
+connecting up into
+
+217
+00:07:35,680 --> 00:07:38,240
+rhombus shapes other gaps have three
+
+218
+00:07:38,240 --> 00:07:39,280
+spikes
+
+219
+00:07:39,280 --> 00:07:41,360
+but penrose didn't stop there he
+
+220
+00:07:41,360 --> 00:07:43,759
+subdivided the pentagons again
+
+221
+00:07:43,759 --> 00:07:45,520
+now some of the gaps are large enough
+
+222
+00:07:45,520 --> 00:07:47,599
+that you can use pentagons to fill in
+
+223
+00:07:47,599 --> 00:07:48,639
+part of them
+
+224
+00:07:48,639 --> 00:07:50,479
+and the remaining holes you're left with
+
+225
+00:07:50,479 --> 00:07:51,919
+are just rhombuses
+
+226
+00:07:51,919 --> 00:07:53,680
+stars and a fraction of a star that
+
+227
+00:07:53,680 --> 00:07:55,919
+penrose calls a justice cap
+
+228
+00:07:55,919 --> 00:07:58,160
+you can keep subdividing indefinitely
+
+229
+00:07:58,160 --> 00:08:00,160
+and you will only ever find
+
+230
+00:08:00,160 --> 00:08:03,440
+these shapes so with just these pieces
+
+231
+00:08:03,440 --> 00:08:04,919
+you can tile the plane
+
+232
+00:08:04,919 --> 00:08:08,000
+aperiodically with an almost five-fold
+
+233
+00:08:08,000 --> 00:08:10,240
+symmetry
+
+234
+00:08:10,240 --> 00:08:12,560
+the fifth thing about johannes kepler is
+
+235
+00:08:12,560 --> 00:08:14,960
+that if you take his pentagon pattern
+
+236
+00:08:14,960 --> 00:08:18,080
+and you overlay it on top of penrose's
+
+237
+00:08:18,080 --> 00:08:20,360
+the two match up perfectly
+
+238
+00:08:20,360 --> 00:08:22,800
+[Music]
+
+239
+00:08:22,800 --> 00:08:25,280
+once penrose had his pattern he found
+
+240
+00:08:25,280 --> 00:08:27,599
+ways to simplify the tiles
+
+241
+00:08:27,599 --> 00:08:29,680
+he distilled the geometry down to just
+
+242
+00:08:29,680 --> 00:08:31,840
+two tiles a thick rhombus
+
+243
+00:08:31,840 --> 00:08:34,880
+and a thin rhombus the rules for how
+
+244
+00:08:34,880 --> 00:08:36,399
+they can come together can be enforced
+
+245
+00:08:36,399 --> 00:08:38,000
+by bumps and notches
+
+246
+00:08:38,000 --> 00:08:40,479
+or by matching colors and the rules
+
+247
+00:08:40,479 --> 00:08:41,679
+ensure that these
+
+248
+00:08:41,679 --> 00:08:44,519
+two single tiles can only tile the plane
+
+249
+00:08:44,519 --> 00:08:46,080
+non-periodically
+
+250
+00:08:46,080 --> 00:08:48,320
+just two tiles go all the way out to
+
+251
+00:08:48,320 --> 00:08:49,279
+infinity without
+
+252
+00:08:49,279 --> 00:08:52,640
+ever repeating now one way to see this
+
+253
+00:08:52,640 --> 00:08:55,360
+is to print up two copies of the same
+
+254
+00:08:55,360 --> 00:08:56,720
+penrose pattern
+
+255
+00:08:56,720 --> 00:08:59,200
+and one on a transparency and overlay
+
+256
+00:08:59,200 --> 00:09:00,720
+them on top of each other
+
+257
+00:09:00,720 --> 00:09:02,880
+now the resulting interference you get
+
+258
+00:09:02,880 --> 00:09:04,160
+is called a moire
+
+259
+00:09:04,160 --> 00:09:07,040
+pattern where it is dark the patterns
+
+260
+00:09:07,040 --> 00:09:07,360
+are
+
+261
+00:09:07,360 --> 00:09:10,399
+not aligned you can see there are
+
+262
+00:09:10,399 --> 00:09:12,160
+also some light spots and that's where
+
+263
+00:09:12,160 --> 00:09:13,519
+the patterns do
+
+264
+00:09:13,519 --> 00:09:16,720
+match up and as i rotate around you can
+
+265
+00:09:16,720 --> 00:09:18,000
+see the
+
+266
+00:09:18,000 --> 00:09:20,800
+light spots move in and get smaller and
+
+267
+00:09:20,800 --> 00:09:22,000
+then at a certain point
+
+268
+00:09:22,000 --> 00:09:25,519
+they move out and get bigger
+
+269
+00:09:25,519 --> 00:09:28,080
+and what i want to do is try to enlarge
+
+270
+00:09:28,080 --> 00:09:29,600
+one of these bright spots
+
+271
+00:09:29,600 --> 00:09:32,880
+and see how big of a matching section i
+
+272
+00:09:32,880 --> 00:09:35,519
+can find
+
+273
+00:09:35,519 --> 00:09:38,959
+oh yes yes it's like
+
+274
+00:09:38,959 --> 00:09:40,640
+all of a sudden everything is
+
+275
+00:09:40,640 --> 00:09:44,480
+illuminated i love it
+
+276
+00:09:44,720 --> 00:09:46,800
+so these patterns are perfectly matching
+
+277
+00:09:46,800 --> 00:09:49,200
+up here here here here and here but
+
+278
+00:09:49,200 --> 00:09:52,480
+not along these radial lines
+
+279
+00:09:52,480 --> 00:09:55,360
+and that is why they look dark so what
+
+280
+00:09:55,360 --> 00:09:56,399
+this shows us
+
+281
+00:09:56,399 --> 00:09:59,200
+is that you can't ever match any section
+
+282
+00:09:59,200 --> 00:10:00,800
+perfectly to one
+
+283
+00:10:00,800 --> 00:10:03,600
+beneath it there will always be some
+
+284
+00:10:03,600 --> 00:10:05,839
+difference
+
+285
+00:10:05,839 --> 00:10:08,399
+so my favorite penrose pattern is
+
+286
+00:10:08,399 --> 00:10:09,440
+actually made out of
+
+287
+00:10:09,440 --> 00:10:13,279
+these two shapes which are called kites
+
+288
+00:10:13,279 --> 00:10:15,760
+and darts and they have these very
+
+289
+00:10:15,760 --> 00:10:17,360
+particular angles
+
+290
+00:10:17,360 --> 00:10:19,440
+and the way they're meant to match up is
+
+291
+00:10:19,440 --> 00:10:21,200
+based on these two curves you can see
+
+292
+00:10:21,200 --> 00:10:23,120
+there's a curve on each piece
+
+293
+00:10:23,120 --> 00:10:25,360
+and so you have to connect them so that
+
+294
+00:10:25,360 --> 00:10:27,440
+the curves are continuous
+
+295
+00:10:27,440 --> 00:10:28,880
+and that's the rule that allows you to
+
+296
+00:10:28,880 --> 00:10:32,399
+build an aperiodic tiling from these two
+
+297
+00:10:32,399 --> 00:10:33,440
+pieces
+
+298
+00:10:33,440 --> 00:10:37,200
+so uh i laser cut thousands
+
+299
+00:10:37,200 --> 00:10:40,480
+of these pieces and oh i'm gonna
+
+300
+00:10:40,480 --> 00:10:43,839
+try to put them together and make a huge
+
+301
+00:10:43,839 --> 00:10:46,880
+penrose oh man
+
+302
+00:10:46,880 --> 00:10:49,200
+come on
+
+303
+00:10:50,640 --> 00:10:52,480
+if you stare at a pattern of kites and
+
+304
+00:10:52,480 --> 00:10:54,959
+darts you'll start to notice all kinds
+
+305
+00:10:54,959 --> 00:10:55,440
+of
+
+306
+00:10:55,440 --> 00:10:59,519
+regularities like stars and suns
+
+307
+00:10:59,519 --> 00:11:01,920
+but look closer and they don't quite
+
+308
+00:11:01,920 --> 00:11:05,600
+repeat in the way you'd expect them to
+
+309
+00:11:06,000 --> 00:11:08,320
+these two tiles create an ever-changing
+
+310
+00:11:08,320 --> 00:11:10,320
+pattern that extends out to infinity
+
+311
+00:11:10,320 --> 00:11:14,800
+without repeating does this mean
+
+312
+00:11:14,800 --> 00:11:17,920
+there is only one pattern of kites and
+
+313
+00:11:17,920 --> 00:11:18,800
+darts
+
+314
+00:11:18,800 --> 00:11:21,360
+and every picture that we see is just a
+
+315
+00:11:21,360 --> 00:11:22,000
+portion
+
+316
+00:11:22,000 --> 00:11:25,680
+of that overall singular pattern
+
+317
+00:11:25,680 --> 00:11:29,360
+well the answer is no there are actually
+
+318
+00:11:29,360 --> 00:11:32,959
+an uncountably infinite number of
+
+319
+00:11:32,959 --> 00:11:35,279
+different patterns of kites and darts
+
+320
+00:11:35,279 --> 00:11:37,519
+that tile the entire plane
+
+321
+00:11:37,519 --> 00:11:40,640
+and it gets weirder if you were on any
+
+322
+00:11:40,640 --> 00:11:41,760
+of those tilings
+
+323
+00:11:41,760 --> 00:11:44,000
+you wouldn't be able to tell which one
+
+324
+00:11:44,000 --> 00:11:44,880
+it is
+
+325
+00:11:44,880 --> 00:11:46,560
+i mean you might try to look further and
+
+326
+00:11:46,560 --> 00:11:48,560
+further out gather more and more data
+
+327
+00:11:48,560 --> 00:11:49,120
+but
+
+328
+00:11:49,120 --> 00:11:52,560
+it's futile because any finite region
+
+329
+00:11:52,560 --> 00:11:54,880
+of one of these tilings appears
+
+330
+00:11:54,880 --> 00:11:56,399
+infinitely many times
+
+331
+00:11:56,399 --> 00:11:58,800
+in all of the other versions of those
+
+332
+00:11:58,800 --> 00:11:59,440
+tilings
+
+333
+00:11:59,440 --> 00:12:00,959
+i mean don't get me wrong those tilings
+
+334
+00:12:00,959 --> 00:12:02,480
+are also different in
+
+335
+00:12:02,480 --> 00:12:04,800
+an infinite number of ways but it's
+
+336
+00:12:04,800 --> 00:12:06,480
+impossible to tell that unless you could
+
+337
+00:12:06,480 --> 00:12:08,079
+see the whole pattern
+
+338
+00:12:08,079 --> 00:12:11,839
+which is impossible
+
+339
+00:12:12,240 --> 00:12:14,639
+there's this kind of paradox to penrose
+
+340
+00:12:14,639 --> 00:12:15,440
+tilings
+
+341
+00:12:15,440 --> 00:12:18,480
+where there's an uncountable infinity
+
+342
+00:12:18,480 --> 00:12:20,720
+of different versions but just by
+
+343
+00:12:20,720 --> 00:12:21,839
+looking at them
+
+344
+00:12:21,839 --> 00:12:25,839
+you could never tell them apart
+
+345
+00:12:29,519 --> 00:12:31,680
+now what if we count up all the kites
+
+346
+00:12:31,680 --> 00:12:33,519
+and darts in this pattern
+
+347
+00:12:33,519 --> 00:12:38,000
+well i get 440 kites and 272
+
+348
+00:12:38,000 --> 00:12:41,120
+darts does that ratio ring any bells
+
+349
+00:12:41,120 --> 00:12:43,040
+well if you divide one by the other you
+
+350
+00:12:43,040 --> 00:12:46,399
+get 1.618
+
+351
+00:12:46,399 --> 00:12:50,800
+that is the golden ratio
+
+352
+00:12:50,800 --> 00:12:53,360
+so why does the golden ratio appear in
+
+353
+00:12:53,360 --> 00:12:54,399
+this pattern
+
+354
+00:12:54,399 --> 00:12:57,040
+well as you know it contains a kind of
+
+355
+00:12:57,040 --> 00:12:58,560
+five-fold symmetry
+
+356
+00:12:58,560 --> 00:13:01,040
+and of all the irrational constants the
+
+357
+00:13:01,040 --> 00:13:02,160
+golden ratio
+
+358
+00:13:02,160 --> 00:13:05,200
+phi is the most five-ish of the
+
+359
+00:13:05,200 --> 00:13:06,720
+constants i mean you can express the
+
+360
+00:13:06,720 --> 00:13:08,079
+golden ratio as
+
+361
+00:13:08,079 --> 00:13:12,079
+0.5 plus 5 to the power of 0.5
+
+362
+00:13:12,079 --> 00:13:15,120
+times 0.5 the golden ratio is also
+
+363
+00:13:15,120 --> 00:13:17,279
+heavily associated with pentagons
+
+364
+00:13:17,279 --> 00:13:19,920
+i mean the ratio of the diagonal to an
+
+365
+00:13:19,920 --> 00:13:20,560
+edge
+
+366
+00:13:20,560 --> 00:13:23,120
+is the golden ratio and the kite and
+
+367
+00:13:23,120 --> 00:13:24,560
+dart pieces themselves
+
+368
+00:13:24,560 --> 00:13:27,200
+are actually sections of pentagons same
+
+369
+00:13:27,200 --> 00:13:28,240
+with the rhombuses
+
+370
+00:13:28,240 --> 00:13:30,480
+so they actually have the golden ratio
+
+371
+00:13:30,480 --> 00:13:31,360
+built right
+
+372
+00:13:31,360 --> 00:13:33,920
+into their construction the fact that
+
+373
+00:13:33,920 --> 00:13:35,839
+the ratio of kites to darts approaches
+
+374
+00:13:35,839 --> 00:13:38,079
+the golden ratio an irrational number
+
+375
+00:13:38,079 --> 00:13:40,079
+provides evidence that the pattern can't
+
+376
+00:13:40,079 --> 00:13:41,760
+possibly be periodic
+
+377
+00:13:41,760 --> 00:13:43,519
+if the pattern were periodic then the
+
+378
+00:13:43,519 --> 00:13:45,120
+ratio of kites to darts
+
+379
+00:13:45,120 --> 00:13:47,360
+could be expressed as a ratio of two
+
+380
+00:13:47,360 --> 00:13:48,399
+whole numbers
+
+381
+00:13:48,399 --> 00:13:50,079
+the number of kites to darts in each
+
+382
+00:13:50,079 --> 00:13:51,600
+periodic segment
+
+383
+00:13:51,600 --> 00:13:54,079
+and it goes deeper if you draw on the
+
+384
+00:13:54,079 --> 00:13:54,720
+tiles
+
+385
+00:13:54,720 --> 00:13:57,360
+not curves but these particular straight
+
+386
+00:13:57,360 --> 00:13:58,240
+lines
+
+387
+00:13:58,240 --> 00:13:59,680
+well now when you put the pattern
+
+388
+00:13:59,680 --> 00:14:02,720
+together you see something interesting
+
+389
+00:14:02,720 --> 00:14:05,199
+they all connect up perfectly into
+
+390
+00:14:05,199 --> 00:14:06,959
+straight lines
+
+391
+00:14:06,959 --> 00:14:10,800
+there are five sets of parallel lines
+
+392
+00:14:10,800 --> 00:14:13,360
+this is a kind of proof of the five-fold
+
+393
+00:14:13,360 --> 00:14:15,360
+symmetry of the pattern
+
+394
+00:14:15,360 --> 00:14:18,720
+but it is not perfectly regular
+
+395
+00:14:18,720 --> 00:14:20,800
+take a look at any one set of parallel
+
+396
+00:14:20,800 --> 00:14:22,480
+lines you'll notice
+
+397
+00:14:22,480 --> 00:14:24,480
+there are two different spacings call
+
+398
+00:14:24,480 --> 00:14:26,320
+them long and short
+
+399
+00:14:26,320 --> 00:14:29,279
+from the bottom we have long short long
+
+400
+00:14:29,279 --> 00:14:30,560
+short long
+
+401
+00:14:30,560 --> 00:14:34,480
+long wait that breaks the pattern
+
+402
+00:14:34,480 --> 00:14:37,120
+these gaps don't follow a periodic
+
+403
+00:14:37,120 --> 00:14:38,800
+pattern either
+
+404
+00:14:38,800 --> 00:14:40,720
+but count up the number of longs and
+
+405
+00:14:40,720 --> 00:14:42,240
+shorts in any section
+
+406
+00:14:42,240 --> 00:14:45,760
+here i get 13 shorts and 21 longs
+
+407
+00:14:45,760 --> 00:14:49,040
+and you have the fibonacci sequence
+
+408
+00:14:49,040 --> 00:14:52,399
+1 1 2 3 5 8 13 21
+
+409
+00:14:52,399 --> 00:14:55,680
+34 and so on and the ratio of
+
+410
+00:14:55,680 --> 00:14:58,480
+one fibonacci number to the previous one
+
+411
+00:14:58,480 --> 00:14:59,760
+approaches
+
+412
+00:14:59,760 --> 00:15:02,800
+the golden ratio
+
+413
+00:15:04,959 --> 00:15:06,720
+now the question penrose faced from
+
+414
+00:15:06,720 --> 00:15:08,160
+other scientists was
+
+415
+00:15:08,160 --> 00:15:10,320
+could there be a physical analog for
+
+416
+00:15:10,320 --> 00:15:11,360
+these patterns
+
+417
+00:15:11,360 --> 00:15:13,600
+do they occur in nature perhaps in
+
+418
+00:15:13,600 --> 00:15:15,040
+crystal structure
+
+419
+00:15:15,040 --> 00:15:17,680
+penrose thought that was unlikely the
+
+420
+00:15:17,680 --> 00:15:19,680
+very nature of a crystal is that it is
+
+421
+00:15:19,680 --> 00:15:21,600
+made up of repeating units
+
+422
+00:15:21,600 --> 00:15:23,440
+just as the fundamental symmetries of
+
+423
+00:15:23,440 --> 00:15:25,199
+the shapes that tile the plane had been
+
+424
+00:15:25,199 --> 00:15:26,079
+worked out much
+
+425
+00:15:26,079 --> 00:15:28,560
+earlier the basic unit cells that
+
+426
+00:15:28,560 --> 00:15:29,199
+compose
+
+427
+00:15:29,199 --> 00:15:31,839
+all crystals were well established there
+
+428
+00:15:31,839 --> 00:15:33,120
+are 14 of them
+
+429
+00:15:33,120 --> 00:15:35,199
+and no one had ever seen a crystal that
+
+430
+00:15:35,199 --> 00:15:36,160
+failed to fit
+
+431
+00:15:36,160 --> 00:15:38,480
+one of these patterns and there was
+
+432
+00:15:38,480 --> 00:15:39,519
+another problem
+
+433
+00:15:39,519 --> 00:15:42,000
+crystals are built by putting atoms and
+
+434
+00:15:42,000 --> 00:15:43,360
+molecules together
+
+435
+00:15:43,360 --> 00:15:45,839
+locally whereas penrose tilings well
+
+436
+00:15:45,839 --> 00:15:47,600
+they seem to require some sort of
+
+437
+00:15:47,600 --> 00:15:49,759
+long range coordination take this
+
+438
+00:15:49,759 --> 00:15:51,360
+pattern for example
+
+439
+00:15:51,360 --> 00:15:54,480
+you could put a dart over here
+
+440
+00:15:54,480 --> 00:15:56,959
+and continue to tile out to infinity no
+
+441
+00:15:56,959 --> 00:15:57,759
+problems
+
+442
+00:15:57,759 --> 00:16:00,800
+or you could put a kite
+
+443
+00:16:00,800 --> 00:16:03,920
+over here on the other side again no
+
+444
+00:16:03,920 --> 00:16:05,040
+problems
+
+445
+00:16:05,040 --> 00:16:08,240
+but if you place the kite
+
+446
+00:16:08,240 --> 00:16:11,680
+and dart in here simultaneously
+
+447
+00:16:11,680 --> 00:16:14,720
+well then this pattern will not work
+
+448
+00:16:14,720 --> 00:16:17,759
+i mean you can keep tiling for a while
+
+449
+00:16:17,759 --> 00:16:19,839
+but when you get to somewhere around
+
+450
+00:16:19,839 --> 00:16:20,880
+here
+
+451
+00:16:20,880 --> 00:16:23,920
+well it's not gonna work you can put a
+
+452
+00:16:23,920 --> 00:16:25,519
+dart in there which completes the
+
+453
+00:16:25,519 --> 00:16:27,360
+pattern nicely but then you get this
+
+454
+00:16:27,360 --> 00:16:29,920
+really awkward shape there which is
+
+455
+00:16:29,920 --> 00:16:32,399
+actually the shape of another dart
+
+456
+00:16:32,399 --> 00:16:35,040
+but if you put that one in there then
+
+457
+00:16:35,040 --> 00:16:35,519
+the
+
+458
+00:16:35,519 --> 00:16:37,440
+lines don't match up the pattern doesn't
+
+459
+00:16:37,440 --> 00:16:40,320
+work so how could this work as a crystal
+
+460
+00:16:40,320 --> 00:16:42,399
+i mean both of these tiles obey the
+
+461
+00:16:42,399 --> 00:16:43,519
+local rules
+
+462
+00:16:43,519 --> 00:16:45,519
+but in the long term they just don't
+
+463
+00:16:45,519 --> 00:16:47,920
+work in the early 1980s
+
+464
+00:16:47,920 --> 00:16:49,759
+paul steinhardt and his students were
+
+465
+00:16:49,759 --> 00:16:52,320
+using computers to model how atoms come
+
+466
+00:16:52,320 --> 00:16:54,240
+together into condensed matter
+
+467
+00:16:54,240 --> 00:16:56,399
+that is essentially solid material at
+
+468
+00:16:56,399 --> 00:16:58,160
+the smallest scales
+
+469
+00:16:58,160 --> 00:17:00,399
+and he found that locally they like to
+
+470
+00:17:00,399 --> 00:17:02,320
+form icosahedrons
+
+471
+00:17:02,320 --> 00:17:04,559
+but this was known to be the most
+
+472
+00:17:04,559 --> 00:17:06,720
+forbidden shape because it is full
+
+473
+00:17:06,720 --> 00:17:09,359
+of five-fold symmetries so the question
+
+474
+00:17:09,359 --> 00:17:10,480
+they posed was
+
+475
+00:17:10,480 --> 00:17:13,119
+how big can these zykosahedrons get they
+
+476
+00:17:13,119 --> 00:17:14,720
+thought maybe 10 atoms or
+
+477
+00:17:14,720 --> 00:17:17,359
+100 atoms but inspired by penrose
+
+478
+00:17:17,359 --> 00:17:18,000
+tilings
+
+479
+00:17:18,000 --> 00:17:20,319
+they designed a new kind of structure a
+
+480
+00:17:20,319 --> 00:17:22,799
+3d analog of penrose tilings now known
+
+481
+00:17:22,799 --> 00:17:24,319
+as a quasi-crystal
+
+482
+00:17:24,319 --> 00:17:26,799
+and they simulated how x-rays would
+
+483
+00:17:26,799 --> 00:17:28,480
+diffract off such a structure
+
+484
+00:17:28,480 --> 00:17:30,320
+and they found a pattern with rings of
+
+485
+00:17:30,320 --> 00:17:32,480
+10 points reflecting the five-fold
+
+486
+00:17:32,480 --> 00:17:33,520
+symmetry
+
+487
+00:17:33,520 --> 00:17:35,360
+just a few hundred kilometers away
+
+488
+00:17:35,360 --> 00:17:37,360
+completely unaware of their work another
+
+489
+00:17:37,360 --> 00:17:38,320
+scientist dan
+
+490
+00:17:38,320 --> 00:17:41,120
+schechtman created this flaky material
+
+491
+00:17:41,120 --> 00:17:41,600
+from
+
+492
+00:17:41,600 --> 00:17:44,080
+aluminum and manganese and when he
+
+493
+00:17:44,080 --> 00:17:46,559
+scattered electrons off his material
+
+494
+00:17:46,559 --> 00:17:49,600
+this is the picture he got it
+
+495
+00:17:49,600 --> 00:17:52,400
+almost perfectly matches the one made by
+
+496
+00:17:52,400 --> 00:17:55,039
+steinhardt
+
+497
+00:17:56,880 --> 00:18:00,000
+so if penrose tilings require long
+
+498
+00:18:00,000 --> 00:18:02,480
+range coordination then how do you
+
+499
+00:18:02,480 --> 00:18:03,440
+possibly make
+
+500
+00:18:03,440 --> 00:18:06,080
+quasi crystals well i was talking to
+
+501
+00:18:06,080 --> 00:18:07,840
+paul steinhardt about this and he told
+
+502
+00:18:07,840 --> 00:18:08,400
+me
+
+503
+00:18:08,400 --> 00:18:10,960
+if you just use the matching rules on
+
+504
+00:18:10,960 --> 00:18:11,919
+the edges
+
+505
+00:18:11,919 --> 00:18:14,400
+those rules are not strong enough and if
+
+506
+00:18:14,400 --> 00:18:15,919
+you apply them locally you run into
+
+507
+00:18:15,919 --> 00:18:17,679
+problems like this you misplace
+
+508
+00:18:17,679 --> 00:18:20,640
+tiles but he said if you have rules for
+
+509
+00:18:20,640 --> 00:18:22,559
+the vertices the way the vertices can
+
+510
+00:18:22,559 --> 00:18:25,440
+connect with each other those rules are
+
+511
+00:18:25,440 --> 00:18:26,320
+strong enough
+
+512
+00:18:26,320 --> 00:18:29,200
+locally so that you never make a mistake
+
+513
+00:18:29,200 --> 00:18:29,919
+and the pattern
+
+514
+00:18:29,919 --> 00:18:33,120
+can go on to infinity one of the seminal
+
+515
+00:18:33,120 --> 00:18:34,799
+papers on quasi crystals
+
+516
+00:18:34,799 --> 00:18:37,840
+was called deniva quinquangula
+
+517
+00:18:37,840 --> 00:18:40,720
+on the pentagonal snowflake in a shout
+
+518
+00:18:40,720 --> 00:18:41,200
+out
+
+519
+00:18:41,200 --> 00:18:44,000
+to kepler now not everyone was delighted
+
+520
+00:18:44,000 --> 00:18:45,840
+at the announcement of quasi crystals a
+
+521
+00:18:45,840 --> 00:18:47,280
+material that up until then people
+
+522
+00:18:47,280 --> 00:18:47,679
+thought
+
+523
+00:18:47,679 --> 00:18:50,960
+totally defied the laws of nature double
+
+524
+00:18:50,960 --> 00:18:52,240
+nobel prize winner
+
+525
+00:18:52,240 --> 00:18:54,960
+linus pauling famously remarked there
+
+526
+00:18:54,960 --> 00:18:56,880
+are no quasi crystals
+
+527
+00:18:56,880 --> 00:19:00,799
+only quasi scientists
+
+528
+00:19:01,280 --> 00:19:03,760
+but uh schechtman got the last laugh he
+
+529
+00:19:03,760 --> 00:19:05,360
+was awarded the nobel prize for
+
+530
+00:19:05,360 --> 00:19:07,280
+chemistry in 2011
+
+531
+00:19:07,280 --> 00:19:09,039
+and quasi crystals have since been grown
+
+532
+00:19:09,039 --> 00:19:12,080
+with beautiful dodecahedral shapes
+
+533
+00:19:12,080 --> 00:19:13,919
+they are currently being explored for
+
+534
+00:19:13,919 --> 00:19:15,120
+applications from
+
+535
+00:19:15,120 --> 00:19:17,120
+non-stick electrical insulation and
+
+536
+00:19:17,120 --> 00:19:18,240
+cookware to
+
+537
+00:19:18,240 --> 00:19:20,960
+ultra durable steel and the thing about
+
+538
+00:19:20,960 --> 00:19:22,799
+this whole story that fascinates me the
+
+539
+00:19:22,799 --> 00:19:23,200
+most
+
+540
+00:19:23,200 --> 00:19:25,200
+is what exists that we just can't
+
+541
+00:19:25,200 --> 00:19:26,720
+perceive because it's considered
+
+542
+00:19:26,720 --> 00:19:27,600
+impossible
+
+543
+00:19:27,600 --> 00:19:29,360
+i mean the symmetries of regular
+
+544
+00:19:29,360 --> 00:19:30,880
+geometric shapes seemed
+
+545
+00:19:30,880 --> 00:19:33,120
+so obvious and certain that no one
+
+546
+00:19:33,120 --> 00:19:34,880
+thought to look beyond them
+
+547
+00:19:34,880 --> 00:19:37,760
+that is until penrose and what we found
+
+548
+00:19:37,760 --> 00:19:38,000
+are
+
+549
+00:19:38,000 --> 00:19:40,160
+patterns that are both beautiful and
+
+550
+00:19:40,160 --> 00:19:41,360
+counter-intuitive
+
+551
+00:19:41,360 --> 00:19:44,240
+and materials that existed all along
+
+552
+00:19:44,240 --> 00:19:45,919
+that we just couldn't see
+
+553
+00:19:45,919 --> 00:19:53,280
+for what they really are
+
+554
+00:19:53,280 --> 00:19:54,720
+hey this portion of the video was
+
+555
+00:19:54,720 --> 00:19:56,400
+sponsored by lastpass and
+
+556
+00:19:56,400 --> 00:19:57,840
+they have sponsored a number of my
+
+557
+00:19:57,840 --> 00:19:59,760
+videos in the past which tells me two
+
+558
+00:19:59,760 --> 00:20:00,480
+things
+
+559
+00:20:00,480 --> 00:20:02,960
+number one many of you have signed up so
+
+560
+00:20:02,960 --> 00:20:03,919
+you don't have to remember your
+
+561
+00:20:03,919 --> 00:20:06,159
+passwords anymore or worry about getting
+
+562
+00:20:06,159 --> 00:20:07,679
+locked out of your accounts
+
+563
+00:20:07,679 --> 00:20:10,159
+and number two some of you have not yet
+
+564
+00:20:10,159 --> 00:20:10,720
+signed up
+
+565
+00:20:10,720 --> 00:20:12,400
+hence this reminder that your accounts
+
+566
+00:20:12,400 --> 00:20:14,400
+will be more secure and your brain
+
+567
+00:20:14,400 --> 00:20:15,760
+less cluttered when you put your
+
+568
+00:20:15,760 --> 00:20:18,159
+passwords on autopilot with lastpass
+
+569
+00:20:18,159 --> 00:20:20,320
+they give you unlimited password storage
+
+570
+00:20:20,320 --> 00:20:21,600
+free cross-device sync
+
+571
+00:20:21,600 --> 00:20:23,600
+and even password sharing if you ever
+
+572
+00:20:23,600 --> 00:20:25,440
+need to give someone else access to one
+
+573
+00:20:25,440 --> 00:20:26,640
+of your accounts
+
+574
+00:20:26,640 --> 00:20:28,799
+lastpass autofills your credentials on
+
+575
+00:20:28,799 --> 00:20:30,720
+mobile sites and apps for ios and
+
+576
+00:20:30,720 --> 00:20:31,280
+android
+
+577
+00:20:31,280 --> 00:20:33,679
+and it is so fast and easy when you open
+
+578
+00:20:33,679 --> 00:20:35,440
+an app or site lastpass fills in your
+
+579
+00:20:35,440 --> 00:20:37,360
+username and password in an instant
+
+580
+00:20:37,360 --> 00:20:39,520
+now real talk do you have important
+
+581
+00:20:39,520 --> 00:20:41,200
+accounts with the same password
+
+582
+00:20:41,200 --> 00:20:43,600
+i used to and it's not secure but
+
+583
+00:20:43,600 --> 00:20:45,039
+remembering a random string of
+
+584
+00:20:45,039 --> 00:20:47,039
+characters is not something i expect my
+
+585
+00:20:47,039 --> 00:20:48,080
+brain to do
+
+586
+00:20:48,080 --> 00:20:49,760
+have you had to reset one of your
+
+587
+00:20:49,760 --> 00:20:52,000
+passwords recently it's annoying and the
+
+588
+00:20:52,000 --> 00:20:53,120
+time you waste
+
+589
+00:20:53,120 --> 00:20:55,679
+will just accumulate over your lifetime
+
+590
+00:20:55,679 --> 00:20:57,760
+there are small steps you can take today
+
+591
+00:20:57,760 --> 00:20:59,840
+that will improve every day for the rest
+
+592
+00:20:59,840 --> 00:21:01,280
+of your life and getting a great
+
+593
+00:21:01,280 --> 00:21:02,480
+password manager
+
+594
+00:21:02,480 --> 00:21:04,400
+is one of those steps so click the link
+
+595
+00:21:04,400 --> 00:21:06,799
+below and start using lastpass today
+
+596
+00:21:06,799 --> 00:21:08,400
+i want to thank lastpass for sponsoring
+
+597
+00:21:08,400 --> 00:21:09,760
+this portion of the video and i want to
+
+598
+00:21:09,760 --> 00:21:13,280
+thank you for watching
+

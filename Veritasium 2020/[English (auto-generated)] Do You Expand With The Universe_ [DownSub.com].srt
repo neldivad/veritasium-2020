@@ -1,0 +1,1476 @@
+1
+00:00:00,160 --> 00:00:02,000
+a portion of this video was sponsored by
+
+2
+00:00:02,000 --> 00:00:04,240
+salesforce more about salesforce at the
+
+3
+00:00:04,240 --> 00:00:05,100
+end of the show
+
+4
+00:00:05,100 --> 00:00:07,279
+[Music]
+
+5
+00:00:07,279 --> 00:00:09,200
+the first piece of evidence that showed
+
+6
+00:00:09,200 --> 00:00:11,200
+our universe is expanding
+
+7
+00:00:11,200 --> 00:00:14,160
+came in the light from distant galaxies
+
+8
+00:00:14,160 --> 00:00:16,079
+if you look at the spectrum of the sun
+
+9
+00:00:16,079 --> 00:00:18,400
+you see these dark lines and we see
+
+10
+00:00:18,400 --> 00:00:19,760
+those same lines
+
+11
+00:00:19,760 --> 00:00:21,920
+in the spectra from galaxies except
+
+12
+00:00:21,920 --> 00:00:22,880
+they're shifted
+
+13
+00:00:22,880 --> 00:00:25,359
+to longer wavelengths towards the red
+
+14
+00:00:25,359 --> 00:00:26,800
+end of the spectrum
+
+15
+00:00:26,800 --> 00:00:31,039
+so we say their light is red-shifted
+
+16
+00:00:31,039 --> 00:00:32,960
+now the usual explanation for this
+
+17
+00:00:32,960 --> 00:00:35,040
+redshift is that as the light is
+
+18
+00:00:35,040 --> 00:00:37,360
+traveling through expanding space
+
+19
+00:00:37,360 --> 00:00:40,480
+the photons themselves become stretched
+
+20
+00:00:40,480 --> 00:00:43,600
+so short wavelengths get longer and this
+
+21
+00:00:43,600 --> 00:00:46,320
+is known as cosmological redshift the
+
+22
+00:00:46,320 --> 00:00:48,239
+explanation is fairly intuitively
+
+23
+00:00:48,239 --> 00:00:50,000
+satisfying and most people go on without
+
+24
+00:00:50,000 --> 00:00:51,680
+giving it a second thought
+
+25
+00:00:51,680 --> 00:00:53,760
+but the problem is if you do give it a
+
+26
+00:00:53,760 --> 00:00:55,360
+second thought you think
+
+27
+00:00:55,360 --> 00:00:57,440
+well if expanding space can stretch
+
+28
+00:00:57,440 --> 00:00:59,680
+something like a photon something that's
+
+29
+00:00:59,680 --> 00:01:03,440
+so incredibly tiny does it also stretch
+
+30
+00:01:03,440 --> 00:01:06,640
+atoms and molecules is expanding
+
+31
+00:01:06,640 --> 00:01:10,640
+space stretching stars and galaxies
+
+32
+00:01:10,640 --> 00:01:13,520
+and what about you are you expanding
+
+33
+00:01:13,520 --> 00:01:16,320
+with the universe
+
+34
+00:01:17,280 --> 00:01:19,040
+to answer these questions we've got to
+
+35
+00:01:19,040 --> 00:01:20,960
+take a closer look at what it really
+
+36
+00:01:20,960 --> 00:01:21,840
+means to
+
+37
+00:01:21,840 --> 00:01:24,640
+redshift physicists actually talk about
+
+38
+00:01:24,640 --> 00:01:26,640
+three different types of redshift
+
+39
+00:01:26,640 --> 00:01:28,720
+doppler redshift where observers moving
+
+40
+00:01:28,720 --> 00:01:29,840
+relative to one another
+
+41
+00:01:29,840 --> 00:01:31,280
+measure photons to have different
+
+42
+00:01:31,280 --> 00:01:33,840
+wavelengths gravitational redshift where
+
+43
+00:01:33,840 --> 00:01:35,520
+observers at different locations in a
+
+44
+00:01:35,520 --> 00:01:36,799
+gravitational field
+
+45
+00:01:36,799 --> 00:01:38,880
+measure different wavelengths and
+
+46
+00:01:38,880 --> 00:01:41,040
+cosmological redshift where observers
+
+47
+00:01:41,040 --> 00:01:42,479
+exchanging photons over
+
+48
+00:01:42,479 --> 00:01:45,040
+vast cosmological distances in an
+
+49
+00:01:45,040 --> 00:01:46,560
+expanding universe
+
+50
+00:01:46,560 --> 00:01:48,720
+measure different wavelengths these
+
+51
+00:01:48,720 --> 00:01:49,680
+three cases
+
+52
+00:01:49,680 --> 00:01:51,600
+appear very different and they're
+
+53
+00:01:51,600 --> 00:01:54,000
+governed by different equations
+
+54
+00:01:54,000 --> 00:01:57,520
+so how does each redshift actually occur
+
+55
+00:01:57,520 --> 00:01:59,119
+let's start with a photon in a
+
+56
+00:01:59,119 --> 00:02:00,640
+gravitational field
+
+57
+00:02:00,640 --> 00:02:02,479
+there is this famous experiment
+
+58
+00:02:02,479 --> 00:02:05,439
+conducted in 1959 by pound and rebka
+
+59
+00:02:05,439 --> 00:02:08,160
+sending photons up and down a 22 meter
+
+60
+00:02:08,160 --> 00:02:09,520
+tower at harvard
+
+61
+00:02:09,520 --> 00:02:11,280
+now they used gamma rays but all
+
+62
+00:02:11,280 --> 00:02:13,920
+represent them with visible light
+
+63
+00:02:13,920 --> 00:02:16,160
+they found that photons detected at the
+
+64
+00:02:16,160 --> 00:02:17,200
+top of the tower
+
+65
+00:02:17,200 --> 00:02:19,599
+were redshifted relative to the source
+
+66
+00:02:19,599 --> 00:02:20,879
+by the exact amount
+
+67
+00:02:20,879 --> 00:02:23,920
+predicted by general relativity which
+
+68
+00:02:23,920 --> 00:02:26,319
+is a tiny amount i'm dramatically
+
+69
+00:02:26,319 --> 00:02:28,400
+exaggerating the effect just so you can
+
+70
+00:02:28,400 --> 00:02:29,440
+see it
+
+71
+00:02:29,440 --> 00:02:31,599
+now where along the photons path does
+
+72
+00:02:31,599 --> 00:02:33,920
+this redshift take place
+
+73
+00:02:33,920 --> 00:02:36,720
+well it seems to happen continuously the
+
+74
+00:02:36,720 --> 00:02:37,840
+photon loses
+
+75
+00:02:37,840 --> 00:02:40,160
+a little bit of energy each millimeter
+
+76
+00:02:40,160 --> 00:02:41,360
+it climbs
+
+77
+00:02:41,360 --> 00:02:44,160
+up that tower meaning that the photon in
+
+78
+00:02:44,160 --> 00:02:45,360
+the middle of the tower
+
+79
+00:02:45,360 --> 00:02:48,239
+would appear green now according to
+
+80
+00:02:48,239 --> 00:02:50,080
+einstein's equivalence principle
+
+81
+00:02:50,080 --> 00:02:52,640
+being at rest on earth's surface is
+
+82
+00:02:52,640 --> 00:02:54,400
+indistinguishable from being
+
+83
+00:02:54,400 --> 00:02:56,800
+in a rocket in deep space accelerating
+
+84
+00:02:56,800 --> 00:02:57,840
+up at one
+
+85
+00:02:57,840 --> 00:03:00,879
+g so we could do the same experiment
+
+86
+00:03:00,879 --> 00:03:02,959
+in a rocket ship and we should get the
+
+87
+00:03:02,959 --> 00:03:04,400
+same result
+
+88
+00:03:04,400 --> 00:03:06,959
+if we send blue photons from the back of
+
+89
+00:03:06,959 --> 00:03:07,680
+the rocket
+
+90
+00:03:07,680 --> 00:03:09,760
+they should be red when they reach the
+
+91
+00:03:09,760 --> 00:03:11,760
+front and in the middle of the ship they
+
+92
+00:03:11,760 --> 00:03:12,560
+would appear
+
+93
+00:03:12,560 --> 00:03:14,959
+green this is exactly what we saw at
+
+94
+00:03:14,959 --> 00:03:16,879
+rest in a gravitational field so
+
+95
+00:03:16,879 --> 00:03:19,840
+the equivalence principle holds now
+
+96
+00:03:19,840 --> 00:03:20,400
+imagine
+
+97
+00:03:20,400 --> 00:03:23,360
+there are a line of external observers
+
+98
+00:03:23,360 --> 00:03:23,840
+just
+
+99
+00:03:23,840 --> 00:03:26,560
+hanging out in space at rest relative to
+
+100
+00:03:26,560 --> 00:03:27,360
+each other
+
+101
+00:03:27,360 --> 00:03:30,000
+and they can all see into the rocket
+
+102
+00:03:30,000 --> 00:03:31,920
+let's also say the rocket is initially
+
+103
+00:03:31,920 --> 00:03:32,799
+at rest
+
+104
+00:03:32,799 --> 00:03:34,959
+and the thrusters are switched on the
+
+105
+00:03:34,959 --> 00:03:36,080
+instant the photon
+
+106
+00:03:36,080 --> 00:03:38,720
+is released now since both observers are
+
+107
+00:03:38,720 --> 00:03:39,840
+at rest at this moment
+
+108
+00:03:39,840 --> 00:03:41,440
+they will both measure the photon as
+
+109
+00:03:41,440 --> 00:03:43,040
+having the exact same wavelength
+
+110
+00:03:43,040 --> 00:03:45,519
+it's blue but what about when the photon
+
+111
+00:03:45,519 --> 00:03:47,360
+reaches the middle of the rocket
+
+112
+00:03:47,360 --> 00:03:49,519
+well we know someone inside will see it
+
+113
+00:03:49,519 --> 00:03:50,560
+as green
+
+114
+00:03:50,560 --> 00:03:52,720
+but what about a stationary observer
+
+115
+00:03:52,720 --> 00:03:53,760
+outside
+
+116
+00:03:53,760 --> 00:03:55,840
+well to them the photon has just been
+
+117
+00:03:55,840 --> 00:03:57,680
+moving through ordinary flat
+
+118
+00:03:57,680 --> 00:04:00,720
+space-time so it must look blue
+
+119
+00:04:00,720 --> 00:04:02,480
+just as blue as it was when it was
+
+120
+00:04:02,480 --> 00:04:03,840
+emitted
+
+121
+00:04:03,840 --> 00:04:06,319
+so what's the deal how can the same
+
+122
+00:04:06,319 --> 00:04:07,120
+photon
+
+123
+00:04:07,120 --> 00:04:10,640
+look green and blue at the same time
+
+124
+00:04:10,640 --> 00:04:12,319
+has the equivalence principle been
+
+125
+00:04:12,319 --> 00:04:14,480
+violated the answer
+
+126
+00:04:14,480 --> 00:04:17,199
+is no it matters a lot to this
+
+127
+00:04:17,199 --> 00:04:17,759
+measurement
+
+128
+00:04:17,759 --> 00:04:20,478
+who is doing the observation consider
+
+129
+00:04:20,478 --> 00:04:21,358
+this
+
+130
+00:04:21,358 --> 00:04:23,440
+after the photon is emitted the rocket
+
+131
+00:04:23,440 --> 00:04:24,479
+accelerates it's
+
+132
+00:04:24,479 --> 00:04:26,800
+speeding up so by the time the photon
+
+133
+00:04:26,800 --> 00:04:28,800
+reaches the middle of the rocket
+
+134
+00:04:28,800 --> 00:04:30,960
+everyone inside is now moving at high
+
+135
+00:04:30,960 --> 00:04:31,840
+velocity
+
+136
+00:04:31,840 --> 00:04:33,440
+relative to the source when the light
+
+137
+00:04:33,440 --> 00:04:35,440
+was emitted and relative to the
+
+138
+00:04:35,440 --> 00:04:37,360
+observers outside the rocket
+
+139
+00:04:37,360 --> 00:04:39,120
+so it makes sense that the photon as
+
+140
+00:04:39,120 --> 00:04:40,960
+measured inside will look different
+
+141
+00:04:40,960 --> 00:04:41,520
+it'll be
+
+142
+00:04:41,520 --> 00:04:44,400
+redshifted this is the doppler redshift
+
+143
+00:04:44,400 --> 00:04:44,960
+because
+
+144
+00:04:44,960 --> 00:04:46,560
+the observer in the middle of the ship
+
+145
+00:04:46,560 --> 00:04:48,800
+is moving very quickly away from the
+
+146
+00:04:48,800 --> 00:04:49,680
+source
+
+147
+00:04:49,680 --> 00:04:51,280
+by the time the photon makes it to the
+
+148
+00:04:51,280 --> 00:04:53,120
+top of the rocket well the rocket will
+
+149
+00:04:53,120 --> 00:04:53,919
+be going even
+
+150
+00:04:53,919 --> 00:04:57,040
+faster and this is why it appears red
+
+151
+00:04:57,040 --> 00:04:59,199
+but to a stationary observer outside
+
+152
+00:04:59,199 --> 00:05:00,320
+well it still
+
+153
+00:05:00,320 --> 00:05:04,080
+looks blue this thought experiment
+
+154
+00:05:04,080 --> 00:05:06,639
+shows us that wavelength and energy are
+
+155
+00:05:06,639 --> 00:05:08,400
+not intrinsic properties
+
+156
+00:05:08,400 --> 00:05:10,639
+of photons they are properties of the
+
+157
+00:05:10,639 --> 00:05:13,520
+photon observer system
+
+158
+00:05:13,520 --> 00:05:16,160
+now let's recreate the harvard tower
+
+159
+00:05:16,160 --> 00:05:17,199
+experiment
+
+160
+00:05:17,199 --> 00:05:19,199
+observers in the building see the photon
+
+161
+00:05:19,199 --> 00:05:21,520
+redshifted as it climbs
+
+162
+00:05:21,520 --> 00:05:23,600
+but here's a question for you what would
+
+163
+00:05:23,600 --> 00:05:25,520
+a free-falling observer
+
+164
+00:05:25,520 --> 00:05:29,039
+see well they would be just like
+
+165
+00:05:29,039 --> 00:05:30,800
+the stationary observers in space
+
+166
+00:05:30,800 --> 00:05:33,280
+watching the rocket accelerate up
+
+167
+00:05:33,280 --> 00:05:35,280
+the physics of these two situations are
+
+168
+00:05:35,280 --> 00:05:36,639
+identical so
+
+169
+00:05:36,639 --> 00:05:39,919
+they would measure no redshift to them
+
+170
+00:05:39,919 --> 00:05:42,240
+the photon would look blue the whole
+
+171
+00:05:42,240 --> 00:05:43,199
+time
+
+172
+00:05:43,199 --> 00:05:45,520
+what i want to show is that there aren't
+
+173
+00:05:45,520 --> 00:05:46,880
+actually three different types of
+
+174
+00:05:46,880 --> 00:05:48,080
+redshifts there is
+
+175
+00:05:48,080 --> 00:05:50,000
+only one we've seen that the
+
+176
+00:05:50,000 --> 00:05:51,440
+gravitational redshift can
+
+177
+00:05:51,440 --> 00:05:53,680
+equivalently be seen as a doppler red
+
+178
+00:05:53,680 --> 00:05:55,680
+shift when we do the same analysis
+
+179
+00:05:55,680 --> 00:05:58,560
+in an accelerating rocket ship so what
+
+180
+00:05:58,560 --> 00:05:59,039
+about
+
+181
+00:05:59,039 --> 00:06:02,080
+cosmological redshift well for this we
+
+182
+00:06:02,080 --> 00:06:03,039
+have to zoom
+
+183
+00:06:03,039 --> 00:06:06,240
+way out past our solar system
+
+184
+00:06:06,240 --> 00:06:09,440
+the milky way galaxy our local cluster
+
+185
+00:06:09,440 --> 00:06:10,560
+of galaxies
+
+186
+00:06:10,560 --> 00:06:12,720
+we want to zoom so far out that the
+
+187
+00:06:12,720 --> 00:06:15,039
+galaxies in the observable universe
+
+188
+00:06:15,039 --> 00:06:18,160
+are like molecules in a fluid the
+
+189
+00:06:18,160 --> 00:06:21,840
+cosmic fluid at this scale we can treat
+
+190
+00:06:21,840 --> 00:06:23,360
+the whole universe as being
+
+191
+00:06:23,360 --> 00:06:26,479
+smooth and uniform cosmologists say it
+
+192
+00:06:26,479 --> 00:06:28,000
+is homogeneous
+
+193
+00:06:28,000 --> 00:06:29,520
+and just as you don't notice the
+
+194
+00:06:29,520 --> 00:06:31,759
+individual molecules in a cup of water
+
+195
+00:06:31,759 --> 00:06:34,000
+at this scale we don't notice the
+
+196
+00:06:34,000 --> 00:06:36,560
+individual galaxies in the cosmic fluid
+
+197
+00:06:36,560 --> 00:06:38,800
+and the cosmic fluid looks the same in
+
+198
+00:06:38,800 --> 00:06:40,080
+every direction
+
+199
+00:06:40,080 --> 00:06:42,960
+there is no preferred orientation it's
+
+200
+00:06:42,960 --> 00:06:43,600
+said to be
+
+201
+00:06:43,600 --> 00:06:46,800
+isotropic now what you'll notice is that
+
+202
+00:06:46,800 --> 00:06:48,400
+the cosmic fluid is
+
+203
+00:06:48,400 --> 00:06:50,880
+spreading out it doesn't matter where
+
+204
+00:06:50,880 --> 00:06:51,599
+you look
+
+205
+00:06:51,599 --> 00:06:54,720
+you see the same thing things moving
+
+206
+00:06:54,720 --> 00:06:55,759
+apart
+
+207
+00:06:55,759 --> 00:06:57,919
+the density of the cosmic fluid is
+
+208
+00:06:57,919 --> 00:06:58,800
+decreasing
+
+209
+00:06:58,800 --> 00:07:02,319
+over time and this is the basic property
+
+210
+00:07:02,319 --> 00:07:04,400
+of an expanding universe
+
+211
+00:07:04,400 --> 00:07:06,319
+we can draw some coordinates on the
+
+212
+00:07:06,319 --> 00:07:07,680
+universe we could pick
+
+213
+00:07:07,680 --> 00:07:10,000
+any different coordinate system we like
+
+214
+00:07:10,000 --> 00:07:11,759
+but one way it's often done
+
+215
+00:07:11,759 --> 00:07:13,520
+is to make a coordinate system that
+
+216
+00:07:13,520 --> 00:07:16,560
+expands with the cosmic fluid
+
+217
+00:07:16,560 --> 00:07:18,960
+so there will be certain observers whose
+
+218
+00:07:18,960 --> 00:07:19,680
+coordinates
+
+219
+00:07:19,680 --> 00:07:22,560
+don't change over time and these are
+
+220
+00:07:22,560 --> 00:07:23,440
+known as
+
+221
+00:07:23,440 --> 00:07:26,800
+co-moving observers they are at rest
+
+222
+00:07:26,800 --> 00:07:29,120
+with respect to the cosmic fluid
+
+223
+00:07:29,120 --> 00:07:31,599
+by the way on earth we are not a
+
+224
+00:07:31,599 --> 00:07:33,680
+co-moving observer our galaxy is moving
+
+225
+00:07:33,680 --> 00:07:35,919
+at 600 kilometers per second
+
+226
+00:07:35,919 --> 00:07:37,759
+relative to the cosmic microwave
+
+227
+00:07:37,759 --> 00:07:39,360
+background radiation
+
+228
+00:07:39,360 --> 00:07:42,000
+now let's pick two co-moving observers a
+
+229
+00:07:42,000 --> 00:07:43,520
+large distance apart
+
+230
+00:07:43,520 --> 00:07:46,319
+and have them exchange a photon its
+
+231
+00:07:46,319 --> 00:07:48,160
+wavelength will be stretched by the
+
+232
+00:07:48,160 --> 00:07:50,160
+amount the universe has expanded
+
+233
+00:07:50,160 --> 00:07:52,800
+during the photons journey this is the
+
+234
+00:07:52,800 --> 00:07:54,560
+standard picture of cosmological
+
+235
+00:07:54,560 --> 00:07:55,759
+redshift
+
+236
+00:07:55,759 --> 00:07:57,840
+but now consider a bunch of other
+
+237
+00:07:57,840 --> 00:07:59,919
+co-moving observers along the path of
+
+238
+00:07:59,919 --> 00:08:01,360
+this photon
+
+239
+00:08:01,360 --> 00:08:03,680
+each one absorbs the photon and
+
+240
+00:08:03,680 --> 00:08:05,440
+instantaneously emits another
+
+241
+00:08:05,440 --> 00:08:07,680
+identical to the one they measured now
+
+242
+00:08:07,680 --> 00:08:09,440
+each successive observer
+
+243
+00:08:09,440 --> 00:08:11,120
+will measure a slightly longer
+
+244
+00:08:11,120 --> 00:08:13,520
+wavelength than the observer before them
+
+245
+00:08:13,520 --> 00:08:15,360
+the photons stretching out just as you'd
+
+246
+00:08:15,360 --> 00:08:18,000
+expect in an expanding universe
+
+247
+00:08:18,000 --> 00:08:20,240
+but the reason they would give for this
+
+248
+00:08:20,240 --> 00:08:22,400
+redshift would be different
+
+249
+00:08:22,400 --> 00:08:24,879
+to each observer their neighboring
+
+250
+00:08:24,879 --> 00:08:26,160
+co-moving observers
+
+251
+00:08:26,160 --> 00:08:28,240
+would appear to be moving away from them
+
+252
+00:08:28,240 --> 00:08:30,720
+in locally flat space time
+
+253
+00:08:30,720 --> 00:08:32,719
+so they would attribute the increase in
+
+254
+00:08:32,719 --> 00:08:34,640
+wavelength to the doppler shift
+
+255
+00:08:34,640 --> 00:08:36,479
+just due to the relative motion between
+
+256
+00:08:36,479 --> 00:08:38,080
+them the
+
+257
+00:08:38,080 --> 00:08:40,719
+entirety of the cosmological redshift
+
+258
+00:08:40,719 --> 00:08:41,519
+then
+
+259
+00:08:41,519 --> 00:08:43,919
+can equivalently be thought of as the
+
+260
+00:08:43,919 --> 00:08:45,200
+result of a long
+
+261
+00:08:45,200 --> 00:08:48,800
+series of doppler shifts
+
+262
+00:08:49,279 --> 00:08:52,480
+what we've seen is redshifting is not
+
+263
+00:08:52,480 --> 00:08:54,080
+something that happens to a photon
+
+264
+00:08:54,080 --> 00:08:56,240
+itself instead it depends on what's
+
+265
+00:08:56,240 --> 00:08:57,839
+happening to observers at the point of
+
+266
+00:08:57,839 --> 00:08:58,480
+emission
+
+267
+00:08:58,480 --> 00:09:01,040
+and absorption of that photon and
+
+268
+00:09:01,040 --> 00:09:02,000
+because of this
+
+269
+00:09:02,000 --> 00:09:03,600
+there are actually not three different
+
+270
+00:09:03,600 --> 00:09:05,279
+types of redshift there's only one
+
+271
+00:09:05,279 --> 00:09:07,519
+described by a single underlying
+
+272
+00:09:07,519 --> 00:09:08,880
+mathematical framework
+
+273
+00:09:08,880 --> 00:09:10,880
+they only look different depending on
+
+274
+00:09:10,880 --> 00:09:12,560
+your frame of reference
+
+275
+00:09:12,560 --> 00:09:14,880
+now it can be convenient to talk about
+
+276
+00:09:14,880 --> 00:09:16,640
+expanding space when you have
+
+277
+00:09:16,640 --> 00:09:18,480
+two co-moving observers exchanging a
+
+278
+00:09:18,480 --> 00:09:20,399
+photon over vast distances in
+
+279
+00:09:20,399 --> 00:09:22,640
+an expanding universe then the photon's
+
+280
+00:09:22,640 --> 00:09:23,680
+wavelength is just
+
+281
+00:09:23,680 --> 00:09:25,519
+stretched by the amount the universe
+
+282
+00:09:25,519 --> 00:09:26,800
+expanded during its journey
+
+283
+00:09:26,800 --> 00:09:29,200
+that's nice and simple but you can
+
+284
+00:09:29,200 --> 00:09:31,279
+equally well describe the redshift by
+
+285
+00:09:31,279 --> 00:09:33,600
+a long chain of doppler shifts no
+
+286
+00:09:33,600 --> 00:09:36,310
+expanding space required
+
+287
+00:09:36,310 --> 00:09:40,240
+[Music]
+
+288
+00:09:40,240 --> 00:09:42,320
+the misconception is to think that
+
+289
+00:09:42,320 --> 00:09:44,800
+because photons are red-shifted as they
+
+290
+00:09:44,800 --> 00:09:46,480
+travel across the universe
+
+291
+00:09:46,480 --> 00:09:49,600
+that means expanding space is pulling on
+
+292
+00:09:49,600 --> 00:09:50,000
+things
+
+293
+00:09:50,000 --> 00:09:52,560
+and stretching things apart that's not
+
+294
+00:09:52,560 --> 00:09:53,839
+how it works space
+
+295
+00:09:53,839 --> 00:09:56,320
+is not like that so let's come back to
+
+296
+00:09:56,320 --> 00:09:58,399
+the central question of this video which
+
+297
+00:09:58,399 --> 00:09:58,880
+is
+
+298
+00:09:58,880 --> 00:10:01,600
+do you expand with the universe the
+
+299
+00:10:01,600 --> 00:10:02,560
+answer
+
+300
+00:10:02,560 --> 00:10:06,800
+is no because on the scale of people
+
+301
+00:10:06,800 --> 00:10:09,519
+the universe is not homogeneous i mean
+
+302
+00:10:09,519 --> 00:10:11,760
+matter is condensed down into objects in
+
+303
+00:10:11,760 --> 00:10:13,040
+the earth
+
+304
+00:10:13,040 --> 00:10:16,079
+and the universe is not isotropic
+
+305
+00:10:16,079 --> 00:10:18,800
+looking up looks decidedly different
+
+306
+00:10:18,800 --> 00:10:19,200
+from
+
+307
+00:10:19,200 --> 00:10:23,200
+looking down the basic assumptions we
+
+308
+00:10:23,200 --> 00:10:23,839
+made
+
+309
+00:10:23,839 --> 00:10:26,000
+about our expanding universe just don't
+
+310
+00:10:26,000 --> 00:10:27,360
+apply here
+
+311
+00:10:27,360 --> 00:10:29,519
+i mean the local space-time curvature is
+
+312
+00:10:29,519 --> 00:10:30,800
+dominated by
+
+313
+00:10:30,800 --> 00:10:33,839
+the earth so what if we took you out
+
+314
+00:10:33,839 --> 00:10:35,040
+into deep space
+
+315
+00:10:35,040 --> 00:10:37,519
+the middle of nowhere then would you
+
+316
+00:10:37,519 --> 00:10:38,880
+expand
+
+317
+00:10:38,880 --> 00:10:41,440
+still no because your body is held
+
+318
+00:10:41,440 --> 00:10:42,320
+together by
+
+319
+00:10:42,320 --> 00:10:44,800
+electromagnetic forces but what if we
+
+320
+00:10:44,800 --> 00:10:46,079
+could turn off
+
+321
+00:10:46,079 --> 00:10:48,000
+the electromagnetic force so your body
+
+322
+00:10:48,000 --> 00:10:50,640
+is just a jumble of particles that don't
+
+323
+00:10:50,640 --> 00:10:52,079
+interact
+
+324
+00:10:52,079 --> 00:10:55,600
+well in that case over time you
+
+325
+00:10:55,600 --> 00:10:58,800
+would expand but only because our
+
+326
+00:10:58,800 --> 00:11:01,760
+universe is now dominated by dark energy
+
+327
+00:11:01,760 --> 00:11:04,079
+so the take-home message of this video
+
+328
+00:11:04,079 --> 00:11:06,800
+is that red-shifting photons don't mean
+
+329
+00:11:06,800 --> 00:11:09,519
+that space is expanding and pulling on
+
+330
+00:11:09,519 --> 00:11:11,120
+everything stretching things apart
+
+331
+00:11:11,120 --> 00:11:13,279
+so molecules are not expanding and
+
+332
+00:11:13,279 --> 00:11:14,640
+neither are stars
+
+333
+00:11:14,640 --> 00:11:16,959
+and neither are galaxies and neither are
+
+334
+00:11:16,959 --> 00:11:17,680
+you
+
+335
+00:11:17,680 --> 00:11:19,760
+except for very extraordinary
+
+336
+00:11:19,760 --> 00:11:22,480
+circumstances
+
+337
+00:11:25,760 --> 00:11:29,839
+that tells you it's recording here we go
+
+338
+00:11:30,079 --> 00:11:31,600
+hey this portion of the video was
+
+339
+00:11:31,600 --> 00:11:33,600
+sponsored by salesforce a company that
+
+340
+00:11:33,600 --> 00:11:34,320
+can help you
+
+341
+00:11:34,320 --> 00:11:37,440
+expand your business the world is
+
+342
+00:11:37,440 --> 00:11:38,880
+transforming right now and a lot of
+
+343
+00:11:38,880 --> 00:11:40,320
+people are working from home
+
+344
+00:11:40,320 --> 00:11:42,480
+or working from anywhere accelerating
+
+345
+00:11:42,480 --> 00:11:44,640
+the shift to doing business online
+
+346
+00:11:44,640 --> 00:11:46,560
+and salesforce essentials can help your
+
+347
+00:11:46,560 --> 00:11:48,560
+business adapt to the evolving needs of
+
+348
+00:11:48,560 --> 00:11:49,440
+customers
+
+349
+00:11:49,440 --> 00:11:51,040
+for example you can make your website
+
+350
+00:11:51,040 --> 00:11:52,639
+work harder for you by using
+
+351
+00:11:52,639 --> 00:11:54,720
+lead capture forms from salesforce right
+
+352
+00:11:54,720 --> 00:11:56,639
+on your site you can then generate new
+
+353
+00:11:56,639 --> 00:11:58,320
+business and develop relationships with
+
+354
+00:11:58,320 --> 00:11:59,120
+customers
+
+355
+00:11:59,120 --> 00:12:01,839
+right from your crm to get a message out
+
+356
+00:12:01,839 --> 00:12:04,000
+or to share a special promo sales force
+
+357
+00:12:04,000 --> 00:12:05,839
+essentials helps you target the specific
+
+358
+00:12:05,839 --> 00:12:06,880
+customers you want
+
+359
+00:12:06,880 --> 00:12:09,279
+whether that's broad or focused you can
+
+360
+00:12:09,279 --> 00:12:10,160
+also help customers
+
+361
+00:12:10,160 --> 00:12:12,240
+find answers with a help center page or
+
+362
+00:12:12,240 --> 00:12:13,760
+meet customers where they are by
+
+363
+00:12:13,760 --> 00:12:15,760
+connecting your email phone and social
+
+364
+00:12:15,760 --> 00:12:16,560
+channels
+
+365
+00:12:16,560 --> 00:12:18,240
+follow the link down in the description
+
+366
+00:12:18,240 --> 00:12:20,480
+to learn more i want to thank salesforce
+
+367
+00:12:20,480 --> 00:12:22,160
+for sponsoring this portion of the video
+
+368
+00:12:22,160 --> 00:12:25,839
+and i want to thank you for watching
+
+369
+00:12:26,000 --> 00:12:29,519
+that's where you push the button again
+

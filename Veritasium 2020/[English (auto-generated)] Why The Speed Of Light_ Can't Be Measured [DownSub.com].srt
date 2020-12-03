@@ -1,0 +1,2320 @@
+1
+00:00:00,080 --> 00:00:02,560
+this video was sponsored by kiwiko more
+
+2
+00:00:02,560 --> 00:00:06,000
+about kiwiko at the end of the show
+
+3
+00:00:06,000 --> 00:00:08,320
+i know what you're thinking clickbait no
+
+4
+00:00:08,320 --> 00:00:10,240
+one has measured the speed of light
+
+5
+00:00:10,240 --> 00:00:12,480
+that's ridiculous the speed of light is
+
+6
+00:00:12,480 --> 00:00:15,920
+exactly 299 million 792
+
+7
+00:00:15,920 --> 00:00:19,279
+458 meters per second we are so sure of
+
+8
+00:00:19,279 --> 00:00:21,359
+it that since 1983 we've actually
+
+9
+00:00:21,359 --> 00:00:23,119
+used the speed of light to define how
+
+10
+00:00:23,119 --> 00:00:24,480
+long a meter is
+
+11
+00:00:24,480 --> 00:00:26,400
+it's just the distance light travels in
+
+12
+00:00:26,400 --> 00:00:28,560
+a vacuum in one over two nine nine
+
+13
+00:00:28,560 --> 00:00:31,760
+seven nine two 792 458 of a second that
+
+14
+00:00:31,760 --> 00:00:32,719
+definition
+
+15
+00:00:32,719 --> 00:00:34,880
+ensures that the speed of light is
+
+16
+00:00:34,880 --> 00:00:35,920
+exactly
+
+17
+00:00:35,920 --> 00:00:38,960
+this number no decimals but
+
+18
+00:00:38,960 --> 00:00:41,680
+hear me out in this video i will prove
+
+19
+00:00:41,680 --> 00:00:42,879
+to you that light
+
+20
+00:00:42,879 --> 00:00:45,920
+may never actually travel at this speed
+
+21
+00:00:45,920 --> 00:00:48,399
+and i can say that because no one has
+
+22
+00:00:48,399 --> 00:00:49,039
+actually
+
+23
+00:00:49,039 --> 00:00:51,199
+measured it we can't measure the speed
+
+24
+00:00:51,199 --> 00:00:52,719
+of light the same way we measure the
+
+25
+00:00:52,719 --> 00:00:53,199
+speed
+
+26
+00:00:53,199 --> 00:00:59,840
+of anything else
+
+27
+00:01:02,399 --> 00:01:03,760
+i think we're recording everywhere what
+
+28
+00:01:03,760 --> 00:01:05,519
+are we doing this is a video about
+
+29
+00:01:05,519 --> 00:01:07,920
+measuring the speed of stuff okay tell
+
+30
+00:01:07,920 --> 00:01:10,000
+me about how you measured the speed
+
+31
+00:01:10,000 --> 00:01:13,200
+of the baseball fired out of your cannon
+
+32
+00:01:13,200 --> 00:01:14,479
+well to get the speed of the baseball
+
+33
+00:01:14,479 --> 00:01:16,000
+you need to know two things you need to
+
+34
+00:01:16,000 --> 00:01:17,119
+know the distance
+
+35
+00:01:17,119 --> 00:01:18,880
+between two points and you need to know
+
+36
+00:01:18,880 --> 00:01:20,560
+the time that it takes the baseball to
+
+37
+00:01:20,560 --> 00:01:22,240
+travel between those points
+
+38
+00:01:22,240 --> 00:01:24,320
+so basically we took distance divided by
+
+39
+00:01:24,320 --> 00:01:25,920
+time and that's the speed of the
+
+40
+00:01:25,920 --> 00:01:26,880
+baseball
+
+41
+00:01:26,880 --> 00:01:28,240
+and in our case we were shooting with a
+
+42
+00:01:28,240 --> 00:01:30,079
+high speed camera so you basically just
+
+43
+00:01:30,079 --> 00:01:31,200
+count the frames
+
+44
+00:01:31,200 --> 00:01:33,280
+and then your clock is internal oh
+
+45
+00:01:33,280 --> 00:01:34,640
+you're going relativity you're gonna do
+
+46
+00:01:34,640 --> 00:01:36,560
+something weird aren't you
+
+47
+00:01:36,560 --> 00:01:38,799
+you saw it coming i can't believe it oh
+
+48
+00:01:38,799 --> 00:01:41,040
+man the thing i want to ask you about
+
+49
+00:01:41,040 --> 00:01:44,159
+is the speed of light okay could you
+
+50
+00:01:44,159 --> 00:01:47,600
+measure the speed of light like this
+
+51
+00:01:47,600 --> 00:01:50,240
+imagine you have a laser that can fire a
+
+52
+00:01:50,240 --> 00:01:50,960
+beam through
+
+53
+00:01:50,960 --> 00:01:54,000
+a perfect vacuum for one kilometer start
+
+54
+00:01:54,000 --> 00:01:54,640
+a timer
+
+55
+00:01:54,640 --> 00:01:57,360
+the instant you fire the laser beam then
+
+56
+00:01:57,360 --> 00:01:59,119
+exactly when it hits the end
+
+57
+00:01:59,119 --> 00:02:02,240
+stop the clock except how do you know
+
+58
+00:02:02,240 --> 00:02:04,159
+when light reaches one kilometer
+
+59
+00:02:04,159 --> 00:02:06,320
+if you and the clock are at the starting
+
+60
+00:02:06,320 --> 00:02:07,600
+point
+
+61
+00:02:07,600 --> 00:02:10,399
+okay so you need two clocks one at the
+
+62
+00:02:10,399 --> 00:02:12,160
+laser and one at the end
+
+63
+00:02:12,160 --> 00:02:13,760
+which stops automatically when it
+
+64
+00:02:13,760 --> 00:02:15,680
+detects the laser light
+
+65
+00:02:15,680 --> 00:02:17,599
+but now how do you make sure your two
+
+66
+00:02:17,599 --> 00:02:19,360
+clocks are synchronized
+
+67
+00:02:19,360 --> 00:02:21,520
+well you could connect them via a wire
+
+68
+00:02:21,520 --> 00:02:24,239
+and send a pulse from one to the other
+
+69
+00:02:24,239 --> 00:02:26,160
+but that pulse will travel at the speed
+
+70
+00:02:26,160 --> 00:02:27,280
+of light so
+
+71
+00:02:27,280 --> 00:02:29,760
+it will arrive with a time delay you
+
+72
+00:02:29,760 --> 00:02:30,480
+might think
+
+73
+00:02:30,480 --> 00:02:32,560
+you can just subtract that time delay
+
+74
+00:02:32,560 --> 00:02:34,720
+but is equal to the time it takes for
+
+75
+00:02:34,720 --> 00:02:36,560
+light to travel one kilometer
+
+76
+00:02:36,560 --> 00:02:38,640
+that's what we don't know and are trying
+
+77
+00:02:38,640 --> 00:02:40,800
+to measure
+
+78
+00:02:40,800 --> 00:02:43,360
+okay new plan start with the clocks
+
+79
+00:02:43,360 --> 00:02:44,080
+together
+
+80
+00:02:44,080 --> 00:02:46,800
+and sync them up first and then send one
+
+81
+00:02:46,800 --> 00:02:48,879
+of the clocks down to the end
+
+82
+00:02:48,879 --> 00:02:52,080
+now what could possibly go wrong
+
+83
+00:02:52,080 --> 00:02:53,760
+well i'll tell you the clock at the
+
+84
+00:02:53,760 --> 00:02:55,360
+finish line was moving with respect to
+
+85
+00:02:55,360 --> 00:02:56,400
+the one at the start
+
+86
+00:02:56,400 --> 00:02:58,640
+and special relativity tells us moving
+
+87
+00:02:58,640 --> 00:03:00,800
+clocks tick slow relative to stationary
+
+88
+00:03:00,800 --> 00:03:01,760
+observers
+
+89
+00:03:01,760 --> 00:03:03,760
+so by the time the clock reaches one
+
+90
+00:03:03,760 --> 00:03:06,239
+kilometer it will no longer be in sync
+
+91
+00:03:06,239 --> 00:03:08,000
+with the clock at the start
+
+92
+00:03:08,000 --> 00:03:10,239
+can i tell you the only solution to this
+
+93
+00:03:10,239 --> 00:03:11,360
+problem
+
+94
+00:03:11,360 --> 00:03:14,159
+ditch the second clock put a mirror at
+
+95
+00:03:14,159 --> 00:03:16,239
+the end to reflect the light back
+
+96
+00:03:16,239 --> 00:03:18,319
+and use a single clock at the start to
+
+97
+00:03:18,319 --> 00:03:21,120
+time the full two kilometer round trip
+
+98
+00:03:21,120 --> 00:03:23,840
+wasn't this actually done before he was
+
+99
+00:03:23,840 --> 00:03:25,519
+on a mountain and there's a wagon wheel
+
+100
+00:03:25,519 --> 00:03:27,120
+with a lantern
+
+101
+00:03:27,120 --> 00:03:28,720
+and there's something like a mirror on
+
+102
+00:03:28,720 --> 00:03:29,760
+the other side of the mountain i've
+
+103
+00:03:29,760 --> 00:03:31,200
+always wanted to do this
+
+104
+00:03:31,200 --> 00:03:34,480
+so uh that sounds a little like how the
+
+105
+00:03:34,480 --> 00:03:35,599
+speed of light was first
+
+106
+00:03:35,599 --> 00:03:38,000
+experimentally measured by epolite fizzo
+
+107
+00:03:38,000 --> 00:03:39,599
+in 1849
+
+108
+00:03:39,599 --> 00:03:41,599
+he shot a beam of light between the
+
+109
+00:03:41,599 --> 00:03:43,840
+teeth of a rapidly spinning gear to a
+
+110
+00:03:43,840 --> 00:03:44,560
+mirror
+
+111
+00:03:44,560 --> 00:03:46,879
+up on a hill eight kilometers away and
+
+112
+00:03:46,879 --> 00:03:47,599
+then by
+
+113
+00:03:47,599 --> 00:03:49,200
+increasing the speed of the gear he
+
+114
+00:03:49,200 --> 00:03:50,799
+reached a point where the reflected
+
+115
+00:03:50,799 --> 00:03:52,640
+light passed through the next gap on the
+
+116
+00:03:52,640 --> 00:03:53,200
+gear
+
+117
+00:03:53,200 --> 00:03:55,519
+and so it was observed so he measured
+
+118
+00:03:55,519 --> 00:03:56,680
+the speed of light to be
+
+119
+00:03:56,680 --> 00:03:59,760
+313 000 kilometers per second
+
+120
+00:03:59,760 --> 00:04:01,760
+which is within five percent of the
+
+121
+00:04:01,760 --> 00:04:03,760
+presently accepted value
+
+122
+00:04:03,760 --> 00:04:05,760
+so someone has measured the speed of
+
+123
+00:04:05,760 --> 00:04:07,360
+light
+
+124
+00:04:07,360 --> 00:04:10,159
+or have they what has been measured is
+
+125
+00:04:10,159 --> 00:04:10,480
+the
+
+126
+00:04:10,480 --> 00:04:13,120
+round trip or two-way speed of light but
+
+127
+00:04:13,120 --> 00:04:15,519
+no one has measured the one-way
+
+128
+00:04:15,519 --> 00:04:17,519
+speed of light one thing i'm going to
+
+129
+00:04:17,519 --> 00:04:19,358
+throw at you and i'm just going to
+
+130
+00:04:19,358 --> 00:04:21,120
+i'm just going to come out and tell you
+
+131
+00:04:21,120 --> 00:04:23,759
+it's like what if the speed of light
+
+132
+00:04:23,759 --> 00:04:27,120
+in this direction is different from the
+
+133
+00:04:27,120 --> 00:04:29,280
+speed of light in this direction
+
+134
+00:04:29,280 --> 00:04:32,960
+then that sounds like a veritasium video
+
+135
+00:04:33,840 --> 00:04:35,759
+the question is could you figure it out
+
+136
+00:04:35,759 --> 00:04:37,360
+the kind of crux of this problem
+
+137
+00:04:37,360 --> 00:04:39,120
+is that the only way people have managed
+
+138
+00:04:39,120 --> 00:04:40,720
+to measure the speed of light
+
+139
+00:04:40,720 --> 00:04:43,440
+is for a round trip no one's ever
+
+140
+00:04:43,440 --> 00:04:45,120
+managed to measure the speed of light in
+
+141
+00:04:45,120 --> 00:04:46,479
+just one direction
+
+142
+00:04:46,479 --> 00:04:48,960
+it's possible that the speed of light is
+
+143
+00:04:48,960 --> 00:04:49,520
+half
+
+144
+00:04:49,520 --> 00:04:51,919
+of c in one direction and then
+
+145
+00:04:51,919 --> 00:04:53,680
+instantaneous on the return journey
+
+146
+00:04:53,680 --> 00:04:55,840
+what that's that's possible are you
+
+147
+00:04:55,840 --> 00:04:57,360
+serious
+
+148
+00:04:57,360 --> 00:04:58,880
+think about communicating with an
+
+149
+00:04:58,880 --> 00:05:00,880
+astronaut stranded on mars
+
+150
+00:05:00,880 --> 00:05:04,720
+let's call him mark we send out a signal
+
+151
+00:05:04,720 --> 00:05:07,680
+and get a response 20 minutes later
+
+152
+00:05:07,680 --> 00:05:09,680
+so we imagine our signal takes 10
+
+153
+00:05:09,680 --> 00:05:11,440
+minutes to get there
+
+154
+00:05:11,440 --> 00:05:13,520
+and the reply takes 10 minutes to come
+
+155
+00:05:13,520 --> 00:05:14,479
+back
+
+156
+00:05:14,479 --> 00:05:17,199
+but it's possible that our message took
+
+157
+00:05:17,199 --> 00:05:17,520
+all
+
+158
+00:05:17,520 --> 00:05:20,240
+20 minutes to get there and the reply
+
+159
+00:05:20,240 --> 00:05:21,000
+came back
+
+160
+00:05:21,000 --> 00:05:24,720
+instantaneously there's no way we could
+
+161
+00:05:24,720 --> 00:05:26,400
+tell the difference between these two
+
+162
+00:05:26,400 --> 00:05:27,919
+scenarios
+
+163
+00:05:27,919 --> 00:05:29,840
+but why would the speed of light be
+
+164
+00:05:29,840 --> 00:05:31,280
+different well
+
+165
+00:05:31,280 --> 00:05:33,199
+it's possible that there is some
+
+166
+00:05:33,199 --> 00:05:35,759
+preferred direction through space-time
+
+167
+00:05:35,759 --> 00:05:37,360
+i mean our universe has a lot of
+
+168
+00:05:37,360 --> 00:05:39,440
+symmetries but there is also some
+
+169
+00:05:39,440 --> 00:05:40,400
+asymmetry
+
+170
+00:05:40,400 --> 00:05:43,280
+for example why is there so much matter
+
+171
+00:05:43,280 --> 00:05:45,280
+relative to antimatter
+
+172
+00:05:45,280 --> 00:05:46,960
+and physicists have worked out
+
+173
+00:05:46,960 --> 00:05:48,639
+internally consistent theories of
+
+174
+00:05:48,639 --> 00:05:50,240
+physics in which the speed of light
+
+175
+00:05:50,240 --> 00:05:53,199
+is different forwards and in reverse the
+
+176
+00:05:53,199 --> 00:05:55,199
+speed of light could vary by just a few
+
+177
+00:05:55,199 --> 00:05:56,240
+percent
+
+178
+00:05:56,240 --> 00:05:59,120
+up to at the extreme going c over two in
+
+179
+00:05:59,120 --> 00:06:00,080
+one direction and
+
+180
+00:06:00,080 --> 00:06:03,360
+infinitely fast in the other direction
+
+181
+00:06:03,360 --> 00:06:06,160
+okay so let me let me figure this out so
+
+182
+00:06:06,160 --> 00:06:07,840
+yeah i
+
+183
+00:06:07,840 --> 00:06:10,000
+i kind of don't believe you i kind of
+
+184
+00:06:10,000 --> 00:06:10,880
+don't believe you
+
+185
+00:06:10,880 --> 00:06:12,960
+i don't believe you that light is a
+
+186
+00:06:12,960 --> 00:06:14,560
+different speed in one direction but in
+
+187
+00:06:14,560 --> 00:06:15,919
+the other but i know you well enough to
+
+188
+00:06:15,919 --> 00:06:17,199
+know that you wouldn't
+
+189
+00:06:17,199 --> 00:06:20,479
+you wouldn't call me and put a camera
+
+190
+00:06:20,479 --> 00:06:22,720
+on me unless you knew you were right and
+
+191
+00:06:22,720 --> 00:06:25,199
+that's what scares me about this
+
+192
+00:06:25,199 --> 00:06:27,919
+that scares me
+
+193
+00:06:28,400 --> 00:06:31,039
+now you might think it is just simpler
+
+194
+00:06:31,039 --> 00:06:32,560
+that light should travel at the same
+
+195
+00:06:32,560 --> 00:06:34,240
+speed in all directions
+
+196
+00:06:34,240 --> 00:06:37,360
+but the truth is that is a convention
+
+197
+00:06:37,360 --> 00:06:39,600
+rather than an experimentally verified
+
+198
+00:06:39,600 --> 00:06:41,919
+fact
+
+199
+00:06:42,400 --> 00:06:44,560
+einstein himself pointed this out in his
+
+200
+00:06:44,560 --> 00:06:46,479
+famous 1905 paper
+
+201
+00:06:46,479 --> 00:06:48,800
+on the electrodynamics of moving bodies
+
+202
+00:06:48,800 --> 00:06:50,960
+he spends the first couple of pages
+
+203
+00:06:50,960 --> 00:06:52,880
+on the problem of synchronizing clocks
+
+204
+00:06:52,880 --> 00:06:54,400
+at different locations a
+
+205
+00:06:54,400 --> 00:06:57,360
+and b and he says there is no way that
+
+206
+00:06:57,360 --> 00:06:59,360
+we can meaningfully compare the times
+
+207
+00:06:59,360 --> 00:07:00,319
+they measure
+
+208
+00:07:00,319 --> 00:07:03,039
+unless we establish by definition that
+
+209
+00:07:03,039 --> 00:07:04,880
+the time required by light to travel
+
+210
+00:07:04,880 --> 00:07:06,000
+from a to b
+
+211
+00:07:06,000 --> 00:07:08,000
+equals the time it requires to travel
+
+212
+00:07:08,000 --> 00:07:10,240
+from b to a
+
+213
+00:07:10,240 --> 00:07:12,240
+he's essentially defining that the speed
+
+214
+00:07:12,240 --> 00:07:13,919
+of light in opposite directions
+
+215
+00:07:13,919 --> 00:07:17,199
+is the same and he puts by definition in
+
+216
+00:07:17,199 --> 00:07:18,720
+italics to remind us
+
+217
+00:07:18,720 --> 00:07:20,800
+that this is only a convention it's
+
+218
+00:07:20,800 --> 00:07:22,720
+known as the einstein synchronization
+
+219
+00:07:22,720 --> 00:07:24,000
+convention
+
+220
+00:07:24,000 --> 00:07:26,160
+so the idea that the speed of light is
+
+221
+00:07:26,160 --> 00:07:27,919
+the same in opposite directions
+
+222
+00:07:27,919 --> 00:07:30,400
+as einstein would later write is neither
+
+223
+00:07:30,400 --> 00:07:33,039
+a supposition nor a hypothesis about the
+
+224
+00:07:33,039 --> 00:07:34,560
+physical nature of light
+
+225
+00:07:34,560 --> 00:07:37,759
+but a stipulation that i can make of my
+
+226
+00:07:37,759 --> 00:07:40,240
+own free will to arrive at a definition
+
+227
+00:07:40,240 --> 00:07:42,240
+of simultaneity
+
+228
+00:07:42,240 --> 00:07:44,479
+that sounds a lot more subjective than
+
+229
+00:07:44,479 --> 00:07:45,840
+how i think most people
+
+230
+00:07:45,840 --> 00:07:47,360
+would imagine the speed of light is
+
+231
+00:07:47,360 --> 00:07:49,360
+defined dude
+
+232
+00:07:49,360 --> 00:07:52,240
+this is hardcore
+
+233
+00:07:52,960 --> 00:07:54,800
+i've never thought about this i didn't
+
+234
+00:07:54,800 --> 00:07:56,319
+think about this before either i always
+
+235
+00:07:56,319 --> 00:07:57,680
+assumed that when we said
+
+236
+00:07:57,680 --> 00:07:59,360
+the speed of light is c we meant the
+
+237
+00:07:59,360 --> 00:08:01,120
+one-way speed of light there's no way to
+
+238
+00:08:01,120 --> 00:08:02,800
+define the one-way speed of light
+
+239
+00:08:02,800 --> 00:08:04,240
+so the only thing we can really define
+
+240
+00:08:04,240 --> 00:08:05,840
+is the two-way speed of light just
+
+241
+00:08:05,840 --> 00:08:08,560
+look at the way einstein defines c it's
+
+242
+00:08:08,560 --> 00:08:10,080
+for the round trip from a
+
+243
+00:08:10,080 --> 00:08:12,800
+to b and back i don't know if you saw in
+
+244
+00:08:12,800 --> 00:08:14,160
+your physics classes but whenever there
+
+245
+00:08:14,160 --> 00:08:15,599
+was a light clock
+
+246
+00:08:15,599 --> 00:08:17,199
+it would always bounce the light up and
+
+247
+00:08:17,199 --> 00:08:19,520
+then back you would never see a light
+
+248
+00:08:19,520 --> 00:08:22,000
+clock just bounce slight one way
+
+249
+00:08:22,000 --> 00:08:24,560
+and this is why the only thing we can be
+
+250
+00:08:24,560 --> 00:08:25,039
+certain
+
+251
+00:08:25,039 --> 00:08:27,599
+is constant for all inertial observers
+
+252
+00:08:27,599 --> 00:08:29,919
+is the two-way speed of light
+
+253
+00:08:29,919 --> 00:08:32,399
+for over a hundred years scientists have
+
+254
+00:08:32,399 --> 00:08:34,320
+tried to find a way around this
+
+255
+00:08:34,320 --> 00:08:36,399
+to measure the one-way speed of light by
+
+256
+00:08:36,399 --> 00:08:37,599
+itself
+
+257
+00:08:37,599 --> 00:08:38,958
+here is a paper published in the
+
+258
+00:08:38,958 --> 00:08:41,279
+american journal of physics in 2009 that
+
+259
+00:08:41,279 --> 00:08:43,200
+claims to measure the one-way speed of
+
+260
+00:08:43,200 --> 00:08:44,080
+light
+
+261
+00:08:44,080 --> 00:08:46,320
+and here is the paper debunking this
+
+262
+00:08:46,320 --> 00:08:48,000
+study pointing out that these authors
+
+263
+00:08:48,000 --> 00:08:49,760
+were actually measuring the two-way
+
+264
+00:08:49,760 --> 00:08:51,200
+speed of light
+
+265
+00:08:51,200 --> 00:08:53,279
+but i'm imagining you might have some
+
+266
+00:08:53,279 --> 00:08:55,040
+ideas for how to measure the one-way
+
+267
+00:08:55,040 --> 00:08:56,160
+speed of light so
+
+268
+00:08:56,160 --> 00:08:58,000
+let's go through some of them i mean
+
+269
+00:08:58,000 --> 00:08:59,920
+can't we just use a high-speed camera
+
+270
+00:08:59,920 --> 00:09:01,600
+that shoots at a trillion frames a
+
+271
+00:09:01,600 --> 00:09:02,640
+second so we can
+
+272
+00:09:02,640 --> 00:09:04,480
+actually see light passing through an
+
+273
+00:09:04,480 --> 00:09:06,959
+object the problem is you're not
+
+274
+00:09:06,959 --> 00:09:08,480
+only seeing the light pass through the
+
+275
+00:09:08,480 --> 00:09:10,080
+object you're also seeing it bounce back
+
+276
+00:09:10,080 --> 00:09:11,120
+to the camera
+
+277
+00:09:11,120 --> 00:09:14,720
+measuring the two-way speed not one way
+
+278
+00:09:14,720 --> 00:09:17,839
+here you go get a spool of fiber optic
+
+279
+00:09:17,839 --> 00:09:18,720
+cable
+
+280
+00:09:18,720 --> 00:09:21,920
+you know i don't know like 186 000 miles
+
+281
+00:09:21,920 --> 00:09:23,360
+and then and you could shine the light
+
+282
+00:09:23,360 --> 00:09:24,959
+here and you have the other end of the
+
+283
+00:09:24,959 --> 00:09:26,160
+fiber here and you could
+
+284
+00:09:26,160 --> 00:09:28,000
+shine here and then wait and see the
+
+285
+00:09:28,000 --> 00:09:30,080
+delay see if it's one second later over
+
+286
+00:09:30,080 --> 00:09:30,480
+here
+
+287
+00:09:30,480 --> 00:09:32,160
+the thing is like that fiber's going
+
+288
+00:09:32,160 --> 00:09:33,600
+around and around and around so
+
+289
+00:09:33,600 --> 00:09:35,519
+it could be that when the light goes
+
+290
+00:09:35,519 --> 00:09:37,279
+this way over the top of the
+
+291
+00:09:37,279 --> 00:09:39,279
+loop it goes slower and then when it
+
+292
+00:09:39,279 --> 00:09:41,440
+goes on the bottom it goes faster
+
+293
+00:09:41,440 --> 00:09:43,519
+it all averages out in the fiber and
+
+294
+00:09:43,519 --> 00:09:44,880
+you're you're essentially getting lots
+
+295
+00:09:44,880 --> 00:09:46,320
+of round trips in that fiber
+
+296
+00:09:46,320 --> 00:09:48,240
+so you're never getting a one way what
+
+297
+00:09:48,240 --> 00:09:50,480
+if you center a synchronizing device
+
+298
+00:09:50,480 --> 00:09:51,920
+between your two clocks
+
+299
+00:09:51,920 --> 00:09:55,279
+and send out simultaneous pulses well
+
+300
+00:09:55,279 --> 00:09:56,720
+if the speed of light is the same in
+
+301
+00:09:56,720 --> 00:09:58,560
+both directions this perfectly
+
+302
+00:09:58,560 --> 00:10:00,240
+synchronizes your clocks
+
+303
+00:10:00,240 --> 00:10:02,160
+but if the speed of light is different
+
+304
+00:10:02,160 --> 00:10:03,279
+in each direction
+
+305
+00:10:03,279 --> 00:10:04,959
+one of the clocks will be ahead of the
+
+306
+00:10:04,959 --> 00:10:06,959
+other and it will be ahead by
+
+307
+00:10:06,959 --> 00:10:08,959
+just the right amount so that when you
+
+308
+00:10:08,959 --> 00:10:10,320
+measure the speed of light
+
+309
+00:10:10,320 --> 00:10:13,120
+you will find the value to be c even
+
+310
+00:10:13,120 --> 00:10:13,839
+though
+
+311
+00:10:13,839 --> 00:10:15,600
+that was not the speed the light was
+
+312
+00:10:15,600 --> 00:10:18,000
+traveling this is the same reason
+
+313
+00:10:18,000 --> 00:10:20,640
+gps synchronized clocks won't work the
+
+314
+00:10:20,640 --> 00:10:21,040
+whole
+
+315
+00:10:21,040 --> 00:10:23,040
+gps system is based on the assumption
+
+316
+00:10:23,040 --> 00:10:24,800
+that the speed of light is the same in
+
+317
+00:10:24,800 --> 00:10:26,000
+all directions
+
+318
+00:10:26,000 --> 00:10:27,680
+if the speed of light is different in
+
+319
+00:10:27,680 --> 00:10:29,680
+different directions the light pulses
+
+320
+00:10:29,680 --> 00:10:30,720
+from satellites
+
+321
+00:10:30,720 --> 00:10:32,959
+will travel at different speeds so the
+
+322
+00:10:32,959 --> 00:10:34,880
+clocks won't be properly synced
+
+323
+00:10:34,880 --> 00:10:36,880
+by that i mean they will always measure
+
+324
+00:10:36,880 --> 00:10:38,480
+c for the one-way speed of light
+
+325
+00:10:38,480 --> 00:10:42,160
+whether it is or isn't
+
+326
+00:10:42,640 --> 00:10:44,399
+how about starting with synchronized
+
+327
+00:10:44,399 --> 00:10:45,680
+clocks in the middle
+
+328
+00:10:45,680 --> 00:10:47,920
+and moving them apart with equal and
+
+329
+00:10:47,920 --> 00:10:49,279
+opposite speeds
+
+330
+00:10:49,279 --> 00:10:50,880
+that way the time dilation for each
+
+331
+00:10:50,880 --> 00:10:52,720
+clock will be the same and they'll still
+
+332
+00:10:52,720 --> 00:10:53,600
+be synchronized
+
+333
+00:10:53,600 --> 00:10:56,800
+when they reach the end points but again
+
+334
+00:10:56,800 --> 00:10:59,200
+this only works if the speed of light in
+
+335
+00:10:59,200 --> 00:11:00,800
+each direction is the same
+
+336
+00:11:00,800 --> 00:11:02,160
+if the speed of light depends on
+
+337
+00:11:02,160 --> 00:11:04,240
+direction then so does
+
+338
+00:11:04,240 --> 00:11:06,720
+time dilation you might think you could
+
+339
+00:11:06,720 --> 00:11:07,680
+move the clocks
+
+340
+00:11:07,680 --> 00:11:09,760
+really really slowly so that time
+
+341
+00:11:09,760 --> 00:11:11,680
+dilation is negligible
+
+342
+00:11:11,680 --> 00:11:13,519
+but if the speed of light is different
+
+343
+00:11:13,519 --> 00:11:14,800
+in different directions
+
+344
+00:11:14,800 --> 00:11:17,200
+you can't just use the standard formula
+
+345
+00:11:17,200 --> 00:11:19,200
+to calculate what that time dilation
+
+346
+00:11:19,200 --> 00:11:21,279
+would be i mean it could be a lot worse
+
+347
+00:11:21,279 --> 00:11:22,480
+than you think
+
+348
+00:11:22,480 --> 00:11:25,360
+so the reality is we're stuck we need
+
+349
+00:11:25,360 --> 00:11:26,800
+synchronized clocks to measure the
+
+350
+00:11:26,800 --> 00:11:28,000
+one-way speed of light
+
+351
+00:11:28,000 --> 00:11:29,680
+but we need to know the one-way speed of
+
+352
+00:11:29,680 --> 00:11:32,480
+light in order to synchronize our clocks
+
+353
+00:11:32,480 --> 00:11:33,920
+now this might sound like just an
+
+354
+00:11:33,920 --> 00:11:36,240
+academic concern so i want to go through
+
+355
+00:11:36,240 --> 00:11:37,920
+an example to illustrate just how
+
+356
+00:11:37,920 --> 00:11:39,440
+differently the universe works
+
+357
+00:11:39,440 --> 00:11:41,519
+if the speed of light is not the same in
+
+358
+00:11:41,519 --> 00:11:43,600
+all directions
+
+359
+00:11:43,600 --> 00:11:46,320
+let's say on mars mark is trying to
+
+360
+00:11:46,320 --> 00:11:48,800
+synchronize his clock with the earth
+
+361
+00:11:48,800 --> 00:11:50,720
+at noon mission control sends out a
+
+362
+00:11:50,720 --> 00:11:51,839
+message that says
+
+363
+00:11:51,839 --> 00:11:53,680
+this signal was sent at exactly 12
+
+364
+00:11:53,680 --> 00:11:56,320
+o'clock when mark receives this message
+
+365
+00:11:56,320 --> 00:11:58,560
+he uses the einstein synchronization
+
+366
+00:11:58,560 --> 00:12:00,560
+convention to set his clock
+
+367
+00:12:00,560 --> 00:12:02,480
+he knows the round-trip time delay is 20
+
+368
+00:12:02,480 --> 00:12:04,480
+minutes so he assumes the signal must
+
+369
+00:12:04,480 --> 00:12:06,959
+have taken 10 minutes to reach him
+
+370
+00:12:06,959 --> 00:12:09,600
+he programs his clock to 12 10 pm and
+
+371
+00:12:09,600 --> 00:12:11,279
+sends a return message
+
+372
+00:12:11,279 --> 00:12:14,880
+this reply sent to 12 10.
+
+373
+00:12:14,880 --> 00:12:16,720
+the message is received on earth at 12
+
+374
+00:12:16,720 --> 00:12:18,399
+20 pm so both parties know the
+
+375
+00:12:18,399 --> 00:12:20,240
+synchronization was successful
+
+376
+00:12:20,240 --> 00:12:22,560
+when the clock reads 12 20 on earth it
+
+377
+00:12:22,560 --> 00:12:24,000
+simultaneously reads
+
+378
+00:12:24,000 --> 00:12:27,040
+1220 on mars
+
+379
+00:12:27,040 --> 00:12:28,639
+but now consider what happens if the
+
+380
+00:12:28,639 --> 00:12:30,399
+speed of light is not the same in both
+
+381
+00:12:30,399 --> 00:12:32,399
+directions
+
+382
+00:12:32,399 --> 00:12:34,959
+let's say it is c over 2 from earth to
+
+383
+00:12:34,959 --> 00:12:35,600
+mars
+
+384
+00:12:35,600 --> 00:12:37,839
+and then instantaneous from mars back to
+
+385
+00:12:37,839 --> 00:12:38,800
+earth
+
+386
+00:12:38,800 --> 00:12:40,480
+no one knows this of course so they
+
+387
+00:12:40,480 --> 00:12:42,880
+continue to use the einstein convention
+
+388
+00:12:42,880 --> 00:12:45,519
+the message is sent from earth but now
+
+389
+00:12:45,519 --> 00:12:46,399
+it takes a full
+
+390
+00:12:46,399 --> 00:12:49,279
+20 minutes to reach mars but mark
+
+391
+00:12:49,279 --> 00:12:50,320
+doesn't know this
+
+392
+00:12:50,320 --> 00:12:52,240
+and as before he assumes the signal took
+
+393
+00:12:52,240 --> 00:12:53,920
+10 minutes to reach him so he sets his
+
+394
+00:12:53,920 --> 00:12:55,760
+clock to 12 10 pm
+
+395
+00:12:55,760 --> 00:12:58,639
+even though on earth it is now 12 20.
+
+396
+00:12:58,639 --> 00:12:59,760
+mark then sends
+
+397
+00:12:59,760 --> 00:13:02,639
+this reply sent to 12 10 pm which is
+
+398
+00:13:02,639 --> 00:13:04,959
+instantaneously received on earth
+
+399
+00:13:04,959 --> 00:13:08,480
+at 12 20 earth time
+
+400
+00:13:08,480 --> 00:13:10,480
+the experience for the two communicators
+
+401
+00:13:10,480 --> 00:13:11,760
+is the same
+
+402
+00:13:11,760 --> 00:13:13,760
+the same messages were received with the
+
+403
+00:13:13,760 --> 00:13:15,600
+same local time delays
+
+404
+00:13:15,600 --> 00:13:17,839
+but their clocks are out of sync by 10
+
+405
+00:13:17,839 --> 00:13:19,120
+minutes
+
+406
+00:13:19,120 --> 00:13:21,040
+what they think is the same moment for
+
+407
+00:13:21,040 --> 00:13:22,560
+the other observer
+
+408
+00:13:22,560 --> 00:13:25,279
+actually isn't and there is no way they
+
+409
+00:13:25,279 --> 00:13:26,639
+can ever recognize or
+
+410
+00:13:26,639 --> 00:13:29,040
+correct this error imagine if someone on
+
+411
+00:13:29,040 --> 00:13:30,639
+earth immediately responded
+
+412
+00:13:30,639 --> 00:13:32,320
+how long did this message take to reach
+
+413
+00:13:32,320 --> 00:13:33,760
+you it's now 12
+
+414
+00:13:33,760 --> 00:13:35,839
+20. well the message would take 20
+
+415
+00:13:35,839 --> 00:13:37,279
+minutes to reach mars
+
+416
+00:13:37,279 --> 00:13:39,440
+but due to the clocks being out of sync
+
+417
+00:13:39,440 --> 00:13:41,760
+it would arrive at 12 30 mars time
+
+418
+00:13:41,760 --> 00:13:44,480
+so mark would reply 10 minutes a message
+
+419
+00:13:44,480 --> 00:13:45,199
+that would
+
+420
+00:13:45,199 --> 00:13:48,160
+instantaneously reach the earth at 12 40
+
+421
+00:13:48,160 --> 00:13:50,240
+earth time
+
+422
+00:13:50,240 --> 00:13:53,040
+the space-time diagram shows how there
+
+423
+00:13:53,040 --> 00:13:55,040
+is flexibility in what you consider to
+
+424
+00:13:55,040 --> 00:13:56,399
+be the same moment
+
+425
+00:13:56,399 --> 00:13:59,279
+at two different locations and in how
+
+426
+00:13:59,279 --> 00:14:01,760
+you define the one-way speed of light
+
+427
+00:14:01,760 --> 00:14:03,360
+einstein chose the convention where the
+
+428
+00:14:03,360 --> 00:14:04,880
+one-way speed of light is always the
+
+429
+00:14:04,880 --> 00:14:05,680
+same
+
+430
+00:14:05,680 --> 00:14:08,480
+but from an experimental perspective any
+
+431
+00:14:08,480 --> 00:14:09,360
+other convention
+
+432
+00:14:09,360 --> 00:14:12,639
+is just as valid up to and including one
+
+433
+00:14:12,639 --> 00:14:14,399
+where the speed of light is c over two
+
+434
+00:14:14,399 --> 00:14:15,199
+one way
+
+435
+00:14:15,199 --> 00:14:18,480
+and instantaneous the other way
+
+436
+00:14:18,480 --> 00:14:20,639
+and in that case it's interesting to
+
+437
+00:14:20,639 --> 00:14:22,560
+think about what each observer is seeing
+
+438
+00:14:22,560 --> 00:14:23,279
+when they look
+
+439
+00:14:23,279 --> 00:14:26,079
+at the other mark would be seeing the
+
+440
+00:14:26,079 --> 00:14:27,120
+earth as it was
+
+441
+00:14:27,120 --> 00:14:30,800
+20 minutes ago but earth is seeing mars
+
+442
+00:14:30,800 --> 00:14:33,920
+in real time exactly as it is
+
+443
+00:14:33,920 --> 00:14:37,519
+right now and this effect wouldn't stop
+
+444
+00:14:37,519 --> 00:14:38,320
+at mars
+
+445
+00:14:38,320 --> 00:14:40,560
+look beyond it and you could see stars
+
+446
+00:14:40,560 --> 00:14:42,399
+hundreds of light years away
+
+447
+00:14:42,399 --> 00:14:44,800
+not as they looked centuries ago but
+
+448
+00:14:44,800 --> 00:14:45,600
+exactly
+
+449
+00:14:45,600 --> 00:14:49,440
+as they are right this instant
+
+450
+00:14:49,440 --> 00:14:52,320
+one of the things is you only know about
+
+451
+00:14:52,320 --> 00:14:52,959
+that light
+
+452
+00:14:52,959 --> 00:14:54,800
+when it reaches you and you don't know
+
+453
+00:14:54,800 --> 00:14:56,399
+anything about what journey it took to
+
+454
+00:14:56,399 --> 00:14:57,600
+get to you you just
+
+455
+00:14:57,600 --> 00:14:59,360
+see it and it's there so like it's
+
+456
+00:14:59,360 --> 00:15:00,880
+instantaneous
+
+457
+00:15:00,880 --> 00:15:02,560
+so an instantaneous interpretation of
+
+458
+00:15:02,560 --> 00:15:04,480
+that light is just as good as one where
+
+459
+00:15:04,480 --> 00:15:06,959
+it takes c to reach us
+
+460
+00:15:06,959 --> 00:15:09,519
+this is breaking my brain yeah yeah i
+
+461
+00:15:09,519 --> 00:15:11,199
+mean it's it's kind of unknowable isn't
+
+462
+00:15:11,199 --> 00:15:11,440
+it
+
+463
+00:15:11,440 --> 00:15:13,040
+it is unknowable that's the whole point
+
+464
+00:15:13,040 --> 00:15:15,279
+of the video is to say
+
+465
+00:15:15,279 --> 00:15:16,880
+we've all agreed and this is based on
+
+466
+00:15:16,880 --> 00:15:18,720
+something einstein wrote in 1905 we've
+
+467
+00:15:18,720 --> 00:15:20,160
+all agreed to just say
+
+468
+00:15:20,160 --> 00:15:22,560
+it's c in every direction but the truth
+
+469
+00:15:22,560 --> 00:15:24,560
+is the physics works the same
+
+470
+00:15:24,560 --> 00:15:26,720
+whether it's c or the c over two and
+
+471
+00:15:26,720 --> 00:15:28,079
+instantaneous
+
+472
+00:15:28,079 --> 00:15:30,000
+or anything in between as long as the
+
+473
+00:15:30,000 --> 00:15:31,759
+round trip works out to be c
+
+474
+00:15:31,759 --> 00:15:34,240
+none of physics breaks and that's the
+
+475
+00:15:34,240 --> 00:15:35,199
+crazy thing
+
+476
+00:15:35,199 --> 00:15:37,199
+so if we can never measure the one-way
+
+477
+00:15:37,199 --> 00:15:39,040
+speed of light and if it makes
+
+478
+00:15:39,040 --> 00:15:41,519
+no difference to any of the laws of
+
+479
+00:15:41,519 --> 00:15:42,480
+physics
+
+480
+00:15:42,480 --> 00:15:44,240
+then what's the point in even talking
+
+481
+00:15:44,240 --> 00:15:45,600
+about it
+
+482
+00:15:45,600 --> 00:15:47,519
+well that is certainly one valid
+
+483
+00:15:47,519 --> 00:15:49,120
+perspective in a debate that has been
+
+484
+00:15:49,120 --> 00:15:50,360
+ongoing since
+
+485
+00:15:50,360 --> 00:15:53,120
+1905. you know some physicists appeal to
+
+486
+00:15:53,120 --> 00:15:54,160
+occam's razor
+
+487
+00:15:54,160 --> 00:15:56,000
+isn't it just simpler if light travels
+
+488
+00:15:56,000 --> 00:15:58,320
+at the same speed in all directions
+
+489
+00:15:58,320 --> 00:16:00,639
+most working physicists just accept the
+
+490
+00:16:00,639 --> 00:16:03,120
+convention and move on with their lives
+
+491
+00:16:03,120 --> 00:16:04,639
+but i think it's important to point out
+
+492
+00:16:04,639 --> 00:16:06,720
+that it is just a convention
+
+493
+00:16:06,720 --> 00:16:10,720
+not an empirically verified fact
+
+494
+00:16:13,519 --> 00:16:15,839
+personally i find it fascinating that
+
+495
+00:16:15,839 --> 00:16:17,839
+this is something about the universe
+
+496
+00:16:17,839 --> 00:16:19,519
+that is hidden from us
+
+497
+00:16:19,519 --> 00:16:22,240
+sure the round trip speed of light is c
+
+498
+00:16:22,240 --> 00:16:23,600
+but does the one-way speed
+
+499
+00:16:23,600 --> 00:16:26,720
+even have a well-defined value and if it
+
+500
+00:16:26,720 --> 00:16:27,440
+doesn't
+
+501
+00:16:27,440 --> 00:16:29,199
+what does that mean for the concept of
+
+502
+00:16:29,199 --> 00:16:30,720
+simultaneity
+
+503
+00:16:30,720 --> 00:16:33,920
+when is right now on mars
+
+504
+00:16:33,920 --> 00:16:35,440
+does it even make sense to talk about
+
+505
+00:16:35,440 --> 00:16:37,120
+things happening at the same time
+
+506
+00:16:37,120 --> 00:16:39,759
+if they're separated by distance you
+
+507
+00:16:39,759 --> 00:16:40,560
+know maybe
+
+508
+00:16:40,560 --> 00:16:43,199
+this is an odd quirk of the universe and
+
+509
+00:16:43,199 --> 00:16:45,279
+there's no good reason for it
+
+510
+00:16:45,279 --> 00:16:48,240
+or maybe when physics takes the next
+
+511
+00:16:48,240 --> 00:16:51,199
+paradomatic leap our inability to
+
+512
+00:16:51,199 --> 00:16:53,120
+measure the one-way speed of light
+
+513
+00:16:53,120 --> 00:16:56,480
+will be the obvious clue to the way
+
+514
+00:16:56,480 --> 00:16:58,720
+general relativity quantum mechanics
+
+515
+00:16:58,720 --> 00:17:01,839
+space and time are all connected
+
+516
+00:17:01,839 --> 00:17:04,000
+and we'll wonder why we didn't see it
+
+517
+00:17:04,000 --> 00:17:06,400
+before
+
+518
+00:17:10,480 --> 00:17:13,039
+hey this video was sponsored by kiwico
+
+519
+00:17:13,039 --> 00:17:13,679
+they create
+
+520
+00:17:13,679 --> 00:17:15,839
+awesome projects and toys to get kids
+
+521
+00:17:15,839 --> 00:17:18,400
+making i use their crates with my son
+
+522
+00:17:18,400 --> 00:17:20,240
+and they are a lot of fun while also
+
+523
+00:17:20,240 --> 00:17:21,439
+being educational
+
+524
+00:17:21,439 --> 00:17:22,880
+now for viewers of this video they are
+
+525
+00:17:22,880 --> 00:17:25,119
+offering 50 off your first month of any
+
+526
+00:17:25,119 --> 00:17:25,839
+crate
+
+527
+00:17:25,839 --> 00:17:28,960
+just go to kiwico.com veritasium50
+
+528
+00:17:28,960 --> 00:17:30,320
+and i'll put that link down in the
+
+529
+00:17:30,320 --> 00:17:32,000
+description below now
+
+530
+00:17:32,000 --> 00:17:33,840
+i think this is a fantastic offer
+
+531
+00:17:33,840 --> 00:17:35,840
+because these crates are a great
+
+532
+00:17:35,840 --> 00:17:37,520
+resource for learning at home
+
+533
+00:17:37,520 --> 00:17:39,679
+which is something anyone with kids is
+
+534
+00:17:39,679 --> 00:17:40,720
+doing a lot of
+
+535
+00:17:40,720 --> 00:17:43,200
+at the moment plus all the supplies you
+
+536
+00:17:43,200 --> 00:17:44,000
+need come
+
+537
+00:17:44,000 --> 00:17:46,080
+right in the box which means you don't
+
+538
+00:17:46,080 --> 00:17:47,440
+need to run to the store
+
+539
+00:17:47,440 --> 00:17:50,480
+which is again ideal now my kids are
+
+540
+00:17:50,480 --> 00:17:51,760
+still young but kiwico
+
+541
+00:17:51,760 --> 00:17:53,520
+offers eight subscription lines for
+
+542
+00:17:53,520 --> 00:17:54,880
+different age groups and different
+
+543
+00:17:54,880 --> 00:17:55,440
+topics
+
+544
+00:17:55,440 --> 00:17:57,840
+i do the koala crates with my oldest who
+
+545
+00:17:57,840 --> 00:17:58,960
+is now four
+
+546
+00:17:58,960 --> 00:18:00,799
+but the kit i'm actually showing you
+
+547
+00:18:00,799 --> 00:18:02,720
+here is for older kids
+
+548
+00:18:02,720 --> 00:18:05,280
+i built an infinity mirror which is
+
+549
+00:18:05,280 --> 00:18:06,960
+perfect for talking about the round trip
+
+550
+00:18:06,960 --> 00:18:08,080
+speed of light
+
+551
+00:18:08,080 --> 00:18:09,600
+there's lots of round trips going on in
+
+552
+00:18:09,600 --> 00:18:11,919
+here now can i just tell you how useful
+
+553
+00:18:11,919 --> 00:18:13,679
+it is to have a box turn up at your door
+
+554
+00:18:13,679 --> 00:18:14,000
+once
+
+555
+00:18:14,000 --> 00:18:15,919
+a month that is packed with fun things
+
+556
+00:18:15,919 --> 00:18:18,000
+to make all the supplies you need and
+
+557
+00:18:18,000 --> 00:18:20,400
+hours of entertainment right there
+
+558
+00:18:20,400 --> 00:18:22,799
+plus my son and i are learning something
+
+559
+00:18:22,799 --> 00:18:23,520
+new together
+
+560
+00:18:23,520 --> 00:18:26,000
+every month and we're connecting it's
+
+561
+00:18:26,000 --> 00:18:28,000
+become a special thing that we do
+
+562
+00:18:28,000 --> 00:18:31,600
+together so kiwi co is a perfect option
+
+563
+00:18:31,600 --> 00:18:32,799
+for a holiday gift
+
+564
+00:18:32,799 --> 00:18:34,720
+my son actually got his subscription
+
+565
+00:18:34,720 --> 00:18:36,400
+last year at this time
+
+566
+00:18:36,400 --> 00:18:38,559
+and i just think what other option will
+
+567
+00:18:38,559 --> 00:18:39,520
+get kids thinking
+
+568
+00:18:39,520 --> 00:18:42,480
+and doing throughout the year so for me
+
+569
+00:18:42,480 --> 00:18:43,200
+that's the most
+
+570
+00:18:43,200 --> 00:18:45,600
+important part i want my kids to feel
+
+571
+00:18:45,600 --> 00:18:47,440
+like they can make and discover things
+
+572
+00:18:47,440 --> 00:18:50,000
+on their own and these crates give them
+
+573
+00:18:50,000 --> 00:18:51,120
+that confidence
+
+574
+00:18:51,120 --> 00:18:52,880
+so click the link below to learn more
+
+575
+00:18:52,880 --> 00:18:54,240
+and for 50
+
+576
+00:18:54,240 --> 00:18:56,240
+off the first month of any crate go to
+
+577
+00:18:56,240 --> 00:18:57,640
+kiwico.com
+
+578
+00:18:57,640 --> 00:19:00,320
+veritasium50 i want to thank kiwiko for
+
+579
+00:19:00,320 --> 00:19:01,919
+sponsoring this episode and i want to
+
+580
+00:19:01,919 --> 00:19:06,240
+thank you for watching
+

@@ -1,0 +1,1672 @@
+1
+00:00:00,640 --> 00:00:03,120
+this episode was sponsored by kiwiko
+
+2
+00:00:03,120 --> 00:00:06,799
+more about them at the end of the show
+
+3
+00:00:06,799 --> 00:00:09,679
+until recently half the universe was
+
+4
+00:00:09,679 --> 00:00:10,320
+missing
+
+5
+00:00:10,320 --> 00:00:13,200
+or hidden or just undetected and no i'm
+
+6
+00:00:13,200 --> 00:00:15,200
+not talking about dark matter or dark
+
+7
+00:00:15,200 --> 00:00:16,160
+energy which make up
+
+8
+00:00:16,160 --> 00:00:18,720
+27 and 68 percent of our universe
+
+9
+00:00:18,720 --> 00:00:19,600
+respectively
+
+10
+00:00:19,600 --> 00:00:21,760
+no i'm talking about normal ordinary
+
+11
+00:00:21,760 --> 00:00:23,199
+matter which makes up
+
+12
+00:00:23,199 --> 00:00:25,680
+you and me and the planets and stars and
+
+13
+00:00:25,680 --> 00:00:27,199
+nebulae and basically
+
+14
+00:00:27,199 --> 00:00:30,160
+everything you can see and since most of
+
+15
+00:00:30,160 --> 00:00:31,840
+this stuff is made of protons and
+
+16
+00:00:31,840 --> 00:00:33,520
+neutrons which are forms of
+
+17
+00:00:33,520 --> 00:00:36,239
+baryons this has been known as the
+
+18
+00:00:36,239 --> 00:00:38,399
+missing baryon problem
+
+19
+00:00:38,399 --> 00:00:40,399
+we expect the universe to be made up of
+
+20
+00:00:40,399 --> 00:00:42,960
+five percent baryonic matter
+
+21
+00:00:42,960 --> 00:00:45,360
+but when we go looking we only find two
+
+22
+00:00:45,360 --> 00:00:47,520
+and a half percent
+
+23
+00:00:47,520 --> 00:00:48,879
+now the first question you're probably
+
+24
+00:00:48,879 --> 00:00:51,280
+asking is why should we expect the
+
+25
+00:00:51,280 --> 00:00:52,960
+universe to be five percent
+
+26
+00:00:52,960 --> 00:00:55,120
+ordinary baryonic matter in the first
+
+27
+00:00:55,120 --> 00:00:56,079
+place
+
+28
+00:00:56,079 --> 00:00:58,480
+the answer is because with that density
+
+29
+00:00:58,480 --> 00:01:01,120
+we can explain the relative abundances
+
+30
+00:01:01,120 --> 00:01:03,520
+of different elements that we observe in
+
+31
+00:01:03,520 --> 00:01:04,400
+the universe
+
+32
+00:01:04,400 --> 00:01:07,439
+specifically the ratio of deuterium to
+
+33
+00:01:07,439 --> 00:01:09,680
+hydrogen to helium
+
+34
+00:01:09,680 --> 00:01:11,920
+in the beginning like right after the
+
+35
+00:01:11,920 --> 00:01:12,960
+big bang
+
+36
+00:01:12,960 --> 00:01:14,479
+there were all of these neutrons and
+
+37
+00:01:14,479 --> 00:01:16,240
+protons whizzing around it was
+
+38
+00:01:16,240 --> 00:01:18,159
+incredibly hot and there was tons of
+
+39
+00:01:18,159 --> 00:01:19,600
+radiation the universe was
+
+40
+00:01:19,600 --> 00:01:22,159
+radiation dominated but as the universe
+
+41
+00:01:22,159 --> 00:01:22,880
+expanded
+
+42
+00:01:22,880 --> 00:01:25,280
+it cooled to the point where protons and
+
+43
+00:01:25,280 --> 00:01:26,080
+neutrons
+
+44
+00:01:26,080 --> 00:01:28,159
+could start fusing together a
+
+45
+00:01:28,159 --> 00:01:30,240
+particularly stable nucleus to form
+
+46
+00:01:30,240 --> 00:01:32,720
+would be helium-4 made of two neutrons
+
+47
+00:01:32,720 --> 00:01:33,920
+and two protons
+
+48
+00:01:33,920 --> 00:01:36,720
+the problem was to form helium-4 you
+
+49
+00:01:36,720 --> 00:01:37,680
+first have to form
+
+50
+00:01:37,680 --> 00:01:41,040
+deuterium one proton and one neutron and
+
+51
+00:01:41,040 --> 00:01:43,680
+this is a less stable nucleus and as
+
+52
+00:01:43,680 --> 00:01:45,040
+quickly as it formed
+
+53
+00:01:45,040 --> 00:01:48,000
+it would get smashed apart but by about
+
+54
+00:01:48,000 --> 00:01:49,680
+10 seconds after the big bang
+
+55
+00:01:49,680 --> 00:01:51,759
+the universe had cooled sufficiently
+
+56
+00:01:51,759 --> 00:01:52,880
+that deuterium
+
+57
+00:01:52,880 --> 00:01:55,119
+could form and as soon as it did it
+
+58
+00:01:55,119 --> 00:01:56,399
+would rapidly fuse
+
+59
+00:01:56,399 --> 00:01:58,799
+into helium the rate at which this
+
+60
+00:01:58,799 --> 00:02:00,880
+happened depended on the density of
+
+61
+00:02:00,880 --> 00:02:02,560
+matter in the early universe
+
+62
+00:02:02,560 --> 00:02:04,799
+the higher the density the faster this
+
+63
+00:02:04,799 --> 00:02:06,640
+fusion could occur
+
+64
+00:02:06,640 --> 00:02:08,959
+then by 20 minutes after the big bang
+
+65
+00:02:08,959 --> 00:02:10,239
+the temperature had dropped
+
+66
+00:02:10,239 --> 00:02:12,800
+low enough that fusion could no longer
+
+67
+00:02:12,800 --> 00:02:13,599
+occur
+
+68
+00:02:13,599 --> 00:02:15,280
+so at this point the elemental
+
+69
+00:02:15,280 --> 00:02:17,360
+abundances were locked in
+
+70
+00:02:17,360 --> 00:02:20,480
+like a snapshot of this moment there was
+
+71
+00:02:20,480 --> 00:02:21,280
+75
+
+72
+00:02:21,280 --> 00:02:24,560
+hydrogen and 25 helium by mass which
+
+73
+00:02:24,560 --> 00:02:26,319
+is basically still what we observe in
+
+74
+00:02:26,319 --> 00:02:28,000
+the universe today
+
+75
+00:02:28,000 --> 00:02:30,959
+of the hydrogen nuclei 26 out of every
+
+76
+00:02:30,959 --> 00:02:31,680
+million
+
+77
+00:02:31,680 --> 00:02:36,319
+were deuterium
+
+78
+00:02:36,319 --> 00:02:38,400
+what's amazing about deuterium is that
+
+79
+00:02:38,400 --> 00:02:39,360
+it's stable
+
+80
+00:02:39,360 --> 00:02:42,080
+it doesn't decay and there are no known
+
+81
+00:02:42,080 --> 00:02:43,680
+processes that can produce it in
+
+82
+00:02:43,680 --> 00:02:44,879
+significant quantities
+
+83
+00:02:44,879 --> 00:02:47,040
+since the big bang and that means
+
+84
+00:02:47,040 --> 00:02:48,640
+virtually all the deuterium in the
+
+85
+00:02:48,640 --> 00:02:49,519
+universe today
+
+86
+00:02:49,519 --> 00:02:52,560
+including the one out of every 6 000
+
+87
+00:02:52,560 --> 00:02:54,319
+hydrogen atoms in tap water
+
+88
+00:02:54,319 --> 00:02:57,680
+was created not in stars but in
+
+89
+00:02:57,680 --> 00:03:00,959
+the first 20 minutes after the big bang
+
+90
+00:03:00,959 --> 00:03:04,720
+when we look deep into space the oldest
+
+91
+00:03:04,720 --> 00:03:05,680
+light we can see
+
+92
+00:03:05,680 --> 00:03:07,680
+is the cosmic microwave background
+
+93
+00:03:07,680 --> 00:03:08,959
+radiation the
+
+94
+00:03:08,959 --> 00:03:11,680
+afterglow of the big bang which has been
+
+95
+00:03:11,680 --> 00:03:12,400
+traveling
+
+96
+00:03:12,400 --> 00:03:14,800
+through the universe unimpeded since
+
+97
+00:03:14,800 --> 00:03:15,920
+about 400
+
+98
+00:03:15,920 --> 00:03:18,560
+000 years after the big bang and so we
+
+99
+00:03:18,560 --> 00:03:19,280
+can literally
+
+100
+00:03:19,280 --> 00:03:22,159
+count up those photons and work out the
+
+101
+00:03:22,159 --> 00:03:24,000
+density of radiation
+
+102
+00:03:24,000 --> 00:03:26,560
+right after the big bang and using the
+
+103
+00:03:26,560 --> 00:03:28,959
+value of 26 deuterium nuclei
+
+104
+00:03:28,959 --> 00:03:32,000
+per million hydrogen nuclei well we
+
+105
+00:03:32,000 --> 00:03:34,159
+can work out the ratio of baryonic
+
+106
+00:03:34,159 --> 00:03:35,680
+matter to photons
+
+107
+00:03:35,680 --> 00:03:37,280
+and that is how we work out that there
+
+108
+00:03:37,280 --> 00:03:39,120
+should be about five percent
+
+109
+00:03:39,120 --> 00:03:42,239
+baryonic matter in the universe so in
+
+110
+00:03:42,239 --> 00:03:43,440
+the late 1990s
+
+111
+00:03:43,440 --> 00:03:45,680
+scientists went looking for all this
+
+112
+00:03:45,680 --> 00:03:47,040
+baryonic matter
+
+113
+00:03:47,040 --> 00:03:50,560
+it was a census of sorts they added up
+
+114
+00:03:50,560 --> 00:03:53,439
+all of the planets and stars and black
+
+115
+00:03:53,439 --> 00:03:54,400
+holes
+
+116
+00:03:54,400 --> 00:03:57,439
+galaxies dust clouds gas basically
+
+117
+00:03:57,439 --> 00:04:00,480
+everything you can see or infer exists
+
+118
+00:04:00,480 --> 00:04:02,159
+using a telescope
+
+119
+00:04:02,159 --> 00:04:04,640
+and what they found is that everything
+
+120
+00:04:04,640 --> 00:04:06,879
+that i normally think of as the actual
+
+121
+00:04:06,879 --> 00:04:10,080
+stuff in our universe it only makes up
+
+122
+00:04:10,080 --> 00:04:13,120
+barely 20 percent of all the baryonic
+
+123
+00:04:13,120 --> 00:04:14,159
+matter
+
+124
+00:04:14,159 --> 00:04:17,519
+so where is the rest well
+
+125
+00:04:17,519 --> 00:04:20,238
+not all ordinary matter is glowing
+
+126
+00:04:20,238 --> 00:04:22,560
+brightly or is illuminated by nearby
+
+127
+00:04:22,560 --> 00:04:23,440
+stars
+
+128
+00:04:23,440 --> 00:04:26,160
+it's not dark matter but it is ordinary
+
+129
+00:04:26,160 --> 00:04:26,880
+matter
+
+130
+00:04:26,880 --> 00:04:29,680
+that is just in darkness and so if you
+
+131
+00:04:29,680 --> 00:04:30,800
+want to find
+
+132
+00:04:30,800 --> 00:04:34,080
+those baryons well one way is to use a
+
+133
+00:04:34,080 --> 00:04:35,199
+backlight
+
+134
+00:04:35,199 --> 00:04:37,919
+a bright source of light very far away
+
+135
+00:04:37,919 --> 00:04:40,240
+and that also means in the very early
+
+136
+00:04:40,240 --> 00:04:41,199
+universe
+
+137
+00:04:41,199 --> 00:04:44,400
+and quasars are the perfect backlight
+
+138
+00:04:44,400 --> 00:04:46,639
+their luminosity can be thousands of
+
+139
+00:04:46,639 --> 00:04:48,320
+times that of whole
+
+140
+00:04:48,320 --> 00:04:51,199
+galaxies the light comes from the
+
+141
+00:04:51,199 --> 00:04:53,280
+accretion disk of a supermassive black
+
+142
+00:04:53,280 --> 00:04:53,840
+hole
+
+143
+00:04:53,840 --> 00:04:56,240
+at the center of an early galaxy as it
+
+144
+00:04:56,240 --> 00:04:57,280
+engulfs
+
+145
+00:04:57,280 --> 00:05:00,400
+all this matter and since it is so
+
+146
+00:05:00,400 --> 00:05:01,039
+distant
+
+147
+00:05:01,039 --> 00:05:03,199
+the light we receive from quasars is
+
+148
+00:05:03,199 --> 00:05:04,880
+heavily redshifted
+
+149
+00:05:04,880 --> 00:05:06,400
+for example the light emitted when a
+
+150
+00:05:06,400 --> 00:05:08,080
+hydrogen atom goes from its first
+
+151
+00:05:08,080 --> 00:05:10,160
+excited state to its ground state the
+
+152
+00:05:10,160 --> 00:05:11,600
+lyman alpha transition
+
+153
+00:05:11,600 --> 00:05:14,440
+it produces ultraviolet light of around
+
+154
+00:05:14,440 --> 00:05:17,440
+121.6 nanometers in a lab
+
+155
+00:05:17,440 --> 00:05:19,759
+but from a quasar it can be observed as
+
+156
+00:05:19,759 --> 00:05:20,639
+a peak
+
+157
+00:05:20,639 --> 00:05:24,320
+in their spectrum at over 560 nanometers
+
+158
+00:05:24,320 --> 00:05:28,080
+that is yellow light what's fascinating
+
+159
+00:05:28,080 --> 00:05:30,160
+is if you look to the left of this peak
+
+160
+00:05:30,160 --> 00:05:31,280
+you see many
+
+161
+00:05:31,280 --> 00:05:34,479
+little dips these are absorption lines
+
+162
+00:05:34,479 --> 00:05:35,199
+created by
+
+163
+00:05:35,199 --> 00:05:37,680
+neutral hydrogen atoms that lie along
+
+164
+00:05:37,680 --> 00:05:39,919
+our line of sight with the quasar
+
+165
+00:05:39,919 --> 00:05:42,080
+when light from the quasar reaches
+
+166
+00:05:42,080 --> 00:05:43,360
+neutral hydrogen
+
+167
+00:05:43,360 --> 00:05:45,199
+the photons that can excite the
+
+168
+00:05:45,199 --> 00:05:46,800
+electrons from the ground state to the
+
+169
+00:05:46,800 --> 00:05:48,000
+first excited state
+
+170
+00:05:48,000 --> 00:05:50,800
+are absorbed this is the same lyman
+
+171
+00:05:50,800 --> 00:05:52,400
+alpha transition
+
+172
+00:05:52,400 --> 00:05:54,479
+but since these patches of hydrogen gas
+
+173
+00:05:54,479 --> 00:05:55,759
+are closer to us
+
+174
+00:05:55,759 --> 00:05:58,960
+they are less red-shifted so the notches
+
+175
+00:05:58,960 --> 00:06:00,479
+they make in the spectrum
+
+176
+00:06:00,479 --> 00:06:02,960
+are at shorter and shorter wavelengths
+
+177
+00:06:02,960 --> 00:06:04,560
+the closer the gas is
+
+178
+00:06:04,560 --> 00:06:07,680
+to us this has been described
+
+179
+00:06:07,680 --> 00:06:10,880
+as the lyman alpha forest
+
+180
+00:06:10,880 --> 00:06:13,360
+it's like a one-dimensional map that
+
+181
+00:06:13,360 --> 00:06:14,160
+shows us
+
+182
+00:06:14,160 --> 00:06:17,360
+where and how much neutral hydrogen gas
+
+183
+00:06:17,360 --> 00:06:20,000
+lies along the line connecting us to the
+
+184
+00:06:20,000 --> 00:06:22,560
+quasar
+
+185
+00:06:23,440 --> 00:06:25,600
+adding all of that neutral hydrogen gas
+
+186
+00:06:25,600 --> 00:06:27,680
+into our baryon budget brings us
+
+187
+00:06:27,680 --> 00:06:30,960
+almost to 50 percent so where
+
+188
+00:06:30,960 --> 00:06:33,840
+is the other half of the baryons well
+
+189
+00:06:33,840 --> 00:06:36,080
+computer simulations of the entire
+
+190
+00:06:36,080 --> 00:06:36,720
+universe
+
+191
+00:06:36,720 --> 00:06:39,600
+suggested they are out there just in
+
+192
+00:06:39,600 --> 00:06:41,280
+between the galaxies
+
+193
+00:06:41,280 --> 00:06:44,479
+in these sheets or filaments and they're
+
+194
+00:06:44,479 --> 00:06:45,840
+very spread out just
+
+195
+00:06:45,840 --> 00:06:48,960
+one to ten particles per cubic meter
+
+196
+00:06:48,960 --> 00:06:51,599
+plus these particles are ionized so they
+
+197
+00:06:51,599 --> 00:06:52,880
+don't absorb the light
+
+198
+00:06:52,880 --> 00:06:54,960
+like the neutral hydrogen gas and
+
+199
+00:06:54,960 --> 00:06:56,400
+they're in a temperature range
+
+200
+00:06:56,400 --> 00:06:59,199
+between about 100 000 and 10 million
+
+201
+00:06:59,199 --> 00:06:59,919
+kelvin
+
+202
+00:06:59,919 --> 00:07:02,160
+a range astronomers like to refer to as
+
+203
+00:07:02,160 --> 00:07:03,440
+warm hot
+
+204
+00:07:03,440 --> 00:07:06,080
+so this is known as the warm hot
+
+205
+00:07:06,080 --> 00:07:07,759
+intergalactic medium or
+
+206
+00:07:07,759 --> 00:07:10,800
+whim for short but finding the whim
+
+207
+00:07:10,800 --> 00:07:12,960
+has been a real challenge because
+
+208
+00:07:12,960 --> 00:07:14,319
+they're ionized because of their
+
+209
+00:07:14,319 --> 00:07:15,440
+temperature they only
+
+210
+00:07:15,440 --> 00:07:18,720
+emit or absorb in the high energy uv or
+
+211
+00:07:18,720 --> 00:07:21,599
+low energy x-rays now some people have
+
+212
+00:07:21,599 --> 00:07:22,080
+used
+
+213
+00:07:22,080 --> 00:07:24,080
+very sophisticated techniques to try to
+
+214
+00:07:24,080 --> 00:07:25,440
+find the whim
+
+215
+00:07:25,440 --> 00:07:28,080
+but then recently a naturally occurring
+
+216
+00:07:28,080 --> 00:07:29,280
+physical phenomenon
+
+217
+00:07:29,280 --> 00:07:31,360
+allowed us to find all of the missing
+
+218
+00:07:31,360 --> 00:07:32,639
+baryons
+
+219
+00:07:32,639 --> 00:07:36,080
+let's find out how first we need to talk
+
+220
+00:07:36,080 --> 00:07:39,759
+lightning and i promise this is related
+
+221
+00:07:39,759 --> 00:07:41,759
+okay so did you know that it's possible
+
+222
+00:07:41,759 --> 00:07:44,160
+to detect lightning from the other side
+
+223
+00:07:44,160 --> 00:07:46,720
+of the earth this is because lightning
+
+224
+00:07:46,720 --> 00:07:47,520
+produces a
+
+225
+00:07:47,520 --> 00:07:49,680
+flash of electromagnetic radiation in
+
+226
+00:07:49,680 --> 00:07:51,360
+all parts of the spectrum
+
+227
+00:07:51,360 --> 00:07:53,360
+i mean we see the white light but
+
+228
+00:07:53,360 --> 00:07:55,280
+there's also broad spectrum
+
+229
+00:07:55,280 --> 00:07:57,680
+radio waves which are released and if
+
+230
+00:07:57,680 --> 00:07:59,440
+you were nearby you could detect those
+
+231
+00:07:59,440 --> 00:07:59,840
+as
+
+232
+00:07:59,840 --> 00:08:03,120
+a pulse but the very low frequency radio
+
+233
+00:08:03,120 --> 00:08:04,479
+waves can actually travel
+
+234
+00:08:04,479 --> 00:08:06,960
+up and out of the atmosphere and they
+
+235
+00:08:06,960 --> 00:08:09,280
+get guided along the earth's magnetic
+
+236
+00:08:09,280 --> 00:08:10,240
+field lines
+
+237
+00:08:10,240 --> 00:08:12,800
+out several radii from the earth and
+
+238
+00:08:12,800 --> 00:08:13,919
+then back down
+
+239
+00:08:13,919 --> 00:08:15,599
+where they can be detected in the other
+
+240
+00:08:15,599 --> 00:08:17,360
+hemisphere except
+
+241
+00:08:17,360 --> 00:08:19,120
+if they're detected there they don't
+
+242
+00:08:19,120 --> 00:08:21,440
+come in as a single pulse
+
+243
+00:08:21,440 --> 00:08:23,840
+instead they are spread out as a
+
+244
+00:08:23,840 --> 00:08:24,639
+whistler
+
+245
+00:08:24,639 --> 00:08:26,000
+now if you play these radio waves
+
+246
+00:08:26,000 --> 00:08:28,080
+through a speaker we can actually hear
+
+247
+00:08:28,080 --> 00:08:28,639
+them so
+
+248
+00:08:28,639 --> 00:08:30,420
+listen to this
+
+249
+00:08:30,420 --> 00:08:34,489
+[Music]
+
+250
+00:08:34,799 --> 00:08:37,599
+you hear that descending tone that
+
+251
+00:08:37,599 --> 00:08:38,479
+sounds like a
+
+252
+00:08:38,479 --> 00:08:41,360
+sci-fi laser gun yeah that is lightning
+
+253
+00:08:41,360 --> 00:08:42,479
+on the other side
+
+254
+00:08:42,479 --> 00:08:45,600
+of the earth so what's happening here
+
+255
+00:08:45,600 --> 00:08:47,680
+well as the radio waves travel through
+
+256
+00:08:47,680 --> 00:08:49,440
+the earth's magnetosphere
+
+257
+00:08:49,440 --> 00:08:52,080
+they encounter free electrons which
+
+258
+00:08:52,080 --> 00:08:53,440
+slows them down
+
+259
+00:08:53,440 --> 00:08:56,720
+and more for the lower frequency waves
+
+260
+00:08:56,720 --> 00:08:59,440
+this is dispersion just as a prism
+
+261
+00:08:59,440 --> 00:09:01,519
+separates white light into its component
+
+262
+00:09:01,519 --> 00:09:02,240
+colors
+
+263
+00:09:02,240 --> 00:09:04,160
+the plasma in the magnetosphere
+
+264
+00:09:04,160 --> 00:09:05,680
+separates the radio waves
+
+265
+00:09:05,680 --> 00:09:08,080
+into its component frequencies low
+
+266
+00:09:08,080 --> 00:09:09,680
+frequencies are slowed down more than
+
+267
+00:09:09,680 --> 00:09:10,880
+high frequencies
+
+268
+00:09:10,880 --> 00:09:13,760
+so what started as a pulse ends up as a
+
+269
+00:09:13,760 --> 00:09:14,480
+whistler
+
+270
+00:09:14,480 --> 00:09:16,880
+and the amount of dispersion tells you
+
+271
+00:09:16,880 --> 00:09:19,120
+how many free electrons that radio wave
+
+272
+00:09:19,120 --> 00:09:20,839
+had to pass through to reach the
+
+273
+00:09:20,839 --> 00:09:22,959
+detector now just imagine
+
+274
+00:09:22,959 --> 00:09:25,040
+we could do something very similar to
+
+275
+00:09:25,040 --> 00:09:27,440
+find all the ionized baryons in the
+
+276
+00:09:27,440 --> 00:09:28,320
+universe
+
+277
+00:09:28,320 --> 00:09:31,440
+all we would need is a bright flash
+
+278
+00:09:31,440 --> 00:09:34,240
+of radio waves somewhere in the distant
+
+279
+00:09:34,240 --> 00:09:35,440
+universe
+
+280
+00:09:35,440 --> 00:09:39,120
+and as if on cue in 2007 astronomers
+
+281
+00:09:39,120 --> 00:09:40,480
+found the first
+
+282
+00:09:40,480 --> 00:09:43,120
+fast radio burst which is just what it
+
+283
+00:09:43,120 --> 00:09:44,560
+sounds like a very
+
+284
+00:09:44,560 --> 00:09:47,600
+short duration pulse of intense
+
+285
+00:09:47,600 --> 00:09:51,120
+radio waves and it came from the deep
+
+286
+00:09:51,120 --> 00:09:53,519
+universe from other galaxies now these
+
+287
+00:09:53,519 --> 00:09:54,720
+pulses can be
+
+288
+00:09:54,720 --> 00:09:57,839
+incredibly powerful i'm talking billions
+
+289
+00:09:57,839 --> 00:10:00,000
+or trillions of times as powerful as the
+
+290
+00:10:00,000 --> 00:10:01,120
+sun but they last
+
+291
+00:10:01,120 --> 00:10:04,320
+for on order of a millisecond we don't
+
+292
+00:10:04,320 --> 00:10:06,000
+really know what creates them though
+
+293
+00:10:06,000 --> 00:10:08,320
+some people suspect that it's magnetars
+
+294
+00:10:08,320 --> 00:10:08,959
+or
+
+295
+00:10:08,959 --> 00:10:11,360
+neutron stars or some sort of collision
+
+296
+00:10:11,360 --> 00:10:12,000
+between
+
+297
+00:10:12,000 --> 00:10:14,480
+these very powerful massive objects like
+
+298
+00:10:14,480 --> 00:10:15,519
+black holes and
+
+299
+00:10:15,519 --> 00:10:18,800
+neutron stars but for our purposes
+
+300
+00:10:18,800 --> 00:10:21,040
+all we need to know is that those
+
+301
+00:10:21,040 --> 00:10:22,800
+flashes exist
+
+302
+00:10:22,800 --> 00:10:24,720
+and that we can use them to look at
+
+303
+00:10:24,720 --> 00:10:26,320
+their dispersion and figure out
+
+304
+00:10:26,320 --> 00:10:28,800
+how many ionized baryons are between us
+
+305
+00:10:28,800 --> 00:10:29,920
+and the source
+
+306
+00:10:29,920 --> 00:10:31,920
+and this is exactly what one recent
+
+307
+00:10:31,920 --> 00:10:33,279
+paper did in
+
+308
+00:10:33,279 --> 00:10:36,079
+nature they plotted out the dispersion
+
+309
+00:10:36,079 --> 00:10:37,040
+measure of
+
+310
+00:10:37,040 --> 00:10:39,200
+several of these fast radio bursts
+
+311
+00:10:39,200 --> 00:10:41,760
+versus the redshift of their host
+
+312
+00:10:41,760 --> 00:10:44,480
+galaxy and what they found was sure
+
+313
+00:10:44,480 --> 00:10:45,200
+enough
+
+314
+00:10:45,200 --> 00:10:47,200
+the further out these fast radio bursts
+
+315
+00:10:47,200 --> 00:10:49,519
+were the more dispersed
+
+316
+00:10:49,519 --> 00:10:51,519
+their signal when it reached the earth
+
+317
+00:10:51,519 --> 00:10:53,680
+and in fact using their measurements
+
+318
+00:10:53,680 --> 00:10:55,440
+they were able to estimate the
+
+319
+00:10:55,440 --> 00:10:58,480
+total baryonic matter that is out there
+
+320
+00:10:58,480 --> 00:11:00,160
+and that includes all the ionized
+
+321
+00:11:00,160 --> 00:11:01,519
+particles in the whim
+
+322
+00:11:01,519 --> 00:11:05,360
+and they found that it was five percent
+
+323
+00:11:05,360 --> 00:11:08,079
+they found the missing baryons roughly
+
+324
+00:11:08,079 --> 00:11:09,200
+50 percent of them
+
+325
+00:11:09,200 --> 00:11:11,600
+are in that warm hot intergalactic
+
+326
+00:11:11,600 --> 00:11:12,640
+medium
+
+327
+00:11:12,640 --> 00:11:14,880
+and so this validates what we had been
+
+328
+00:11:14,880 --> 00:11:17,279
+thinking the whole time
+
+329
+00:11:17,279 --> 00:11:19,040
+you know what surprised me in making
+
+330
+00:11:19,040 --> 00:11:20,880
+this video was realizing
+
+331
+00:11:20,880 --> 00:11:22,959
+just how little of the ordinary matter
+
+332
+00:11:22,959 --> 00:11:24,640
+from the big bang ended up in things
+
+333
+00:11:24,640 --> 00:11:26,800
+like stars and galaxies what i normally
+
+334
+00:11:26,800 --> 00:11:27,519
+consider
+
+335
+00:11:27,519 --> 00:11:29,680
+as the stuff of the universe no that's
+
+336
+00:11:29,680 --> 00:11:31,760
+only like 10 or 20 percent of all the
+
+337
+00:11:31,760 --> 00:11:33,120
+baryonic matter
+
+338
+00:11:33,120 --> 00:11:35,200
+so it turns out the formation of these
+
+339
+00:11:35,200 --> 00:11:36,320
+interesting structures
+
+340
+00:11:36,320 --> 00:11:39,360
+is a really inefficient process but this
+
+341
+00:11:39,360 --> 00:11:40,240
+finding is
+
+342
+00:11:40,240 --> 00:11:43,040
+yet another triumph for science those
+
+343
+00:11:43,040 --> 00:11:45,040
+computer simulations run decades ago
+
+344
+00:11:45,040 --> 00:11:46,160
+turned out largely
+
+345
+00:11:46,160 --> 00:11:48,480
+to be correct and so everyone involved
+
+346
+00:11:48,480 --> 00:11:50,399
+should be congratulated
+
+347
+00:11:50,399 --> 00:11:52,160
+but this also highlights for me the
+
+348
+00:11:52,160 --> 00:11:53,519
+difference between scientists and
+
+349
+00:11:53,519 --> 00:11:54,560
+non-scientists
+
+350
+00:11:54,560 --> 00:11:57,519
+i feel like non-scientists like being
+
+351
+00:11:57,519 --> 00:11:58,320
+right they like
+
+352
+00:11:58,320 --> 00:11:59,839
+when things turn out the way they were
+
+353
+00:11:59,839 --> 00:12:01,839
+expecting but scientists on the other
+
+354
+00:12:01,839 --> 00:12:02,639
+hand
+
+355
+00:12:02,639 --> 00:12:05,040
+they want things to work out not the way
+
+356
+00:12:05,040 --> 00:12:06,079
+they expected
+
+357
+00:12:06,079 --> 00:12:08,480
+because that's the way we get clues into
+
+358
+00:12:08,480 --> 00:12:09,839
+what new physics
+
+359
+00:12:09,839 --> 00:12:12,240
+is still out there to be discovered i
+
+360
+00:12:12,240 --> 00:12:14,399
+guess for now we'll have to be content
+
+361
+00:12:14,399 --> 00:12:17,279
+with being right
+
+362
+00:12:20,800 --> 00:12:23,200
+hey this video was sponsored by kiwiko
+
+363
+00:12:23,200 --> 00:12:24,000
+which i'm really
+
+364
+00:12:24,000 --> 00:12:25,680
+excited about because i've been using
+
+365
+00:12:25,680 --> 00:12:27,360
+their monthly crates since the beginning
+
+366
+00:12:27,360 --> 00:12:29,519
+of the year with my four-year-old he got
+
+367
+00:12:29,519 --> 00:12:30,959
+it as a christmas present
+
+368
+00:12:30,959 --> 00:12:32,560
+and i've got to say they have been a
+
+369
+00:12:32,560 --> 00:12:34,560
+great resource for learning at home
+
+370
+00:12:34,560 --> 00:12:37,120
+each crate has super cool hands-on
+
+371
+00:12:37,120 --> 00:12:39,040
+projects that are fun to make and
+
+372
+00:12:39,040 --> 00:12:41,360
+they expose kids to steam concepts
+
+373
+00:12:41,360 --> 00:12:42,880
+that's science technology
+
+374
+00:12:42,880 --> 00:12:45,839
+engineering art and math now each box
+
+375
+00:12:45,839 --> 00:12:47,839
+includes all the supplies needed meaning
+
+376
+00:12:47,839 --> 00:12:50,639
+no extra trips to the store and kiwi co
+
+377
+00:12:50,639 --> 00:12:51,040
+offers
+
+378
+00:12:51,040 --> 00:12:52,959
+eight subscription lines for different
+
+379
+00:12:52,959 --> 00:12:54,320
+age groups and topics
+
+380
+00:12:54,320 --> 00:12:56,800
+they sent me some of the older age group
+
+381
+00:12:56,800 --> 00:12:59,360
+crates to try out and i had a lot of fun
+
+382
+00:12:59,360 --> 00:13:02,240
+uh making this this is a planetarium and
+
+383
+00:13:02,240 --> 00:13:04,000
+something you might not know is kiwico
+
+384
+00:13:04,000 --> 00:13:06,079
+is not only a subscription service you
+
+385
+00:13:06,079 --> 00:13:07,680
+can browse their store and purchase
+
+386
+00:13:07,680 --> 00:13:09,920
+individual projects or value packs for
+
+387
+00:13:09,920 --> 00:13:10,880
+different ages
+
+388
+00:13:10,880 --> 00:13:13,040
+no subscription required so let's talk
+
+389
+00:13:13,040 --> 00:13:15,519
+about why kiwico is so useful right now
+
+390
+00:13:15,519 --> 00:13:17,200
+i mean anyone who has been at home with
+
+391
+00:13:17,200 --> 00:13:18,720
+kids over the past few months
+
+392
+00:13:18,720 --> 00:13:20,240
+knows just how important it is to get
+
+393
+00:13:20,240 --> 00:13:22,160
+them engaged in something other than
+
+394
+00:13:22,160 --> 00:13:24,800
+a screen the summer brain drain happens
+
+395
+00:13:24,800 --> 00:13:25,760
+every year but
+
+396
+00:13:25,760 --> 00:13:28,320
+it is especially challenging right now
+
+397
+00:13:28,320 --> 00:13:30,079
+with disruptions to school and
+
+398
+00:13:30,079 --> 00:13:31,760
+online learning just not being as good
+
+399
+00:13:31,760 --> 00:13:34,160
+as you know in in-person hands-on
+
+400
+00:13:34,160 --> 00:13:34,800
+learning
+
+401
+00:13:34,800 --> 00:13:36,320
+now what i know from my own experience
+
+402
+00:13:36,320 --> 00:13:38,480
+is my son loves making kiwico projects
+
+403
+00:13:38,480 --> 00:13:40,240
+with me
+
+404
+00:13:40,240 --> 00:13:41,839
+he has a lot of fun and doesn't even
+
+405
+00:13:41,839 --> 00:13:45,360
+realize he's learning what do you see
+
+406
+00:13:45,360 --> 00:13:46,959
+you know one day we will talk about the
+
+407
+00:13:46,959 --> 00:13:48,800
+missing baryons but for right now these
+
+408
+00:13:48,800 --> 00:13:49,360
+projects
+
+409
+00:13:49,360 --> 00:13:51,279
+are a great way for us to connect and
+
+410
+00:13:51,279 --> 00:13:53,199
+learn together so if you want to try it
+
+411
+00:13:53,199 --> 00:13:54,240
+out you can get 20
+
+412
+00:13:54,240 --> 00:13:56,079
+off everything in the kiwi coast store
+
+413
+00:13:56,079 --> 00:13:57,600
+using code veritasium
+
+414
+00:13:57,600 --> 00:14:00,480
+or go to kiwico.com veritasium i'll put
+
+415
+00:14:00,480 --> 00:14:02,000
+that link in the description
+
+416
+00:14:02,000 --> 00:14:03,680
+so i really want to thank kiwiko for
+
+417
+00:14:03,680 --> 00:14:05,360
+supporting me and i want to thank you
+
+418
+00:14:05,360 --> 00:14:11,040
+for watching
+

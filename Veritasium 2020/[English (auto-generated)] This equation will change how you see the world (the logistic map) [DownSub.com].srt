@@ -1,0 +1,1684 @@
+1
+00:00:01,220 --> 00:00:03,899
+what's the connection between a dripping
+
+2
+00:00:03,899 --> 00:00:07,109
+faucet the Mandelbrot set a population
+
+3
+00:00:07,109 --> 00:00:09,480
+of rabbits thermal convection in a fluid
+
+4
+00:00:09,480 --> 00:00:11,809
+and the firing of neurons in your brain
+
+5
+00:00:11,809 --> 00:00:17,369
+it's this one simple equation this video
+
+6
+00:00:17,369 --> 00:00:19,289
+is sponsored by fast hosts who are
+
+7
+00:00:19,289 --> 00:00:21,150
+offering UK viewers the chance to win a
+
+8
+00:00:21,150 --> 00:00:23,130
+trip to South by Southwest if they can
+
+9
+00:00:23,130 --> 00:00:24,990
+answer my question at the end of this
+
+10
+00:00:24,990 --> 00:00:30,390
+video so stay tuned for that let's say
+
+11
+00:00:30,390 --> 00:00:32,399
+you want to model a population of
+
+12
+00:00:32,399 --> 00:00:35,399
+rabbits if you have X rabbits this year
+
+13
+00:00:35,399 --> 00:00:37,440
+how many rabbits will you have next year
+
+14
+00:00:37,440 --> 00:00:39,840
+well the simplest model I can imagine is
+
+15
+00:00:39,840 --> 00:00:41,399
+where we just multiplied by some number
+
+16
+00:00:41,399 --> 00:00:44,190
+the growth rate R which could be say 2
+
+17
+00:00:44,190 --> 00:00:46,530
+and this would mean the population would
+
+18
+00:00:46,530 --> 00:00:49,050
+double every year and the problem with
+
+19
+00:00:49,050 --> 00:00:50,910
+that is it means the number of rabbits
+
+20
+00:00:50,910 --> 00:00:52,649
+would grow exponentially forever
+
+21
+00:00:52,649 --> 00:00:56,129
+so I can add the term 1 minus X to
+
+22
+00:00:56,129 --> 00:00:57,600
+represent the constraints of the
+
+23
+00:00:57,600 --> 00:01:00,239
+environment and here I'm imagining the
+
+24
+00:01:00,239 --> 00:01:02,460
+population X is a percentage of the
+
+25
+00:01:02,460 --> 00:01:05,040
+theoretical maximum so it goes from 0 to
+
+26
+00:01:05,040 --> 00:01:08,010
+1 and as it approaches that maximum then
+
+27
+00:01:08,010 --> 00:01:11,490
+this term goes to 0 and that constrains
+
+28
+00:01:11,490 --> 00:01:16,020
+the population so this is the logistic
+
+29
+00:01:16,020 --> 00:01:18,960
+map xn plus 1 is the population next
+
+30
+00:01:18,960 --> 00:01:21,630
+year and xn is the population this year
+
+31
+00:01:21,630 --> 00:01:24,060
+and if you graph the population next
+
+32
+00:01:24,060 --> 00:01:27,299
+year versus the population this year you
+
+33
+00:01:27,299 --> 00:01:30,630
+see it is just an inverted parabola it's
+
+34
+00:01:30,630 --> 00:01:32,220
+the simplest equation you can make that
+
+35
+00:01:32,220 --> 00:01:34,439
+has a negative feedback loop the bigger
+
+36
+00:01:34,439 --> 00:01:36,329
+the population gets over here the
+
+37
+00:01:36,329 --> 00:01:38,850
+smaller it'll be the following year so
+
+38
+00:01:38,850 --> 00:01:42,750
+let's try an example let's say we're
+
+39
+00:01:42,750 --> 00:01:44,850
+dealing with a particularly active group
+
+40
+00:01:44,850 --> 00:01:48,479
+of rabbits so R equals two point six and
+
+41
+00:01:48,479 --> 00:01:50,970
+then let's pick a starting population of
+
+42
+00:01:50,970 --> 00:01:54,540
+40% of the maximum so point four and
+
+43
+00:01:54,540 --> 00:02:01,049
+then times 1 minus 0.4 and we get 0.62
+
+44
+00:02:01,049 --> 00:02:03,600
+four okay so the population increased in
+
+45
+00:02:03,600 --> 00:02:05,189
+the first year but what we're really
+
+46
+00:02:05,189 --> 00:02:07,560
+interested in is the long term behavior
+
+47
+00:02:07,560 --> 00:02:09,690
+of this population so we can put this
+
+48
+00:02:09,690 --> 00:02:12,270
+population back into the equation and to
+
+49
+00:02:12,270 --> 00:02:14,100
+speed things up you can actually type
+
+50
+00:02:14,100 --> 00:02:19,140
+two point six times answer times one -
+
+51
+00:02:19,140 --> 00:02:22,260
+answer get point six one so the
+
+52
+00:02:22,260 --> 00:02:24,390
+population dropped a little hit it again
+
+53
+00:02:24,390 --> 00:02:27,720
+point six one nine point six one three
+
+54
+00:02:27,720 --> 00:02:30,360
+point six one seven point six one five
+
+55
+00:02:30,360 --> 00:02:33,450
+point six one six point six one five and
+
+56
+00:02:33,450 --> 00:02:35,670
+if I keep hitting Enter here you see
+
+57
+00:02:35,670 --> 00:02:37,290
+that the population doesn't really
+
+58
+00:02:37,290 --> 00:02:39,930
+change it has stabilized which matches
+
+59
+00:02:39,930 --> 00:02:42,060
+what we see in the wild populations
+
+60
+00:02:42,060 --> 00:02:43,860
+often remain the same as long as births
+
+61
+00:02:43,860 --> 00:02:46,380
+and deaths are balanced now I want to
+
+62
+00:02:46,380 --> 00:02:49,170
+make a graph of this iteration you can
+
+63
+00:02:49,170 --> 00:02:50,640
+see here that it's reached an
+
+64
+00:02:50,640 --> 00:02:52,830
+equilibrium value of point six one five
+
+65
+00:02:52,830 --> 00:02:55,410
+now what would happen if I change the
+
+66
+00:02:55,410 --> 00:02:57,630
+initial population I'm just going to
+
+67
+00:02:57,630 --> 00:03:00,720
+move this slider here and what you see
+
+68
+00:03:00,720 --> 00:03:04,380
+is the first few years change but the
+
+69
+00:03:04,380 --> 00:03:07,610
+equilibrium population remains the same
+
+70
+00:03:07,610 --> 00:03:11,070
+so we can basically ignore the initial
+
+71
+00:03:11,070 --> 00:03:13,380
+population so what I'm really interested
+
+72
+00:03:13,380 --> 00:03:15,750
+in is how does this equilibrium
+
+73
+00:03:15,750 --> 00:03:19,290
+population vary depending on are the
+
+74
+00:03:19,290 --> 00:03:22,050
+growth rate so as you can see if I lower
+
+75
+00:03:22,050 --> 00:03:24,510
+the growth rate the equilibrium
+
+76
+00:03:24,510 --> 00:03:27,390
+population decreases that makes sense
+
+77
+00:03:27,390 --> 00:03:31,380
+and in fact if R goes below one well
+
+78
+00:03:31,380 --> 00:03:34,500
+then the population drops and eventually
+
+79
+00:03:34,500 --> 00:03:37,410
+goes extinct so what I want to do is
+
+80
+00:03:37,410 --> 00:03:41,070
+make another graph where on the x axis I
+
+81
+00:03:41,070 --> 00:03:44,940
+have R the growth rate and on the y axis
+
+82
+00:03:44,940 --> 00:03:47,730
+I'm plotting the equilibrium population
+
+83
+00:03:47,730 --> 00:03:50,010
+the population you get after many many
+
+84
+00:03:50,010 --> 00:03:52,830
+many generations okay for low values of
+
+85
+00:03:52,830 --> 00:03:54,810
+R we see the populations always go
+
+86
+00:03:54,810 --> 00:03:57,150
+extinct so the equilibrium value is zero
+
+87
+00:03:57,150 --> 00:03:59,580
+but once our hits 1 the population
+
+88
+00:03:59,580 --> 00:04:02,400
+stabilizes on to a constant value and
+
+89
+00:04:02,400 --> 00:04:04,380
+the higher R is the higher the
+
+90
+00:04:04,380 --> 00:04:07,129
+equilibrium population
+
+91
+00:04:07,129 --> 00:04:11,249
+so far so good but now comes the weird
+
+92
+00:04:11,249 --> 00:04:11,579
+part
+
+93
+00:04:11,579 --> 00:04:15,480
+once our passes three the graph splits
+
+94
+00:04:15,480 --> 00:04:20,100
+in two why what's happening well no
+
+95
+00:04:20,100 --> 00:04:21,660
+matter how many times you iterate the
+
+96
+00:04:21,660 --> 00:04:24,900
+equation it never settles on to a single
+
+97
+00:04:24,900 --> 00:04:27,570
+constant value instead it oscillates
+
+98
+00:04:27,570 --> 00:04:30,479
+back and forth between two values one
+
+99
+00:04:30,479 --> 00:04:31,979
+year the population is higher the next
+
+100
+00:04:31,979 --> 00:04:34,009
+year lower and then the cycle repeats
+
+101
+00:04:34,009 --> 00:04:36,539
+the cyclic nature of populations is
+
+102
+00:04:36,539 --> 00:04:38,340
+observed in nature too one year there
+
+103
+00:04:38,340 --> 00:04:40,050
+might be more rabbits and then fewer the
+
+104
+00:04:40,050 --> 00:04:42,210
+next year and more again the year after
+
+105
+00:04:42,210 --> 00:04:45,449
+as our continues to increase the fork
+
+106
+00:04:45,449 --> 00:04:48,300
+spreads apart and then each one splits
+
+107
+00:04:48,300 --> 00:04:49,080
+again
+
+108
+00:04:49,080 --> 00:04:51,270
+now instead of oscillating back and
+
+109
+00:04:51,270 --> 00:04:54,000
+forth between two values populations go
+
+110
+00:04:54,000 --> 00:04:55,590
+through a four year cycle before
+
+111
+00:04:55,590 --> 00:04:58,320
+repeating since the length of the cycle
+
+112
+00:04:58,320 --> 00:05:00,930
+or period has doubled these are known as
+
+113
+00:05:00,930 --> 00:05:04,020
+period doubling bifurcation z' and as R
+
+114
+00:05:04,020 --> 00:05:06,449
+increases further there are more period
+
+115
+00:05:06,449 --> 00:05:08,550
+doubling bifurcation z' they come faster
+
+116
+00:05:08,550 --> 00:05:11,849
+and faster leading to cycles of 8 16 32
+
+117
+00:05:11,849 --> 00:05:15,270
+64 and then at R equals three point five
+
+118
+00:05:15,270 --> 00:05:19,229
+seven chaos the population never settles
+
+119
+00:05:19,229 --> 00:05:21,720
+down at all it bounces around as if at
+
+120
+00:05:21,720 --> 00:05:24,330
+random in fact this equation provided
+
+121
+00:05:24,330 --> 00:05:26,190
+one of the first methods of generating
+
+122
+00:05:26,190 --> 00:05:28,650
+random numbers on computers it was a way
+
+123
+00:05:28,650 --> 00:05:30,990
+to get something unpredictable from a
+
+124
+00:05:30,990 --> 00:05:33,539
+deterministic machine there is no
+
+125
+00:05:33,539 --> 00:05:36,509
+pattern here no repeating of course if
+
+126
+00:05:36,509 --> 00:05:38,070
+you did know the exact initial
+
+127
+00:05:38,070 --> 00:05:39,479
+conditions you could calculate the
+
+128
+00:05:39,479 --> 00:05:41,820
+values exactly so they are considered
+
+129
+00:05:41,820 --> 00:05:44,520
+only pseudo-random numbers now you might
+
+130
+00:05:44,520 --> 00:05:46,199
+expect the equation to be chaotic from
+
+131
+00:05:46,199 --> 00:05:49,650
+here on out but as R increases order
+
+132
+00:05:49,650 --> 00:05:52,349
+returns there are these windows of
+
+133
+00:05:52,349 --> 00:05:54,770
+stable periodic behavior amid the chaos
+
+134
+00:05:54,770 --> 00:05:57,630
+for example at R equals 3 point 8 3
+
+135
+00:05:57,630 --> 00:05:59,909
+there is a stable cycle with a period of
+
+136
+00:05:59,909 --> 00:06:03,090
+3 years and as R continues to increase
+
+137
+00:06:03,090 --> 00:06:07,680
+it splits into 6 12 24 and so on before
+
+138
+00:06:07,680 --> 00:06:10,110
+returning to chaos in fact this one
+
+139
+00:06:10,110 --> 00:06:12,060
+equation contains periods of every
+
+140
+00:06:12,060 --> 00:06:16,680
+length 3750 1052 whatever you like if
+
+141
+00:06:16,680 --> 00:06:18,610
+you just have the right value
+
+142
+00:06:18,610 --> 00:06:23,530
+are looking at this bifurcation diagram
+
+143
+00:06:23,530 --> 00:06:25,629
+you may notice that it looks like a
+
+144
+00:06:25,629 --> 00:06:28,719
+fractal the large-scale features look to
+
+145
+00:06:28,719 --> 00:06:30,340
+be repeated on smaller and smaller
+
+146
+00:06:30,340 --> 00:06:33,699
+scales and sure enough if you zoom in
+
+147
+00:06:33,699 --> 00:06:37,289
+you see that it is in fact a fractal
+
+148
+00:06:37,289 --> 00:06:40,060
+arguably the most famous fractal is the
+
+149
+00:06:40,060 --> 00:06:43,030
+Mandelbrot set the plot twist here is
+
+150
+00:06:43,030 --> 00:06:45,550
+that the bifurcation diagram is actually
+
+151
+00:06:45,550 --> 00:06:49,030
+part of the Mandelbrot set how does that
+
+152
+00:06:49,030 --> 00:06:52,240
+work well quick recap on the Mandelbrot
+
+153
+00:06:52,240 --> 00:06:55,060
+set it is based on this iterated
+
+154
+00:06:55,060 --> 00:06:57,909
+equation so the way it works is you pick
+
+155
+00:06:57,909 --> 00:07:00,219
+a number C any number in the complex
+
+156
+00:07:00,219 --> 00:07:04,090
+plane and then start with Z equals 0 and
+
+157
+00:07:04,090 --> 00:07:06,430
+then iterate this equation over and over
+
+158
+00:07:06,430 --> 00:07:09,219
+again if it blows up to infinity well
+
+159
+00:07:09,219 --> 00:07:11,319
+then the number C is not part of the set
+
+160
+00:07:11,319 --> 00:07:14,409
+but if this number remains finite after
+
+161
+00:07:14,409 --> 00:07:16,900
+unlimited iterations well then it is
+
+162
+00:07:16,900 --> 00:07:19,750
+part of the Mandelbrot set so let's try
+
+163
+00:07:19,750 --> 00:07:23,650
+for example C equals 1 so we've got 0
+
+164
+00:07:23,650 --> 00:07:26,590
+squared plus 1 equals 1 then 1 squared
+
+165
+00:07:26,590 --> 00:07:30,009
+plus 1 equals 2 2 squared plus 1 equals
+
+166
+00:07:30,009 --> 00:07:34,029
+5 5 squared plus 1 equals 26 so pretty
+
+167
+00:07:34,029 --> 00:07:36,490
+quickly you can see that with C equals 1
+
+168
+00:07:36,490 --> 00:07:39,520
+this equation is going to blow up so the
+
+169
+00:07:39,520 --> 00:07:41,770
+number 1 is not part of the Mandelbrot
+
+170
+00:07:41,770 --> 00:07:45,159
+set what if we try C equals negative 1
+
+171
+00:07:45,159 --> 00:07:47,379
+well then we've got 0 squared minus 1
+
+172
+00:07:47,379 --> 00:07:49,870
+equals negative 1 negative 1 squared
+
+173
+00:07:49,870 --> 00:07:52,629
+minus 1 equals 0 and so we're back to 0
+
+174
+00:07:52,629 --> 00:07:55,180
+squared minus 1 equals negative 1 so we
+
+175
+00:07:55,180 --> 00:07:57,039
+see that this function is going to keep
+
+176
+00:07:57,039 --> 00:07:58,449
+oscillating back and forth between
+
+177
+00:07:58,449 --> 00:08:01,449
+negative 1 and 0 and so it'll remain
+
+178
+00:08:01,449 --> 00:08:04,060
+finite and so C equals negative 1 is
+
+179
+00:08:04,060 --> 00:08:07,569
+part of the Mandelbrot set now normally
+
+180
+00:08:07,569 --> 00:08:09,759
+when you see pictures of the Mandelbrot
+
+181
+00:08:09,759 --> 00:08:12,159
+set it just shows you the boundary
+
+182
+00:08:12,159 --> 00:08:14,830
+between the numbers that cause this
+
+183
+00:08:14,830 --> 00:08:16,719
+iterated equation to remain finite and
+
+184
+00:08:16,719 --> 00:08:20,050
+those that cause it to blow up but it
+
+185
+00:08:20,050 --> 00:08:21,940
+doesn't really show you how these
+
+186
+00:08:21,940 --> 00:08:25,150
+numbers stay finite so what we've done
+
+187
+00:08:25,150 --> 00:08:27,610
+here is actually iterated that equation
+
+188
+00:08:27,610 --> 00:08:30,849
+thousands of times and then plotted on
+
+189
+00:08:30,849 --> 00:08:31,520
+the z
+
+190
+00:08:31,520 --> 00:08:34,010
+axis the value that that iteration
+
+191
+00:08:34,010 --> 00:08:38,029
+actually takes so if we look from the
+
+192
+00:08:38,029 --> 00:08:42,529
+side what you'll actually see is the
+
+193
+00:08:42,529 --> 00:08:47,720
+bifurcation diagram it is part of this
+
+194
+00:08:47,720 --> 00:08:51,830
+Mandelbrot set so what's really going on
+
+195
+00:08:51,830 --> 00:08:53,390
+here well what this is showing us is
+
+196
+00:08:53,390 --> 00:08:56,180
+that all of the numbers in the main
+
+197
+00:08:56,180 --> 00:08:59,990
+cardioid they end up stabilizing on to a
+
+198
+00:08:59,990 --> 00:09:03,920
+single constant value but the numbers in
+
+199
+00:09:03,920 --> 00:09:06,440
+this main bulb will they end up
+
+200
+00:09:06,440 --> 00:09:08,300
+oscillating back and forth between two
+
+201
+00:09:08,300 --> 00:09:11,240
+values and in this bulb they end up
+
+202
+00:09:11,240 --> 00:09:13,550
+oscillating between four values they've
+
+203
+00:09:13,550 --> 00:09:16,010
+got a period of four and then eight and
+
+204
+00:09:16,010 --> 00:09:19,310
+then 16 32 and so on and then you hit
+
+205
+00:09:19,310 --> 00:09:21,890
+the chaotic part the chaotic part of the
+
+206
+00:09:21,890 --> 00:09:24,709
+bifurcation diagram happens out here on
+
+207
+00:09:24,709 --> 00:09:26,839
+what's called the needle of the
+
+208
+00:09:26,839 --> 00:09:28,279
+Mandelbrot set where the Mandelbrot set
+
+209
+00:09:28,279 --> 00:09:31,250
+gets really thin and you can see this
+
+210
+00:09:31,250 --> 00:09:33,740
+medallion here that looks like a smaller
+
+211
+00:09:33,740 --> 00:09:35,839
+version of the entire Mandelbrot set
+
+212
+00:09:35,839 --> 00:09:38,060
+well that corresponds to the window of
+
+213
+00:09:38,060 --> 00:09:40,490
+stability in the bifurcation plot with a
+
+214
+00:09:40,490 --> 00:09:43,160
+period of three now the bifurcation
+
+215
+00:09:43,160 --> 00:09:45,950
+diagram only exists on the real line
+
+216
+00:09:45,950 --> 00:09:48,800
+because we only put real numbers into
+
+217
+00:09:48,800 --> 00:09:52,190
+our equation but all of these bulbs off
+
+218
+00:09:52,190 --> 00:09:56,440
+of the main cardioid well they also have
+
+219
+00:09:56,440 --> 00:10:01,430
+periodic cycles of for example 3 or 4 or
+
+220
+00:10:01,430 --> 00:10:04,670
+5 and so you see these repeated ghostly
+
+221
+00:10:04,670 --> 00:10:08,440
+images if we look in the z axis
+
+222
+00:10:08,440 --> 00:10:11,420
+effectively they're oscillating between
+
+223
+00:10:11,420 --> 00:10:14,800
+these values as well
+
+224
+00:10:17,910 --> 00:10:20,800
+personally I find this extraordinarily
+
+225
+00:10:20,800 --> 00:10:23,530
+beautiful but if you're more practically
+
+226
+00:10:23,530 --> 00:10:25,630
+minded you may be asking but does this
+
+227
+00:10:25,630 --> 00:10:28,000
+equation actually model populations of
+
+228
+00:10:28,000 --> 00:10:30,750
+animals and the answer is yes
+
+229
+00:10:30,750 --> 00:10:32,800
+particularly in the controlled
+
+230
+00:10:32,800 --> 00:10:34,690
+environment scientists have set up in
+
+231
+00:10:34,690 --> 00:10:37,360
+labs what I find even more amazing is
+
+232
+00:10:37,360 --> 00:10:40,840
+how this one simple equation applies to
+
+233
+00:10:40,840 --> 00:10:44,080
+a huge range of totally unrelated areas
+
+234
+00:10:44,080 --> 00:10:49,090
+of science the first major experimental
+
+235
+00:10:49,090 --> 00:10:50,740
+confirmation came from a fluid
+
+236
+00:10:50,740 --> 00:10:53,650
+dynamicists named Lib Taber he created a
+
+237
+00:10:53,650 --> 00:10:56,500
+small rectangular box with mercury
+
+238
+00:10:56,500 --> 00:10:59,410
+inside and he used a small temperature
+
+239
+00:10:59,410 --> 00:11:02,530
+gradient to induce convection just two
+
+240
+00:11:02,530 --> 00:11:05,260
+counter-rotating cylinders of fluid
+
+241
+00:11:05,260 --> 00:11:07,660
+inside his box that's all the box was
+
+242
+00:11:07,660 --> 00:11:09,910
+large enough for and of course he
+
+243
+00:11:09,910 --> 00:11:11,380
+couldn't look in and see what the fluid
+
+244
+00:11:11,380 --> 00:11:13,090
+was doing so he measured the temperature
+
+245
+00:11:13,090 --> 00:11:16,480
+using a probe in the top and what he saw
+
+246
+00:11:16,480 --> 00:11:19,630
+was a regular spike a periodic spike in
+
+247
+00:11:19,630 --> 00:11:21,490
+the temperature that's like when the
+
+248
+00:11:21,490 --> 00:11:23,980
+logistic equation converges on a single
+
+249
+00:11:23,980 --> 00:11:26,200
+value but as he increased the
+
+250
+00:11:26,200 --> 00:11:28,480
+temperature gradient a wobble developed
+
+251
+00:11:28,480 --> 00:11:31,420
+on those rolling cylinders at half the
+
+252
+00:11:31,420 --> 00:11:33,670
+original frequency the spikes in
+
+253
+00:11:33,670 --> 00:11:35,110
+temperature were no longer the same
+
+254
+00:11:35,110 --> 00:11:38,320
+height instead they went back and forth
+
+255
+00:11:38,320 --> 00:11:40,660
+between two different heights he had
+
+256
+00:11:40,660 --> 00:11:44,590
+achieved period two and as he continued
+
+257
+00:11:44,590 --> 00:11:46,150
+to increase the temperature
+
+258
+00:11:46,150 --> 00:11:49,570
+he saw period doubling again now he had
+
+259
+00:11:49,570 --> 00:11:51,760
+four different temperatures before the
+
+260
+00:11:51,760 --> 00:11:55,000
+cycle repeated and then eight this was a
+
+261
+00:11:55,000 --> 00:11:57,340
+pretty spectacular confirmation of the
+
+262
+00:11:57,340 --> 00:11:59,880
+theory in a beautifully crafted
+
+263
+00:11:59,880 --> 00:12:02,860
+experiment but this was only the
+
+264
+00:12:02,860 --> 00:12:03,520
+beginning
+
+265
+00:12:03,520 --> 00:12:05,710
+scientists have studied the response of
+
+266
+00:12:05,710 --> 00:12:08,770
+our eyes and salamander eyes to
+
+267
+00:12:08,770 --> 00:12:11,260
+flickering lights and what they find is
+
+268
+00:12:11,260 --> 00:12:13,900
+a period doubling that once the light
+
+269
+00:12:13,900 --> 00:12:16,810
+reaches a certain rate of flickering our
+
+270
+00:12:16,810 --> 00:12:19,660
+eyes only respond to every other flicker
+
+271
+00:12:19,660 --> 00:12:22,810
+it's amazing in these papers to see the
+
+272
+00:12:22,810 --> 00:12:25,630
+bifurcation diagram emerge albeit a bit
+
+273
+00:12:25,630 --> 00:12:27,730
+fuzzy because it comes from real-world
+
+274
+00:12:27,730 --> 00:12:28,540
+data
+
+275
+00:12:28,540 --> 00:12:31,570
+in another study scientists gave rabbits
+
+276
+00:12:31,570 --> 00:12:33,910
+a drug that sent their hearts into
+
+277
+00:12:33,910 --> 00:12:34,720
+fibrillation
+
+278
+00:12:34,720 --> 00:12:36,340
+I guess they felt there were too many
+
+279
+00:12:36,340 --> 00:12:37,960
+rabbits out there I mean if you don't
+
+280
+00:12:37,960 --> 00:12:39,100
+know what fibrillation is it's where
+
+281
+00:12:39,100 --> 00:12:40,900
+your heart beats in an incredibly
+
+282
+00:12:40,900 --> 00:12:42,640
+irregular way and doesn't really pump
+
+283
+00:12:42,640 --> 00:12:44,710
+any blood so if you don't fix it you die
+
+284
+00:12:44,710 --> 00:12:47,560
+but what they found was on the path to
+
+285
+00:12:47,560 --> 00:12:48,400
+fibrillation
+
+286
+00:12:48,400 --> 00:12:51,130
+they found the period doubling route to
+
+287
+00:12:51,130 --> 00:12:53,560
+chaos the rabbits started out with a
+
+288
+00:12:53,560 --> 00:12:56,500
+periodic beat and then it went into a
+
+289
+00:12:56,500 --> 00:12:58,630
+two cycle two beats close together and
+
+290
+00:12:58,630 --> 00:13:01,420
+then a four cycle four different beats
+
+291
+00:13:01,420 --> 00:13:03,910
+before it repeated again and eventually
+
+292
+00:13:03,910 --> 00:13:06,910
+a periodic behavior now it was really
+
+293
+00:13:06,910 --> 00:13:09,340
+cool about this study was they monitored
+
+294
+00:13:09,340 --> 00:13:12,070
+the heart in real time and used chaos
+
+295
+00:13:12,070 --> 00:13:13,990
+theory to determine when to apply
+
+296
+00:13:13,990 --> 00:13:16,420
+electrical shocks to the heart to return
+
+297
+00:13:16,420 --> 00:13:18,760
+it to periodicity and they were able to
+
+298
+00:13:18,760 --> 00:13:19,870
+do that successfully
+
+299
+00:13:19,870 --> 00:13:23,140
+so they used chaos to control a heart
+
+300
+00:13:23,140 --> 00:13:25,240
+and figure out a smarter way to deliver
+
+301
+00:13:25,240 --> 00:13:27,520
+electric shocks to set it beating
+
+302
+00:13:27,520 --> 00:13:30,250
+normally again that's pretty amazing and
+
+303
+00:13:30,250 --> 00:13:33,190
+then there is the issue of the dripping
+
+304
+00:13:33,190 --> 00:13:35,950
+faucet most of us of course think of
+
+305
+00:13:35,950 --> 00:13:37,990
+dripping faucets as very regular
+
+306
+00:13:37,990 --> 00:13:41,650
+periodic objects but a lot of research
+
+307
+00:13:41,650 --> 00:13:43,840
+has gone into finding that once the flow
+
+308
+00:13:43,840 --> 00:13:45,790
+rate increases a little bit you get
+
+309
+00:13:45,790 --> 00:13:47,920
+period doubling so now the drips come
+
+310
+00:13:47,920 --> 00:13:50,350
+two at a time to tip to tip and
+
+311
+00:13:50,350 --> 00:13:52,780
+eventually from a dripping faucet you
+
+312
+00:13:52,780 --> 00:13:55,360
+can get chaotic behavior just by
+
+313
+00:13:55,360 --> 00:13:57,490
+adjusting the flow rate and you think
+
+314
+00:13:57,490 --> 00:13:59,770
+like what really is a faucet well
+
+315
+00:13:59,770 --> 00:14:02,110
+there's constant pressure water and a
+
+316
+00:14:02,110 --> 00:14:04,810
+constant size aperture and yet what
+
+317
+00:14:04,810 --> 00:14:08,470
+you're getting is chaotic dripping so
+
+318
+00:14:08,470 --> 00:14:10,810
+this is a really easy chaotic system you
+
+319
+00:14:10,810 --> 00:14:13,420
+can experiment with at home go open a
+
+320
+00:14:13,420 --> 00:14:15,640
+tap just a little bit and see if you can
+
+321
+00:14:15,640 --> 00:14:19,630
+get a periodic dripping in your house
+
+322
+00:14:19,630 --> 00:14:22,180
+the bifurcation diagram pops up in so
+
+323
+00:14:22,180 --> 00:14:24,370
+many different places that it starts to
+
+324
+00:14:24,370 --> 00:14:27,160
+feel spooky and I want to tell you
+
+325
+00:14:27,160 --> 00:14:29,110
+something that'll make it seem even
+
+326
+00:14:29,110 --> 00:14:29,829
+spookier
+
+327
+00:14:29,829 --> 00:14:32,230
+there was this physicist Mitchell
+
+328
+00:14:32,230 --> 00:14:35,019
+Feigenbaum who was looking at when the
+
+329
+00:14:35,019 --> 00:14:38,110
+bifurcations occur he divided the width
+
+330
+00:14:38,110 --> 00:14:40,690
+of each bifurcation section by the next
+
+331
+00:14:40,690 --> 00:14:44,230
+one and he found that ratio closed in on
+
+332
+00:14:44,230 --> 00:14:46,170
+this number four point six six nine
+
+333
+00:14:46,170 --> 00:14:49,149
+which is now called the Feigenbaum
+
+334
+00:14:49,149 --> 00:14:52,389
+constant the bifurcations come faster
+
+335
+00:14:52,389 --> 00:14:54,819
+and faster but in a ratio that
+
+336
+00:14:54,819 --> 00:14:59,019
+approaches this fixed value and no one
+
+337
+00:14:59,019 --> 00:15:00,910
+knows where this constant comes from it
+
+338
+00:15:00,910 --> 00:15:03,100
+doesn't seem to relate to any other
+
+339
+00:15:03,100 --> 00:15:06,730
+known physical constant so it is itself
+
+340
+00:15:06,730 --> 00:15:10,000
+a fundamental constant of nature what's
+
+341
+00:15:10,000 --> 00:15:12,850
+even crazier is that it doesn't have to
+
+342
+00:15:12,850 --> 00:15:15,790
+be the particular form of the equation I
+
+343
+00:15:15,790 --> 00:15:16,660
+showed you earlier
+
+344
+00:15:16,660 --> 00:15:20,050
+any equation that has a single hump if
+
+345
+00:15:20,050 --> 00:15:22,300
+you iterate it the way that we have so
+
+346
+00:15:22,300 --> 00:15:25,149
+you could use xn plus 1 equals sine X
+
+347
+00:15:25,149 --> 00:15:28,329
+for example if you iterate that one
+
+348
+00:15:28,329 --> 00:15:29,949
+again and again and again you will also
+
+349
+00:15:29,949 --> 00:15:33,399
+see bifurcations not only that but the
+
+350
+00:15:33,399 --> 00:15:36,250
+ratio of when those bifurcations occur
+
+351
+00:15:36,250 --> 00:15:40,180
+will have the same scaling for point six
+
+352
+00:15:40,180 --> 00:15:44,130
+six nine any single hump function
+
+353
+00:15:44,130 --> 00:15:47,949
+iterated will give you that fundamental
+
+354
+00:15:47,949 --> 00:15:51,939
+constant so why is this well it's
+
+355
+00:15:51,939 --> 00:15:55,509
+referred to as universality because
+
+356
+00:15:55,509 --> 00:15:58,000
+there seems to be something fundamental
+
+357
+00:15:58,000 --> 00:16:00,880
+and very Universal about this process
+
+358
+00:16:00,880 --> 00:16:04,120
+this type of equation and that constant
+
+359
+00:16:04,120 --> 00:16:07,930
+value in 1976 the biologist Robert May
+
+360
+00:16:07,930 --> 00:16:10,839
+wrote a paper in nature about this very
+
+361
+00:16:10,839 --> 00:16:11,589
+equation
+
+362
+00:16:11,589 --> 00:16:14,019
+it's sparked a revolution and people
+
+363
+00:16:14,019 --> 00:16:15,670
+looking into this stuff I mean that
+
+364
+00:16:15,670 --> 00:16:18,279
+papers been cited thousands of times and
+
+365
+00:16:18,279 --> 00:16:20,920
+in the paper he makes this plea that we
+
+366
+00:16:20,920 --> 00:16:24,100
+should teach students about this simple
+
+367
+00:16:24,100 --> 00:16:26,860
+equation because it gives you a new
+
+368
+00:16:26,860 --> 00:16:29,829
+intuition for ways in which simple
+
+369
+00:16:29,829 --> 00:16:31,580
+things simple equations
+
+370
+00:16:31,580 --> 00:16:36,070
+can create very complex behaviors and I
+
+371
+00:16:36,070 --> 00:16:39,080
+still think that today we don't really
+
+372
+00:16:39,080 --> 00:16:42,890
+teach this way I mean we teach simple
+
+373
+00:16:42,890 --> 00:16:44,780
+equations and simple outcomes because
+
+374
+00:16:44,780 --> 00:16:46,820
+those are the easy things to do and
+
+375
+00:16:46,820 --> 00:16:48,200
+those are the things that make sense
+
+376
+00:16:48,200 --> 00:16:51,140
+we're not gonna throw chaos at students
+
+377
+00:16:51,140 --> 00:16:53,450
+but maybe we should maybe we should
+
+378
+00:16:53,450 --> 00:16:55,340
+throw at least a little bit which is why
+
+379
+00:16:55,340 --> 00:16:57,890
+I've been so excited about chaos and I
+
+380
+00:16:57,890 --> 00:16:59,320
+am so excited about this equation
+
+381
+00:16:59,320 --> 00:17:03,110
+because you know how did I get to be 37
+
+382
+00:17:03,110 --> 00:17:04,760
+years old without hearing of the
+
+383
+00:17:04,760 --> 00:17:08,510
+Feigenbaum constant ever since I read
+
+384
+00:17:08,510 --> 00:17:11,329
+James Gleeks book chaos I have wanted to
+
+385
+00:17:11,329 --> 00:17:13,970
+make videos on this topic and now I'm
+
+386
+00:17:13,970 --> 00:17:15,380
+finally getting around to it and
+
+387
+00:17:15,380 --> 00:17:17,660
+hopefully I'm doing this topic justice
+
+388
+00:17:17,660 --> 00:17:20,660
+because I find it incredibly fascinating
+
+389
+00:17:20,660 --> 00:17:27,380
+and I hope you do too hey this video is
+
+390
+00:17:27,380 --> 00:17:29,330
+supported by viewers like you on patreon
+
+391
+00:17:29,330 --> 00:17:32,510
+and by fast hosts fast toasts is a
+
+392
+00:17:32,510 --> 00:17:34,790
+uk-based web hosting company whose goal
+
+393
+00:17:34,790 --> 00:17:36,800
+is to support UK businesses and
+
+394
+00:17:36,800 --> 00:17:39,200
+entrepreneurs at all levels providing
+
+395
+00:17:39,200 --> 00:17:40,760
+effective and affordable hosting
+
+396
+00:17:40,760 --> 00:17:43,280
+packages to suit any need for example
+
+397
+00:17:43,280 --> 00:17:45,380
+they provide easy registration for a
+
+398
+00:17:45,380 --> 00:17:47,990
+huge selection of domains with powerful
+
+399
+00:17:47,990 --> 00:17:50,090
+management features included plus they
+
+400
+00:17:50,090 --> 00:17:52,400
+offer hosting with unlimited bandwidth
+
+401
+00:17:52,400 --> 00:17:55,340
+and smart SSD storage they ensure
+
+402
+00:17:55,340 --> 00:17:57,860
+reliability and security using clustered
+
+403
+00:17:57,860 --> 00:18:00,230
+architecture and data centers in the UK
+
+404
+00:18:00,230 --> 00:18:03,440
+now if you are also in the UK you can
+
+405
+00:18:03,440 --> 00:18:05,000
+win two tickets to South by Southwest
+
+406
+00:18:05,000 --> 00:18:07,160
+including flights and accommodation if
+
+407
+00:18:07,160 --> 00:18:10,610
+you can answer my text question which is
+
+408
+00:18:10,610 --> 00:18:13,430
+which research organisation created the
+
+409
+00:18:13,430 --> 00:18:15,320
+first website if you can answer that
+
+410
+00:18:15,320 --> 00:18:17,240
+question then enter the competition by
+
+411
+00:18:17,240 --> 00:18:18,980
+clicking the link in the description and
+
+412
+00:18:18,980 --> 00:18:20,720
+you could be going to South by Southwest
+
+413
+00:18:20,720 --> 00:18:23,210
+courtesy of fast hosts their data
+
+414
+00:18:23,210 --> 00:18:24,890
+centers are based alongside their
+
+415
+00:18:24,890 --> 00:18:27,500
+offices in the UK so whether you go for
+
+416
+00:18:27,500 --> 00:18:29,510
+a lightweight web hosting package or a
+
+417
+00:18:29,510 --> 00:18:32,000
+fully fledged dedicated box you can talk
+
+418
+00:18:32,000 --> 00:18:34,700
+to their expert support teams 24/7 so I
+
+419
+00:18:34,700 --> 00:18:36,290
+want to thank fast hosts for supporting
+
+420
+00:18:36,290 --> 00:18:38,120
+veritasium and I want to thank you for
+
+421
+00:18:38,120 --> 00:18:40,480
+watching
+
